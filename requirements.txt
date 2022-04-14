@@ -1,0 +1,2 @@
+hdx-python-api==5.6.2
+unicodecsv==0.14.1
