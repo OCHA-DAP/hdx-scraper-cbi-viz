@@ -24,12 +24,11 @@ Asda Stores Ltd,CBi-PROVIDER-20
 AstraZeneca,CBi-PROVIDER-22
 Atlas Copco Group,CBi-PROVIDER-23
 "Aurora World, Inc.",CBi-PROVIDER-25
-BASF,CBi-PROVIDER-35
-BBVA,CBi-PROVIDER-37
-BCG,CBi-PROVIDER-38
+BASF,CBi-PROVIDER-36
+BBVA,CBi-PROVIDER-38
 BHP Foundation,CBi-PROVIDER-40
 BNY Mellon,CBi-PROVIDER-46
-BP plc,CBi-PROVIDER-50
+BP plc,CBi-PROVIDER-51
 Backcountry,CBi-PROVIDER-27
 Bain & Company,CBi-PROVIDER-28
 Baker Creek Heirloom Seed Company,CBi-PROVIDER-29
@@ -38,7 +37,8 @@ Banco Santander S.A.,CBi-PROVIDER-31
 Bandai Namco,CBi-PROVIDER-32
 Bank of Ireland,CBi-PROVIDER-33
 Barratt Foundation,CBi-PROVIDER-34
-Bayer AG,CBi-PROVIDER-36
+Barry Callebaut AG,CBi-PROVIDER-35
+Bayer AG,CBi-PROVIDER-37
 BentallGreenOak,CBi-PROVIDER-39
 BioNTech SE,CBi-PROVIDER-41
 Blockchain Charity Foundation USA,CBi-PROVIDER-42
@@ -48,261 +48,278 @@ Bloomsbury Publishing,CBi-PROVIDER-45
 Boeing Company Charitable Trust,CBi-PROVIDER-47
 Bolt Technology OÜ,CBi-PROVIDER-48
 Booz-Allen & Hamilton,CBi-PROVIDER-49
-CD PROJEKT Group,CBi-PROVIDER-57
-CTP,CBi-PROVIDER-69
-Camlog Biotechnologies GmbH,CBi-PROVIDER-51
-Canada Goose,CBi-PROVIDER-52
-Canadian Imperial Bank of Commerce,CBi-PROVIDER-53
-Canadian Pacific Railway,CBi-PROVIDER-54
-Cargolux,CBi-PROVIDER-55
-Carlsberg A/S,CBi-PROVIDER-56
-Chapman and Cutler LLP,CBi-PROVIDER-58
-Chesapeake Energy,CBi-PROVIDER-59
-Chubb Limited,CBi-PROVIDER-60
-"Civitas Resources, Inc.",CBi-PROVIDER-61
-Clorox Company,CBi-PROVIDER-62
-Columbia Sportswear,CBi-PROVIDER-63
-ConocoPhillips,CBi-PROVIDER-64
-Coyote Logistics,CBi-PROVIDER-65
-Cra-Z-Art,CBi-PROVIDER-67
-Crankstart Foundation,CBi-PROVIDER-66
-CropLife Europe,CBi-PROVIDER-68
-Currency.com,CBi-PROVIDER-70
-Cytel Inc.,CBi-PROVIDER-71
-Czapek & Cie SA,CBi-PROVIDER-72
-DST Global,CBi-PROVIDER-84
-"Daiichi Sankyo Company, Limited",CBi-PROVIDER-73
-Daily Mail and General Trust,CBi-PROVIDER-74
-Danone S.A.,CBi-PROVIDER-75
-Delta Air Lines,CBi-PROVIDER-76
-Derald H. Ruttenberg Foundation,CBi-PROVIDER-77
-Devon Energy,CBi-PROVIDER-78
-"Diamondback Energy, Inc.",CBi-PROVIDER-79
-Don't Nod Entertainment SA,CBi-PROVIDER-80
-Door County Candle Company,CBi-PROVIDER-81
-Dow Chemical Company,CBi-PROVIDER-82
-Drax Group PLC,CBi-PROVIDER-83
-Dunamu Inc.,CBi-PROVIDER-85
-Dupont,CBi-PROVIDER-86
-ERSTE Foundation,CBi-PROVIDER-91
-Eli Lilly and Company,CBi-PROVIDER-87
-Eli Lilly and Company Foundation,CBi-PROVIDER-88
-Embracer Group,CBi-PROVIDER-89
-Epic Games,CBi-PROVIDER-90
-"Esmark, Inc.",CBi-PROVIDER-92
-Eurofins Scientific Foundation,CBi-PROVIDER-93
-Eurol Foundation,CBi-PROVIDER-94
-ExxonMobil,CBi-PROVIDER-95
-FOX Corporation,CBi-PROVIDER-108
-Fashion Institute of Design & Merchandising,CBi-PROVIDER-96
-"Fast Retailing Co., Ltd.",CBi-PROVIDER-97
-Federation of the European Sporting Goods Industry,CBi-PROVIDER-99
-Fidelity Investments,CBi-PROVIDER-100
-Fondation CHANEL,CBi-PROVIDER-101
-Fondation Orange,CBi-PROVIDER-102
-Fondazione Cariplo,CBi-PROVIDER-103
-Fondazione Generali,CBi-PROVIDER-104
-Forada Limited,CBi-PROVIDER-105
-Ford Motor Company Fund,CBi-PROVIDER-106
-Fortum Oyj,CBi-PROVIDER-107
-FreeWill Co.,CBi-PROVIDER-109
-Fujitsu Group,CBi-PROVIDER-110
-Fuller Giving Foundation,CBi-PROVIDER-111
-Fundacion MAPFRE,CBi-PROVIDER-115
-"Fundación ""la Caixa""",CBi-PROVIDER-112
-Fundación A.M.A.,CBi-PROVIDER-113
-Fundación Aon España,CBi-PROVIDER-114
-Fédération nationale des Caisses d’Epargne,CBi-PROVIDER-98
-GE Foundation,CBi-PROVIDER-117
-GE Healthcare,CBi-PROVIDER-118
-Ganni,CBi-PROVIDER-116
-General Motors,CBi-PROVIDER-119
-Gilead Foundation,CBi-PROVIDER-120
-GlaxoSmithKline plc,CBi-PROVIDER-121
-Global Star Logistics,CBi-PROVIDER-122
-Google.org,CBi-PROVIDER-123
-Grammarly Inc.,CBi-PROVIDER-124
-Group 1001 Resources,CBi-PROVIDER-125
-Groupe BPCE,CBi-PROVIDER-126
-Groupe Crédit Agricole,CBi-PROVIDER-127
-Gucci,CBi-PROVIDER-128
-H&M Hennes & Mauritz AB,CBi-PROVIDER-129
-H. Lundbeck A/S,CBi-PROVIDER-130
-HELP Logistics,CBi-PROVIDER-133
-Heartland,CBi-PROVIDER-131
-Helly Hansen,CBi-PROVIDER-132
-Hendrick Automotive,CBi-PROVIDER-134
-Hilco Global,CBi-PROVIDER-135
-"Hitachi, Ltd.",CBi-PROVIDER-136
-Home Capital Group,CBi-PROVIDER-137
-Hotel Engine,CBi-PROVIDER-138
-"Humble Bundle, Inc.",CBi-PROVIDER-139
-Hyundai Motor Company,CBi-PROVIDER-140
-IBM,CBi-PROVIDER-141
-ICR Touch,CBi-PROVIDER-143
-INFICON Holding AG,CBi-PROVIDER-145
-Iceland Foods Charitable Foundation,CBi-PROVIDER-142
-Ikea Foundation,CBi-PROVIDER-144
-Inflexion Foundation,CBi-PROVIDER-146
-Intel Foundation,CBi-PROVIDER-147
-JPMorgan Chase & Co.,CBi-PROVIDER-154
-JYSK,CBi-PROVIDER-155
-James M. Cox Foundation,CBi-PROVIDER-148
-Japan Sporting Goods Industries Association,CBi-PROVIDER-149
-John Legere Family Foundation,CBi-PROVIDER-150
-John Lewis Partnership,CBi-PROVIDER-151
-Johnson & Johnson,CBi-PROVIDER-152
-Jonathan Molot and Hattie Ruttenberg Foundation,CBi-PROVIDER-153
-KOEI TECMO,CBi-PROVIDER-162
-KPMG LLP,CBi-PROVIDER-163
-Kansas City Southern Charitable Fund,CBi-PROVIDER-156
-Kerry Group plc,CBi-PROVIDER-157
-KeyBank Foundation,CBi-PROVIDER-158
-Kikkoman,CBi-PROVIDER-159
-Kimberly-Clark,CBi-PROVIDER-160
-Knockward Ltd,CBi-PROVIDER-161
-Kroger Co. Zero Hunger Zero Waste Foundation,CBi-PROVIDER-164
-Kuehne + Nagel International AG,CBi-PROVIDER-165
-Kurt Geiger,CBi-PROVIDER-166
-LEGO Foundation,CBi-PROVIDER-167
-LVMH Group,CBi-PROVIDER-172
-Liebherr Foundation,CBi-PROVIDER-168
-"Lincoln Electric Holdings, Inc.",CBi-PROVIDER-169
-Lindt & Sprüngli AG,CBi-PROVIDER-170
-Louis Vuitton,CBi-PROVIDER-171
-MSA Safety,CBi-PROVIDER-193
-Magna International,CBi-PROVIDER-173
-Marks & Spencer,CBi-PROVIDER-174
-"Mars, Inc.",CBi-PROVIDER-175
-Mastercard,CBi-PROVIDER-176
-Mercedes-Benz,CBi-PROVIDER-177
-Merck KGaA,CBi-PROVIDER-178
-"Meta Platforms, Inc.",CBi-PROVIDER-179
-Metro AG,CBi-PROVIDER-180
-Metro Supply Chain,CBi-PROVIDER-181
-Michael & Susan Dell Foundation,CBi-PROVIDER-182
-Micky and Madeleine Arison Family Foundation,CBi-PROVIDER-183
-Microsoft Corporation,CBi-PROVIDER-184
-Micys Company S.p.A.,CBi-PROVIDER-185
-Mitsubishi Electric,CBi-PROVIDER-186
-Mondi plc,CBi-PROVIDER-187
-Mondou,CBi-PROVIDER-188
-Moody's Foundation,CBi-PROVIDER-189
-Moose Toys,CBi-PROVIDER-190
-Morrison & Foerster Foundation,CBi-PROVIDER-191
-Morrison Supermarkets,CBi-PROVIDER-192
-NCR Foundation,CBi-PROVIDER-195
-NanoTemper Technologies,CBi-PROVIDER-194
-Neptune Energy,CBi-PROVIDER-196
-New York Life,CBi-PROVIDER-197
-Newmont Corporation,CBi-PROVIDER-198
-Nike Foundation,CBi-PROVIDER-199
-"Nissan Motor Co., Ltd.",CBi-PROVIDER-200
-Norton Rose Fulbright,CBi-PROVIDER-201
-Novartis AG,CBi-PROVIDER-202
-Novelis Corporation,CBi-PROVIDER-203
-Novo Nordisk Foundation,CBi-PROVIDER-204
-Oak Foundation,CBi-PROVIDER-205
-Olam International,CBi-PROVIDER-206
-Old Navy,CBi-PROVIDER-207
-OpenText,CBi-PROVIDER-208
-"Orrick, Herrington & Sutcliffe",CBi-PROVIDER-209
-Pacific Life Foundation,CBi-PROVIDER-210
-Pandora,CBi-PROVIDER-211
-"Pepsico Foundation, Inc.",CBi-PROVIDER-212
-"Phillips Auctioneers, LLC",CBi-PROVIDER-213
-Pioneer Natural Resources,CBi-PROVIDER-214
-Plarium,CBi-PROVIDER-215
-Pokémon Company,CBi-PROVIDER-216
-"Popular, Inc.",CBi-PROVIDER-217
-Porsche AG,CBi-PROVIDER-218
-PricewaterhouseCoopers,CBi-PROVIDER-219
-Procter & Gamble,CBi-PROVIDER-220
-"Punto Fa, S.L.",CBi-PROVIDER-221
-RSM US Foundation,CBi-PROVIDER-228
-Realdania,CBi-PROVIDER-222
-Revolut,CBi-PROVIDER-223
-"Riot Games, Inc.",CBi-PROVIDER-224
-Riverview Community Bank,CBi-PROVIDER-225
-Rockwell Automation,CBi-PROVIDER-226
-Royal Bank of Canada,CBi-PROVIDER-227
-Russel Metals Inc. ,CBi-PROVIDER-229
-S&P Global Foundation,CBi-PROVIDER-230
-Sainsbury's,CBi-PROVIDER-231
-"Salesforce, Inc.",CBi-PROVIDER-232
-Salvatore Ferragamo S.p.A.,CBi-PROVIDER-233
-Samsung Electronics,CBi-PROVIDER-234
-Sanofi S.A.,CBi-PROVIDER-235
-Sappi Limited,CBi-PROVIDER-236
-Schörling Family Foundation,CBi-PROVIDER-237
-Sentara Healthcare,CBi-PROVIDER-238
-SentinelOne,CBi-PROVIDER-239
-Shiseido Group,CBi-PROVIDER-240
-Sidney E. Frank Foundation,CBi-PROVIDER-241
-Siemens Caring Hands,CBi-PROVIDER-242
-Signet Love Inspires Foundation,CBi-PROVIDER-243
-Skoda,CBi-PROVIDER-244
-"Smithfield Foods, Inc.",CBi-PROVIDER-245
-"Snap, Inc.",CBi-PROVIDER-246
-Societe Generale Group,CBi-PROVIDER-247
-Sologenic Development Foundation,CBi-PROVIDER-248
-Sonoco Products Company,CBi-PROVIDER-249
-Sony Group,CBi-PROVIDER-250
-"Southeastern Grocers, Inc.",CBi-PROVIDER-251
-Spiegel Family Fund,CBi-PROVIDER-252
-Square Enix,CBi-PROVIDER-253
-Sun Life Financial Inc.,CBi-PROVIDER-254
-Supercell Oy,CBi-PROVIDER-255
-T. Rowe Price Foundation,CBi-PROVIDER-256
-TELUS Friendly Future Foundation,CBi-PROVIDER-261
-TJ Morris Ltd,CBi-PROVIDER-268
-Taiwan Sporting Goods Manufacturers Association,CBi-PROVIDER-257
-Takeda Pharmaceutical Company Ltd,CBi-PROVIDER-258
-Techland S.A.,CBi-PROVIDER-259
-Telus Corporation,CBi-PROVIDER-260
-Tesco PLC,CBi-PROVIDER-262
-Teva Pharmaceutical Industries Ltd.,CBi-PROVIDER-263
-Texas Instruments Foundation,CBi-PROVIDER-264
-The Body Shop International Limited,CBi-PROVIDER-265
-The Carlsberg Foundation and the Tuborg Foundation,CBi-PROVIDER-266
-The Nippon Foundation,CBi-PROVIDER-267
-Tom Ford SA,CBi-PROVIDER-269
-Toyota Motor Corporation,CBi-PROVIDER-270
-Tripadvisor Foundation,CBi-PROVIDER-271
-Uber Technologies Inc.,CBi-PROVIDER-272
-Ukrainian Credit Union ,CBi-PROVIDER-273
-Unilever,CBi-PROVIDER-274
-Union Pacific Railroad,CBi-PROVIDER-275
-United Health Foundation,CBi-PROVIDER-276
-VF Foundation,CBi-PROVIDER-280
-Valentino,CBi-PROVIDER-277
-Vantage Towers,CBi-PROVIDER-278
-Verizon Communications Inc. ,CBi-PROVIDER-279
-Visa Foundation,CBi-PROVIDER-281
-Vodafone,CBi-PROVIDER-282
-Vodafone Czech Republic a.s.,CBi-PROVIDER-283
-Vodafone Germany,CBi-PROVIDER-284
-Vodafone Group Foundation,CBi-PROVIDER-285
-Vodafone Hungary,CBi-PROVIDER-286
-Vodafone Italy Foundation,CBi-PROVIDER-287
-Vodafone Luxembourg Foundation,CBi-PROVIDER-288
-Vodafone Romania,CBi-PROVIDER-289
-Vodafone Spain Foundation,CBi-PROVIDER-290
-Vodafone UK,CBi-PROVIDER-291
-Volkswagen AG,CBi-PROVIDER-292
-Volvo,CBi-PROVIDER-293
-WELL Health Technologies,CBi-PROVIDER-295
-Wabtec Foundation,CBi-PROVIDER-294
-Western Union Foundation,CBi-PROVIDER-296
-White & Case,CBi-PROVIDER-297
-William Demant Foundation,CBi-PROVIDER-298
-World Federation of the Sporting Goods Industry,CBi-PROVIDER-299
-"Wyndham Hotels & Resorts, Inc.",CBi-PROVIDER-300
-XTX Markets,CBi-PROVIDER-301
-Yum! Brands Foundation,CBi-PROVIDER-302
-Yuri and Julia Milner Foundation,CBi-PROVIDER-303
-Z Zurich Foundation,CBi-PROVIDER-304
-Zegna N.V.,CBi-PROVIDER-305
-Zound Industries,CBi-PROVIDER-306
+Boston Consulting Group,CBi-PROVIDER-50
+CD PROJEKT Group,CBi-PROVIDER-58
+CNH Industrial N.V.,CBi-PROVIDER-65
+CTP,CBi-PROVIDER-74
+Camlog Biotechnologies GmbH,CBi-PROVIDER-52
+Canada Goose,CBi-PROVIDER-53
+Canadian Imperial Bank of Commerce,CBi-PROVIDER-54
+Canadian Pacific Railway,CBi-PROVIDER-55
+Cargolux,CBi-PROVIDER-56
+Carlsberg A/S,CBi-PROVIDER-57
+Chapman and Cutler LLP,CBi-PROVIDER-59
+Chellaram Foundation,CBi-PROVIDER-60
+Chesapeake Energy,CBi-PROVIDER-61
+Chubb Limited,CBi-PROVIDER-62
+"Civitas Resources, Inc.",CBi-PROVIDER-63
+Clorox Company,CBi-PROVIDER-64
+Coca-Cola Europacific Partners plc,CBi-PROVIDER-66
+Coca-Cola Foundation,CBi-PROVIDER-67
+Columbia Sportswear,CBi-PROVIDER-68
+ConocoPhillips,CBi-PROVIDER-69
+Coyote Logistics,CBi-PROVIDER-70
+Cra-Z-Art,CBi-PROVIDER-72
+Crankstart Foundation,CBi-PROVIDER-71
+CropLife Europe,CBi-PROVIDER-73
+Currency.com,CBi-PROVIDER-75
+Cytel Inc.,CBi-PROVIDER-76
+Czapek & Cie SA,CBi-PROVIDER-77
+DST Global,CBi-PROVIDER-89
+"Daiichi Sankyo Company, Limited",CBi-PROVIDER-78
+Daily Mail and General Trust,CBi-PROVIDER-79
+Danone S.A.,CBi-PROVIDER-80
+Delta Air Lines,CBi-PROVIDER-81
+Derald H. Ruttenberg Foundation,CBi-PROVIDER-82
+Devon Energy,CBi-PROVIDER-83
+"Diamondback Energy, Inc.",CBi-PROVIDER-84
+Don't Nod Entertainment SA,CBi-PROVIDER-85
+Door County Candle Company,CBi-PROVIDER-86
+Dow Chemical Company,CBi-PROVIDER-87
+Drax Group PLC,CBi-PROVIDER-88
+Dunamu Inc.,CBi-PROVIDER-90
+Dupont,CBi-PROVIDER-91
+ERSTE Foundation,CBi-PROVIDER-96
+Eli Lilly and Company,CBi-PROVIDER-92
+Eli Lilly and Company Foundation,CBi-PROVIDER-93
+Embracer Group,CBi-PROVIDER-94
+Epic Games,CBi-PROVIDER-95
+"Esmark, Inc.",CBi-PROVIDER-97
+Eurol Foundation,CBi-PROVIDER-98
+ExxonMobil,CBi-PROVIDER-99
+FOX Corporation,CBi-PROVIDER-115
+Fashion Institute of Design & Merchandising,CBi-PROVIDER-100
+"Fast Retailing Co., Ltd.",CBi-PROVIDER-101
+Federation of the European Sporting Goods Industry,CBi-PROVIDER-103
+Fidelity Investments Inc.,CBi-PROVIDER-104
+Fondation CHANEL,CBi-PROVIDER-105
+Fondation Egis,CBi-PROVIDER-106
+Fondation Groupe Pierre & Vacances-Center Parcs,CBi-PROVIDER-107
+Fondation Orange,CBi-PROVIDER-108
+Fondation RAJA-Danièle Marcovici,CBi-PROVIDER-109
+Fondazione Cariplo,CBi-PROVIDER-110
+Fondazione Generali,CBi-PROVIDER-111
+Forada Limited,CBi-PROVIDER-112
+Ford Motor Company Fund,CBi-PROVIDER-113
+Fortum Oyj,CBi-PROVIDER-114
+FreeWill Co.,CBi-PROVIDER-116
+Fujitsu Group,CBi-PROVIDER-117
+Fuller Giving Foundation,CBi-PROVIDER-118
+Fundacion MAPFRE,CBi-PROVIDER-122
+"Fundación ""la Caixa""",CBi-PROVIDER-119
+Fundación A.M.A.,CBi-PROVIDER-120
+Fundación Aon España,CBi-PROVIDER-121
+Fédération nationale des Caisses d’Epargne,CBi-PROVIDER-102
+GE Foundation,CBi-PROVIDER-124
+GE Healthcare,CBi-PROVIDER-125
+Ganni,CBi-PROVIDER-123
+General Motors,CBi-PROVIDER-126
+Gilead Foundation,CBi-PROVIDER-127
+GlaxoSmithKline plc,CBi-PROVIDER-128
+Global Star Logistics,CBi-PROVIDER-129
+Google.org,CBi-PROVIDER-130
+Grammarly Inc.,CBi-PROVIDER-131
+Group 1001 Resources,CBi-PROVIDER-132
+Groupe BPCE,CBi-PROVIDER-133
+Groupe Caisse d'épargne,CBi-PROVIDER-134
+Groupe Crédit Agricole,CBi-PROVIDER-135
+Gucci,CBi-PROVIDER-136
+H&M Hennes & Mauritz AB,CBi-PROVIDER-137
+H. Lundbeck A/S,CBi-PROVIDER-138
+HELP Logistics,CBi-PROVIDER-141
+Heartland,CBi-PROVIDER-139
+Helly Hansen,CBi-PROVIDER-140
+Hendrick Automotive,CBi-PROVIDER-142
+Hilco Global,CBi-PROVIDER-143
+"Hitachi, Ltd.",CBi-PROVIDER-144
+Home Capital Group,CBi-PROVIDER-145
+Hotel Engine,CBi-PROVIDER-146
+"Humble Bundle, Inc.",CBi-PROVIDER-147
+Hyundai Motor Company,CBi-PROVIDER-148
+IBM,CBi-PROVIDER-149
+ICR Touch,CBi-PROVIDER-151
+INFICON Holding AG,CBi-PROVIDER-153
+Iceland Foods Charitable Foundation,CBi-PROVIDER-150
+Ikea Foundation,CBi-PROVIDER-152
+Inflexion Foundation,CBi-PROVIDER-154
+Ingersoll Rand Inc.,CBi-PROVIDER-155
+Intel Foundation,CBi-PROVIDER-156
+Interogo Holding AG,CBi-PROVIDER-157
+JPMorgan Chase & Co.,CBi-PROVIDER-164
+JYSK,CBi-PROVIDER-165
+James M. Cox Foundation,CBi-PROVIDER-158
+Japan Sporting Goods Industries Association,CBi-PROVIDER-159
+John Legere Family Foundation,CBi-PROVIDER-160
+John Lewis Partnership,CBi-PROVIDER-161
+Johnson & Johnson Foundation,CBi-PROVIDER-162
+Jonathan Molot and Hattie Ruttenberg Foundation,CBi-PROVIDER-163
+KOEI TECMO,CBi-PROVIDER-172
+KPMG LLP,CBi-PROVIDER-174
+Kansas City Southern Charitable Fund,CBi-PROVIDER-166
+Kerry Group plc,CBi-PROVIDER-167
+KeyBank Foundation,CBi-PROVIDER-168
+Kikkoman,CBi-PROVIDER-169
+Kimberly-Clark,CBi-PROVIDER-170
+Knockward Ltd,CBi-PROVIDER-171
+Koninklijke DSM N.V.,CBi-PROVIDER-173
+Kroger Co. Zero Hunger Zero Waste Foundation,CBi-PROVIDER-175
+Kuehne + Nagel International AG,CBi-PROVIDER-176
+Kurt Geiger,CBi-PROVIDER-177
+LEGO Foundation,CBi-PROVIDER-178
+LVMH Group,CBi-PROVIDER-183
+Liebherr Foundation,CBi-PROVIDER-179
+"Lincoln Electric Holdings, Inc.",CBi-PROVIDER-180
+Lindt & Sprüngli AG,CBi-PROVIDER-181
+Louis Vuitton,CBi-PROVIDER-182
+MSA Safety,CBi-PROVIDER-204
+Magna International,CBi-PROVIDER-184
+Marks & Spencer,CBi-PROVIDER-185
+"Mars, Inc.",CBi-PROVIDER-186
+Mastercard,CBi-PROVIDER-187
+Mercedes-Benz,CBi-PROVIDER-188
+Merck KGaA,CBi-PROVIDER-189
+"Meta Platforms, Inc.",CBi-PROVIDER-190
+Metro AG,CBi-PROVIDER-191
+Metro Supply Chain,CBi-PROVIDER-192
+Michael & Susan Dell Foundation,CBi-PROVIDER-193
+Micky and Madeleine Arison Family Foundation,CBi-PROVIDER-194
+Microsoft Corporation,CBi-PROVIDER-195
+Micys Company S.p.A.,CBi-PROVIDER-196
+Mitsubishi Electric,CBi-PROVIDER-197
+Mondi plc,CBi-PROVIDER-198
+Mondou,CBi-PROVIDER-199
+Moody's Foundation,CBi-PROVIDER-200
+Moose Toys,CBi-PROVIDER-201
+Morrison & Foerster Foundation,CBi-PROVIDER-202
+Morrison Supermarkets,CBi-PROVIDER-203
+NCR Foundation,CBi-PROVIDER-206
+NanoTemper Technologies,CBi-PROVIDER-205
+Neptune Energy,CBi-PROVIDER-207
+New York Life,CBi-PROVIDER-208
+Newmont Corporation,CBi-PROVIDER-209
+Nike Foundation,CBi-PROVIDER-210
+"Nissan Motor Co., Ltd.",CBi-PROVIDER-211
+Norton Rose Fulbright,CBi-PROVIDER-212
+Novartis AG,CBi-PROVIDER-213
+Novelis Corporation,CBi-PROVIDER-214
+Novo Nordisk Foundation,CBi-PROVIDER-215
+Oak Foundation,CBi-PROVIDER-216
+Olam International,CBi-PROVIDER-217
+Old Navy,CBi-PROVIDER-218
+Olympus Corporation,CBi-PROVIDER-219
+OpenText,CBi-PROVIDER-220
+"Orrick, Herrington & Sutcliffe",CBi-PROVIDER-221
+Pacific Life Foundation,CBi-PROVIDER-222
+Pandora,CBi-PROVIDER-223
+"Pepsico Foundation, Inc.",CBi-PROVIDER-224
+"Phillips Auctioneers, LLC",CBi-PROVIDER-225
+Pioneer Natural Resources,CBi-PROVIDER-226
+Plarium,CBi-PROVIDER-227
+Pokémon Company,CBi-PROVIDER-228
+"Popular, Inc.",CBi-PROVIDER-229
+Porsche AG,CBi-PROVIDER-230
+PricewaterhouseCoopers,CBi-PROVIDER-231
+Procter & Gamble,CBi-PROVIDER-232
+"Punto Fa, S.L.",CBi-PROVIDER-233
+RSM US Foundation,CBi-PROVIDER-240
+Realdania,CBi-PROVIDER-234
+Revolut,CBi-PROVIDER-235
+"Riot Games, Inc.",CBi-PROVIDER-236
+Riverview Community Bank,CBi-PROVIDER-237
+Rockwell Automation,CBi-PROVIDER-238
+Royal Bank of Canada,CBi-PROVIDER-239
+Russel Metals Inc. ,CBi-PROVIDER-241
+S&P Global Foundation,CBi-PROVIDER-242
+Sainsbury's,CBi-PROVIDER-243
+"Salesforce, Inc.",CBi-PROVIDER-244
+Salvatore Ferragamo S.p.A.,CBi-PROVIDER-245
+Samsung Electronics,CBi-PROVIDER-246
+Sanofi S.A.,CBi-PROVIDER-247
+Sappi Limited,CBi-PROVIDER-248
+Schörling Family Foundation,CBi-PROVIDER-249
+Sentara Healthcare,CBi-PROVIDER-250
+SentinelOne,CBi-PROVIDER-251
+Share Our Strength,CBi-PROVIDER-252
+Shiseido Group,CBi-PROVIDER-253
+Sidney E. Frank Foundation,CBi-PROVIDER-254
+Siemens Caring Hands,CBi-PROVIDER-255
+Signet Love Inspires Foundation,CBi-PROVIDER-256
+Skoda,CBi-PROVIDER-257
+"Smithfield Foods, Inc.",CBi-PROVIDER-258
+"Snap, Inc.",CBi-PROVIDER-259
+Societe Generale Group,CBi-PROVIDER-260
+Sologenic Development Foundation,CBi-PROVIDER-261
+Sonoco Products Company,CBi-PROVIDER-262
+Sony Group,CBi-PROVIDER-263
+"Southeastern Grocers, Inc.",CBi-PROVIDER-264
+Spiegel Family Fund,CBi-PROVIDER-265
+Square Enix,CBi-PROVIDER-266
+Sun Life Financial Inc.,CBi-PROVIDER-267
+Supercell Oy,CBi-PROVIDER-268
+T. Rowe Price Foundation,CBi-PROVIDER-269
+TELUS Friendly Future Foundation,CBi-PROVIDER-274
+TJ Morris Ltd,CBi-PROVIDER-283
+Taiwan Sporting Goods Manufacturers Association,CBi-PROVIDER-270
+Takeda Pharmaceutical Company Ltd,CBi-PROVIDER-271
+Techland S.A.,CBi-PROVIDER-272
+Telus Corporation,CBi-PROVIDER-273
+Tesco PLC,CBi-PROVIDER-275
+Teva Pharmaceutical Industries Ltd.,CBi-PROVIDER-276
+Texas Instruments Foundation,CBi-PROVIDER-277
+The Body Shop International Limited,CBi-PROVIDER-278
+The Carlsberg Foundation and the Tuborg Foundation,CBi-PROVIDER-279
+"The Interpublic Group of Companies, Inc.",CBi-PROVIDER-280
+The Nippon Foundation,CBi-PROVIDER-281
+TikTok Inc.,CBi-PROVIDER-282
+Tom Ford SA,CBi-PROVIDER-284
+Toyota Motor Corporation,CBi-PROVIDER-285
+Tripadvisor Foundation,CBi-PROVIDER-286
+U.S. Travel Association,CBi-PROVIDER-287
+Uber Technologies Inc.,CBi-PROVIDER-288
+Ukrainian Credit Union ,CBi-PROVIDER-289
+Unilever,CBi-PROVIDER-290
+Union Pacific Railroad,CBi-PROVIDER-291
+United Health Foundation,CBi-PROVIDER-292
+VF Foundation,CBi-PROVIDER-296
+Valentino,CBi-PROVIDER-293
+Vantage Towers,CBi-PROVIDER-294
+Verizon Communications Inc. ,CBi-PROVIDER-295
+Visa Foundation,CBi-PROVIDER-297
+Vodafone,CBi-PROVIDER-298
+Vodafone Czech Republic a.s.,CBi-PROVIDER-299
+Vodafone Germany,CBi-PROVIDER-300
+Vodafone Group Foundation,CBi-PROVIDER-301
+Vodafone Hungary,CBi-PROVIDER-302
+Vodafone Italy Foundation,CBi-PROVIDER-303
+Vodafone Luxembourg Foundation,CBi-PROVIDER-304
+Vodafone Romania,CBi-PROVIDER-305
+Vodafone Spain Foundation,CBi-PROVIDER-306
+Vodafone UK,CBi-PROVIDER-307
+Volkswagen AG,CBi-PROVIDER-308
+Volvo,CBi-PROVIDER-309
+WELL Health Technologies,CBi-PROVIDER-311
+Wabtec Foundation,CBi-PROVIDER-310
+Western Union Foundation,CBi-PROVIDER-312
+White & Case,CBi-PROVIDER-313
+William Demant Foundation,CBi-PROVIDER-314
+Wings for Things Foundation Inc.,CBi-PROVIDER-315
+World Federation of the Sporting Goods Industry,CBi-PROVIDER-316
+"Wyndham Hotels & Resorts, Inc.",CBi-PROVIDER-317
+XTX Markets,CBi-PROVIDER-318
+Yum! Brands Foundation,CBi-PROVIDER-319
+Yuri and Julia Milner Foundation,CBi-PROVIDER-320
+Z Zurich Foundation,CBi-PROVIDER-321
+Zegna N.V.,CBi-PROVIDER-322
+Zound Industries,CBi-PROVIDER-323
 [redacted] Donor A,CBi-PROVIDER-1
 aviado GmbH,CBi-PROVIDER-26

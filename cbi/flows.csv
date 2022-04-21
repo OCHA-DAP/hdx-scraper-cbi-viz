@@ -1,436 +1,462 @@
 Reporting org id,Reporting org name,Reporting org type,Provider org id,Provider org name,Provider org type,Receiver org id,Receiver org name,Receiver org type,Humanitarian?,Strict?,Transaction direction,Total money
 #org+id+reporting,#org+name+reporting,#org+reporting+type,#org+id+provider,#org+name+provider,#org+type+provider,#org+id+receiver,#org+name+receiver,#org+type+receiver,#indicator+bool+humanitarian,#indicator+bool+strict,#x_transaction_direction,#value+total
 CBi-PROVIDER-1,[redacted] Donor A,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,2500000
-CBi-PROVIDER-1,[redacted] Donor A,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,2500000
+CBi-PROVIDER-1,[redacted] Donor A,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,2425000
 CBi-PROVIDER-2,3M,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2752000
 CBi-PROVIDER-3,Abbott Laboratories,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2000000
 CBi-PROVIDER-4,Accenture,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
 CBi-PROVIDER-5,AGCO Agriculture Foundation,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,100000
 CBi-PROVIDER-6,Akelius Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,52000000
-CBi-PROVIDER-7,ALDI SOUTH Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5451195
-CBi-PROVIDER-8,Allianz SE,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,9807210
-CBi-PROVIDER-8,Allianz SE,70,,,,CBi-RECEIVER-5,German Red Cross,,1,1,outgoing,1089690
+CBi-PROVIDER-7,ALDI SOUTH Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5321314
+CBi-PROVIDER-7,ALDI SOUTH Group,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,129881
+CBi-PROVIDER-8,Allianz SE,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,8691139
+CBi-PROVIDER-8,Allianz SE,70,,,,CBi-RECEIVER-6,German Red Cross,,1,1,outgoing,1089690
+CBi-PROVIDER-8,Allianz SE,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1116071
 CBi-PROVIDER-9,"Amazon.com, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-9,"Amazon.com, Inc.",70,,,,CBi-RECEIVER-6,International Organization for Migration (IOM),,1,1,outgoing,50000
+CBi-PROVIDER-9,"Amazon.com, Inc.",70,,,,CBi-RECEIVER-7,International Organization for Migration (IOM),,1,1,outgoing,50000
 CBi-PROVIDER-9,"Amazon.com, Inc.",70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,180000
 CBi-PROVIDER-10,American Express Company,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,250000
-CBi-PROVIDER-10,American Express Company,70,,,,CBi-RECEIVER-7,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-10,American Express Company,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-10,American Express Company,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,250000
+CBi-PROVIDER-10,American Express Company,70,,,,CBi-RECEIVER-8,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-10,American Express Company,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-10,American Express Company,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,250000
 CBi-PROVIDER-11,AmerisourceBergen Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,500000
-CBi-PROVIDER-12,"Amgen Foundation, Inc.",70,,,,CBi-RECEIVER-7,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-12,"Amgen Foundation, Inc.",70,,,,CBi-RECEIVER-10,Project Hope [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-12,"Amgen Foundation, Inc.",70,,,,CBi-RECEIVER-8,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-12,"Amgen Foundation, Inc.",70,,,,CBi-RECEIVER-11,Project Hope [NGO],,1,1,outgoing,250000
 CBi-PROVIDER-13,AngloAmerican Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,6517325
-CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-12,British-Ukrainian Aid [NGO],,1,1,outgoing,32586
-CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-13,Foundation Conservation Carpathia [NGO],,1,1,outgoing,271879
-CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-14,Frankfurt Zoological Society [NGO],,1,1,outgoing,271879
-CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-15,Refugee Council [NGO],,1,1,outgoing,651732
-CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,2281064
+CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,6517325
+CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-13,British-Ukrainian Aid [NGO],,1,1,outgoing,32586
+CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-14,Foundation Conservation Carpathia [NGO],,1,1,outgoing,271879
+CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-15,Frankfurt Zoological Society [NGO],,1,1,outgoing,271879
+CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-16,Refugee Council [NGO],,1,1,outgoing,651732
+CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,2281064
 CBi-PROVIDER-14,Arcadia Fund,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,3910395
 CBi-PROVIDER-15,Archer-Daniels-Midland Company,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,485000
-CBi-PROVIDER-16,Arc'teryx,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,271879
-CBi-PROVIDER-17,Ares Management Corporation,70,,,,CBi-RECEIVER-18,CARE International [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-17,Ares Management Corporation,70,,,,CBi-RECEIVER-19,Voices of Children Foundation [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-17,Ares Management Corporation,70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-18,Argyle Systems Inc ,70,,,,CBi-RECEIVER-21,GoFundMe.org Ukraine Humanitarian Fund,,1,1,outgoing,50000
+CBi-PROVIDER-16,Arc'teryx,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,271879
+CBi-PROVIDER-17,Ares Management Corporation,70,,,,CBi-RECEIVER-19,CARE International [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-17,Ares Management Corporation,70,,,,CBi-RECEIVER-20,Voices of Children Foundation [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-17,Ares Management Corporation,70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-18,Argyle Systems Inc ,70,,,,CBi-RECEIVER-22,GoFundMe.org Ukraine Humanitarian Fund,,1,1,outgoing,50000
 CBi-PROVIDER-19,Armani Group ,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,561798
-CBi-PROVIDER-20,Asda Stores Ltd,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,330000
-CBi-PROVIDER-21,ASIS International,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
+CBi-PROVIDER-20,Asda Stores Ltd,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,330000
+CBi-PROVIDER-21,ASIS International,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
 CBi-PROVIDER-22,AstraZeneca,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2000000
-CBi-PROVIDER-22,AstraZeneca,70,,,,CBi-RECEIVER-22,Direct Relief [NGO],,1,1,outgoing,3000000
+CBi-PROVIDER-22,AstraZeneca,70,,,,CBi-RECEIVER-23,Direct Relief [NGO],,1,1,outgoing,3000000
+CBi-PROVIDER-22,AstraZeneca,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,9343
 CBi-PROVIDER-23,Atlas Copco Group,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,105807
-CBi-PROVIDER-24,ATN Corp.,70,,,,CBi-RECEIVER-23,The Gorta Group [NGO],,1,1,outgoing,300000
-CBi-PROVIDER-25,"Aurora World, Inc.",70,,,,CBi-RECEIVER-24,The Toy Foundation [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-26,aviado GmbH,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,16667
-CBi-PROVIDER-27,Backcountry,70,,,,CBi-RECEIVER-18,CARE International [NGO],,1,1,outgoing,10000
+CBi-PROVIDER-24,ATN Corp.,70,,,,CBi-RECEIVER-24,The Gorta Group [NGO],,1,1,outgoing,300000
+CBi-PROVIDER-25,"Aurora World, Inc.",70,,,,CBi-RECEIVER-25,The Toy Foundation [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-26,aviado GmbH,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,16667
+CBi-PROVIDER-27,Backcountry,70,,,,CBi-RECEIVER-19,CARE International [NGO],,1,1,outgoing,10000
 CBi-PROVIDER-28,Bain & Company,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
-CBi-PROVIDER-29,Baker Creek Heirloom Seed Company,70,,,,CBi-RECEIVER-25,World Help [NGO],,1,1,outgoing,1600000
+CBi-PROVIDER-29,Baker Creek Heirloom Seed Company,70,,,,CBi-RECEIVER-26,World Help [NGO],,1,1,outgoing,1600000
 CBi-PROVIDER-30,Balenciaga SAS,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,337079
 CBi-PROVIDER-31,Banco Santander S.A.,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1087495
-CBi-PROVIDER-32,Bandai Namco,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,817420
-CBi-PROVIDER-33,Bank of Ireland,70,,,,CBi-RECEIVER-26,Irish Red Cross Society,,1,1,outgoing,109000
-CBi-PROVIDER-34,Barratt Foundation,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,66000
-CBi-PROVIDER-35,BASF,70,,,,CBi-RECEIVER-5,German Red Cross,,1,1,outgoing,1101820
-CBi-PROVIDER-36,Bayer AG,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3265350
-CBi-PROVIDER-37,BBVA,70,,,,CBi-RECEIVER-27,United Kingdom for UNHCR,,1,1,outgoing,545000
-CBi-PROVIDER-37,BBVA,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,545000
-CBi-PROVIDER-38,BCG,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,48025
-CBi-PROVIDER-39,BentallGreenOak,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,39500
-CBi-PROVIDER-40,BHP Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,2000000
+CBi-PROVIDER-32,Bandai Namco,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,817420
+CBi-PROVIDER-33,Bank of Ireland,70,,,,CBi-RECEIVER-27,Irish Red Cross Society,,1,1,outgoing,109000
+CBi-PROVIDER-34,Barratt Foundation,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,66000
+CBi-PROVIDER-35,Barry Callebaut AG,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,31617
+CBi-PROVIDER-36,BASF,70,,,,CBi-RECEIVER-6,German Red Cross,,1,1,outgoing,1101820
+CBi-PROVIDER-37,Bayer AG,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3265350
+CBi-PROVIDER-38,BBVA,70,,,,CBi-RECEIVER-28,United Kingdom for UNHCR,,1,1,outgoing,545000
+CBi-PROVIDER-38,BBVA,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,545000
+CBi-PROVIDER-39,BentallGreenOak,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,39500
+CBi-PROVIDER-40,BHP Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,2000000
 CBi-PROVIDER-40,BHP Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,2000000
-CBi-PROVIDER-41,BioNTech SE,70,,,,CBi-RECEIVER-28,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,1099600
-CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-29,International Strategic Action Network for Security [NGO],,1,1,outgoing,500000
-CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-30,People in Need [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-31,Ukraine Rotary Club Kyiv International [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,2500000
+CBi-PROVIDER-41,BioNTech SE,70,,,,CBi-RECEIVER-29,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,1099600
+CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-30,International Strategic Action Network for Security [NGO],,1,1,outgoing,500000
+CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-31,People in Need [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-32,Ukraine Rotary Club Kyiv International [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,2500000
 CBi-PROVIDER-42,Blockchain Charity Foundation USA,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,2500000
-CBi-PROVIDER-43,Bloomberg L.P.,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,49715
-CBi-PROVIDER-44,Bloomberg Philanthropies,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,30000000
-CBi-PROVIDER-44,Bloomberg Philanthropies,70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,10000000
+CBi-PROVIDER-43,Bloomberg L.P.,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,49715
+CBi-PROVIDER-44,Bloomberg Philanthropies,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,30000000
+CBi-PROVIDER-44,Bloomberg Philanthropies,70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,10000000
 CBi-PROVIDER-45,Bloomsbury Publishing,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,20380
-CBi-PROVIDER-46,BNY Mellon,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,200000
+CBi-PROVIDER-46,BNY Mellon,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,200000
 CBi-PROVIDER-47,Boeing Company Charitable Trust,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,500000
 CBi-PROVIDER-47,Boeing Company Charitable Trust,70,,,,CBi-RECEIVER-33,Americares [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-47,Boeing Company Charitable Trust,70,,,,CBi-RECEIVER-18,CARE International [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-47,Boeing Company Charitable Trust,70,,,,CBi-RECEIVER-19,CARE International [NGO],,1,1,outgoing,1000000
 CBi-PROVIDER-48,Bolt Technology OÜ,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5440864
-CBi-PROVIDER-49,Booz-Allen & Hamilton,70,,,,CBi-RECEIVER-18,CARE International [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-50,BP plc,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
-CBi-PROVIDER-50,BP plc,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,5000000
-CBi-PROVIDER-50,BP plc,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,5000000
-CBi-PROVIDER-51,Camlog Biotechnologies GmbH,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,10807
-CBi-PROVIDER-52,Canada Goose,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,79193
-CBi-PROVIDER-53,Canadian Imperial Bank of Commerce,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,39500
-CBi-PROVIDER-53,Canadian Imperial Bank of Commerce,70,,,,CBi-RECEIVER-36,United Nations Children's Fund (UNICEF) Canada,,1,1,outgoing,79000
-CBi-PROVIDER-53,Canadian Imperial Bank of Commerce,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,39500
-CBi-PROVIDER-54,Canadian Pacific Railway,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,399145
-CBi-PROVIDER-55,Cargolux,70,,,,CBi-RECEIVER-37,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,545000
-CBi-PROVIDER-55,Cargolux,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1090000
-CBi-PROVIDER-55,Cargolux,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1633596
-CBi-PROVIDER-56,Carlsberg A/S,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,731127
-CBi-PROVIDER-56,Carlsberg A/S,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,1462255
-CBi-PROVIDER-56,Carlsberg A/S,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,731127
-CBi-PROVIDER-56,Carlsberg A/S,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,731127
-CBi-PROVIDER-57,CD PROJEKT Group,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,240389
-CBi-PROVIDER-58,Chapman and Cutler LLP,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
-CBi-PROVIDER-59,Chesapeake Energy,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-60,Chubb Limited,70,,,,CBi-RECEIVER-10,Project Hope [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-61,"Civitas Resources, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
-CBi-PROVIDER-62,Clorox Company,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,100000
-CBi-PROVIDER-63,Columbia Sportswear,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
-CBi-PROVIDER-64,ConocoPhillips,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2000000
-CBi-PROVIDER-65,Coyote Logistics,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,5036
-CBi-PROVIDER-66,Crankstart Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,1000000
-CBi-PROVIDER-67,Cra-Z-Art,70,,,,CBi-RECEIVER-24,The Toy Foundation [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-68,CropLife Europe,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,328587
-CBi-PROVIDER-69,CTP,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,10952903
-CBi-PROVIDER-70,Currency.com,70,,,,CBi-RECEIVER-41,ASAP Rescue [NGO],,1,1,outgoing,200000
-CBi-PROVIDER-70,Currency.com,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,300000
-CBi-PROVIDER-70,Currency.com,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,500000
-CBi-PROVIDER-71,Cytel Inc.,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,15239
-CBi-PROVIDER-72,Czapek & Cie SA,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,21615
-CBi-PROVIDER-73,"Daiichi Sankyo Company, Limited",70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1000000
-CBi-PROVIDER-74,Daily Mail and General Trust,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,660000
-CBi-PROVIDER-75,Danone S.A.,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,557334
-CBi-PROVIDER-76,Delta Air Lines,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000
-CBi-PROVIDER-77,Derald H. Ruttenberg Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,61289
-CBi-PROVIDER-78,Devon Energy,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,20000000
-CBi-PROVIDER-79,"Diamondback Energy, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
-CBi-PROVIDER-80,Don't Nod Entertainment SA,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,32700
-CBi-PROVIDER-81,Door County Candle Company,70,,,,CBi-RECEIVER-44,Razom [NGO],,1,1,outgoing,125000
-CBi-PROVIDER-82,Dow Chemical Company,70,,,,CBi-RECEIVER-45,CAF America [NGO],,1,1,outgoing,275000
-CBi-PROVIDER-83,Drax Group PLC,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,370000
-CBi-PROVIDER-84,DST Global,70,,,,CBi-RECEIVER-47,GoFundMe.org Stand With Ukraine Fund,,1,1,outgoing,3500000
-CBi-PROVIDER-85,Dunamu Inc.,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,811833
-CBi-PROVIDER-86,Dupont,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,200000
-CBi-PROVIDER-87,Eli Lilly and Company,70,,,,CBi-RECEIVER-22,Direct Relief [NGO],,1,1,outgoing,1800000
-CBi-PROVIDER-87,Eli Lilly and Company,70,,,,CBi-RECEIVER-10,Project Hope [NGO],,1,1,outgoing,7500000
-CBi-PROVIDER-88,Eli Lilly and Company Foundation,70,,,,CBi-RECEIVER-33,Americares [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-88,Eli Lilly and Company Foundation,70,,,,CBi-RECEIVER-22,Direct Relief [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-89,Embracer Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-90,Epic Games,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,144000000
-CBi-PROVIDER-91,ERSTE Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1085800
-CBi-PROVIDER-92,"Esmark, Inc.",70,,,,CBi-RECEIVER-48,City of Košice,,1,1,outgoing,25000
-CBi-PROVIDER-93,Eurofins Scientific Foundation,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,27019
-CBi-PROVIDER-94,Eurol Foundation,70,,,,CBi-RECEIVER-49,Giro555 [NGO],,1,1,outgoing,8175
-CBi-PROVIDER-95,ExxonMobil,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,1000000
-CBi-PROVIDER-95,ExxonMobil,70,,,,CBi-RECEIVER-7,International Medical Corps (IMC) [NGO],,1,1,outgoing,750000
-CBi-PROVIDER-95,ExxonMobil,70,,,,CBi-RECEIVER-10,Project Hope [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-96,Fashion Institute of Design & Merchandising,70,,,,CBi-RECEIVER-50,Mission of Mercy [NGO],,1,1,outgoing,298000
-CBi-PROVIDER-97,"Fast Retailing Co., Ltd.",70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,10000000
-CBi-PROVIDER-98,Fédération nationale des Caisses d’Epargne,70,,,,CBi-RECEIVER-51,French Red Cross,,1,1,outgoing,1628700
-CBi-PROVIDER-98,Fédération nationale des Caisses d’Epargne,70,,,,CBi-RECEIVER-52,Groupe Habitat en Région [NGO],,1,1,outgoing,1954440
-CBi-PROVIDER-99,Federation of the European Sporting Goods Industry,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
-CBi-PROVIDER-100,Fidelity Investments,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,52850
-CBi-PROVIDER-101,Fondation CHANEL,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2177020
-CBi-PROVIDER-102,Fondation Orange,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1088550
-CBi-PROVIDER-103,Fondazione Cariplo,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3701022
-CBi-PROVIDER-104,Fondazione Generali,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1085800
-CBi-PROVIDER-105,Forada Limited,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
-CBi-PROVIDER-106,Ford Motor Company Fund,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-107,Fortum Oyj,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,223091
-CBi-PROVIDER-108,FOX Corporation,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,13533377
-CBi-PROVIDER-109,FreeWill Co.,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10800
-CBi-PROVIDER-110,Fujitsu Group,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
-CBi-PROVIDER-111,Fuller Giving Foundation,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,10000
-CBi-PROVIDER-112,"Fundación ""la Caixa""",70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1649490
-CBi-PROVIDER-113,Fundación A.M.A.,70,,,,CBi-RECEIVER-53,Fundación Mensajeros por la Paz [NGO],,1,1,outgoing,1090000
-CBi-PROVIDER-114,Fundación Aon España,70,,,,CBi-RECEIVER-54,Spanish Red Cross,,1,1,outgoing,21800
-CBi-PROVIDER-115,Fundacion MAPFRE,70,,,,CBi-RECEIVER-53,Fundación Mensajeros por la Paz [NGO],,1,1,outgoing,76300
-CBi-PROVIDER-116,Ganni,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,14700
-CBi-PROVIDER-117,GE Foundation,70,,,,CBi-RECEIVER-55,"Airlink, Inc. [NGO]",,1,1,outgoing,100000
-CBi-PROVIDER-117,GE Foundation,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,400000
-CBi-PROVIDER-118,GE Healthcare,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,4000000
-CBi-PROVIDER-119,General Motors,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-120,Gilead Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3700000
-CBi-PROVIDER-121,GlaxoSmithKline plc,70,,,,CBi-RECEIVER-56,Crown Agents [NGO],,1,1,outgoing,325654
-CBi-PROVIDER-121,GlaxoSmithKline plc,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,3960000
-CBi-PROVIDER-121,GlaxoSmithKline plc,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,325654
-CBi-PROVIDER-122,Global Star Logistics,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,1000
-CBi-PROVIDER-123,Google.org,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,31400000
-CBi-PROVIDER-123,Google.org,70,,,,CBi-RECEIVER-57,Polish Center for International Aid Foundation [NGO],,1,1,outgoing,2600000
-CBi-PROVIDER-123,Google.org,70,,,,CBi-RECEIVER-58,The Association for Legal Intervention [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-124,Grammarly Inc.,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-125,Group 1001 Resources,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000
-CBi-PROVIDER-126,Groupe BPCE,70,,,,CBi-RECEIVER-51,French Red Cross,,1,1,outgoing,5429000
-CBi-PROVIDER-127,Groupe Crédit Agricole,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10858000
-CBi-PROVIDER-128,Gucci,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
-CBi-PROVIDER-129,H&M Hennes & Mauritz AB,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,930684
-CBi-PROVIDER-130,H. Lundbeck A/S,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,1500000
-CBi-PROVIDER-131,Heartland,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10258668
-CBi-PROVIDER-131,Heartland,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,1465524
-CBi-PROVIDER-131,Heartland,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1465524
-CBi-PROVIDER-131,Heartland,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1465524
-CBi-PROVIDER-132,Helly Hansen,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,158000
-CBi-PROVIDER-133,HELP Logistics,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,500000
-CBi-PROVIDER-134,Hendrick Automotive,70,,,,CBi-RECEIVER-59,Samaritan’s Purse [NGO],,1,1,outgoing,200000
-CBi-PROVIDER-135,Hilco Global,70,,,,CBi-RECEIVER-60,Sunflower of Peace [NGO],,1,1,outgoing,37500
-CBi-PROVIDER-135,Hilco Global,70,,,,CBi-RECEIVER-61,United Help Ukraine [NGO],,1,1,outgoing,37500
-CBi-PROVIDER-136,"Hitachi, Ltd.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3000000
-CBi-PROVIDER-137,Home Capital Group,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,39500
-CBi-PROVIDER-138,Hotel Engine,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,35200
-CBi-PROVIDER-139,"Humble Bundle, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,20587924
-CBi-PROVIDER-140,Hyundai Motor Company,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,1000000
-CBi-PROVIDER-141,IBM,70,,,,CBi-RECEIVER-30,People in Need [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-141,IBM,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-142,Iceland Foods Charitable Foundation,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,198000
-CBi-PROVIDER-143,ICR Touch,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,26440
-CBi-PROVIDER-144,Ikea Foundation,70,,,,CBi-RECEIVER-37,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,5500000
-CBi-PROVIDER-144,Ikea Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,22471910
-CBi-PROVIDER-145,INFICON Holding AG,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,27019
-CBi-PROVIDER-146,Inflexion Foundation,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,654000
-CBi-PROVIDER-147,Intel Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1200000
-CBi-PROVIDER-148,James M. Cox Foundation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,500000
-CBi-PROVIDER-149,Japan Sporting Goods Industries Association,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
-CBi-PROVIDER-150,John Legere Family Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
-CBi-PROVIDER-151,John Lewis Partnership,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,330000
-CBi-PROVIDER-152,Johnson & Johnson,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-153,Jonathan Molot and Hattie Ruttenberg Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,43249
-CBi-PROVIDER-154,JPMorgan Chase & Co.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
-CBi-PROVIDER-155,JYSK,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,156078
-CBi-PROVIDER-156,Kansas City Southern Charitable Fund,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,500000
-CBi-PROVIDER-157,Kerry Group plc,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,273823
-CBi-PROVIDER-158,KeyBank Foundation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,100000
-CBi-PROVIDER-158,KeyBank Foundation,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,50000
-CBi-PROVIDER-159,Kikkoman,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1000000
-CBi-PROVIDER-160,Kimberly-Clark,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1000000
-CBi-PROVIDER-161,Knockward Ltd,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,10849
-CBi-PROVIDER-162,KOEI TECMO,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
-CBi-PROVIDER-163,KPMG LLP,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-164,Kroger Co. Zero Hunger Zero Waste Foundation,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,250000
-CBi-PROVIDER-165,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,4364468
-CBi-PROVIDER-165,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-62,[redacted] Recipient A,,1,1,outgoing,8234
-CBi-PROVIDER-165,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,641124
-CBi-PROVIDER-165,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1824949
-CBi-PROVIDER-165,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,3231708
-CBi-PROVIDER-165,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-63,United Nations Population Fund (UNFPA),,1,1,outgoing,36382
-CBi-PROVIDER-165,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-64,World Health Organization (WHO),,1,1,outgoing,609135
-CBi-PROVIDER-166,Kurt Geiger,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,66000
-CBi-PROVIDER-167,LEGO Foundation,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,3700000
-CBi-PROVIDER-168,Liebherr Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,215517
-CBi-PROVIDER-169,"Lincoln Electric Holdings, Inc.",70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,24958
-CBi-PROVIDER-170,Lindt & Sprüngli AG,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,1080762
-CBi-PROVIDER-171,Louis Vuitton,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1090000
-CBi-PROVIDER-172,LVMH Group,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,5450000
-CBi-PROVIDER-173,Magna International,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000
-CBi-PROVIDER-174,Marks & Spencer,70,,,,CBi-RECEIVER-27,United Kingdom for UNHCR,,1,1,outgoing,660000
-CBi-PROVIDER-174,Marks & Spencer,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,660000
-CBi-PROVIDER-174,Marks & Spencer,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,660000
-CBi-PROVIDER-175,"Mars, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
-CBi-PROVIDER-175,"Mars, Inc.",70,,,,CBi-RECEIVER-65,Humane Society International [NGO],,1,1,outgoing,500000
-CBi-PROVIDER-175,"Mars, Inc.",70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,1500000
-CBi-PROVIDER-176,Mastercard,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,1250000
-CBi-PROVIDER-176,Mastercard,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,3500000
-CBi-PROVIDER-177,Mercedes-Benz,70,,,,CBi-RECEIVER-5,German Red Cross,,1,1,outgoing,1090000
-CBi-PROVIDER-178,Merck KGaA,70,,,,CBi-RECEIVER-5,German Red Cross,,1,1,outgoing,2180000
-CBi-PROVIDER-179,"Meta Platforms, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,15000000
-CBi-PROVIDER-179,"Meta Platforms, Inc.",70,,,,CBi-RECEIVER-6,International Organization for Migration (IOM),,1,1,outgoing,150000
-CBi-PROVIDER-180,Metro AG,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,393258
-CBi-PROVIDER-181,Metro Supply Chain,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,39500
-CBi-PROVIDER-182,Michael & Susan Dell Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,15000000
-CBi-PROVIDER-183,Micky and Madeleine Arison Family Foundation,70,,,,CBi-RECEIVER-22,Direct Relief [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-183,Micky and Madeleine Arison Family Foundation,70,,,,CBi-RECEIVER-66,United Nations Children's Fund (UNICEF) USA,,1,1,outgoing,1000000
-CBi-PROVIDER-183,Micky and Madeleine Arison Family Foundation,70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-184,Microsoft Corporation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,31500000
-CBi-PROVIDER-185,Micys Company S.p.A.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,11236
-CBi-PROVIDER-186,Mitsubishi Electric,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1099600
-CBi-PROVIDER-187,Mondi plc,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1095290
-CBi-PROVIDER-188,Mondou,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,79000
-CBi-PROVIDER-189,Moody's Foundation,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-190,Moose Toys,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-191,Morrison & Foerster Foundation,70,,,,CBi-RECEIVER-67,Benevolent Healthcare Foundation [NGO],,1,1,outgoing,15000
-CBi-PROVIDER-191,Morrison & Foerster Foundation,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,17000
-CBi-PROVIDER-191,Morrison & Foerster Foundation,70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,15000
-CBi-PROVIDER-192,Morrison Supermarkets,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,330000
-CBi-PROVIDER-193,MSA Safety,70,,,,CBi-RECEIVER-68,FIRE AID [NGO],,1,1,outgoing,400000
-CBi-PROVIDER-194,NanoTemper Technologies,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,13508
-CBi-PROVIDER-195,NCR Foundation,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,200000
-CBi-PROVIDER-196,Neptune Energy,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,1000000
-CBi-PROVIDER-196,Neptune Energy,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-197,New York Life,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,150000
-CBi-PROVIDER-197,New York Life,70,,,,CBi-RECEIVER-66,United Nations Children's Fund (UNICEF) USA,,1,1,outgoing,150000
-CBi-PROVIDER-198,Newmont Corporation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-199,Nike Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1000000
-CBi-PROVIDER-200,"Nissan Motor Co., Ltd.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1088220
-CBi-PROVIDER-201,Norton Rose Fulbright,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,100000
-CBi-PROVIDER-201,Norton Rose Fulbright,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,200000
-CBi-PROVIDER-202,Novartis AG,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,1000000
-CBi-PROVIDER-202,Novartis AG,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-202,Novartis AG,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-203,Novelis Corporation,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,300000
-CBi-PROVIDER-204,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,3695117
-CBi-PROVIDER-204,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,1478047
-CBi-PROVIDER-204,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-69,Human Rights Watch [NGO],,1,1,outgoing,147804
-CBi-PROVIDER-204,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-70,United Nations Children's Fund (UNICEF) Denmark,,1,1,outgoing,591218
-CBi-PROVIDER-204,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1478047
-CBi-PROVIDER-205,Oak Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10750000
-CBi-PROVIDER-206,Olam International,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1000000
-CBi-PROVIDER-207,Old Navy,70,,,,CBi-RECEIVER-71,USA for UNHCR,,1,1,outgoing,1000000
-CBi-PROVIDER-208,OpenText,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000
-CBi-PROVIDER-209,"Orrick, Herrington & Sutcliffe",70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,12500
-CBi-PROVIDER-209,"Orrick, Herrington & Sutcliffe",70,,,,CBi-RECEIVER-61,United Help Ukraine [NGO],,1,1,outgoing,12500
-CBi-PROVIDER-210,Pacific Life Foundation,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,250000
-CBi-PROVIDER-211,Pandora,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1000000
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1600000
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-72,Caritas Lviv [NGO],,1,1,outgoing,1671684
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-22,Direct Relief [NGO],,1,1,outgoing,20000
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-73,Moldovan Red Cross,,1,1,outgoing,20615
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-74,Polish Red Cross,,1,1,outgoing,917805
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-75,Romanian Red Cross,,1,1,outgoing,22423
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,1020751
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-76,Swiss Red Cross,,1,1,outgoing,20000
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-77,Ukraine Foodbank [NGO],,1,1,outgoing,474287
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1000000
-CBi-PROVIDER-212,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-78,World Vision Romania [NGO],,1,1,outgoing,350000
-CBi-PROVIDER-213,"Phillips Auctioneers, LLC",70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,7656000
-CBi-PROVIDER-214,Pioneer Natural Resources,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,20000000
-CBi-PROVIDER-215,Plarium,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,500000
-CBi-PROVIDER-216,Pokémon Company,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,200000
-CBi-PROVIDER-217,"Popular, Inc.",70,,,,CBi-RECEIVER-79,American Red Cross in Puerto Rico,,1,1,outgoing,50000
-CBi-PROVIDER-218,Porsche AG,70,,,,CBi-RECEIVER-80,Ferry Porsche Foundation [NGO],,1,1,outgoing,272500
-CBi-PROVIDER-218,Porsche AG,70,,,,CBi-RECEIVER-28,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,817500
-CBi-PROVIDER-219,PricewaterhouseCoopers,70,,,,CBi-RECEIVER-18,CARE International [NGO],,1,1,outgoing,125000
-CBi-PROVIDER-220,Procter & Gamble,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,755436
-CBi-PROVIDER-221,"Punto Fa, S.L.",70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,111595
-CBi-PROVIDER-222,Realdania,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,7315290
-CBi-PROVIDER-222,Realdania,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,3657645
-CBi-PROVIDER-222,Realdania,70,,,,CBi-RECEIVER-81,Save the Children Denmark [NGO],,1,1,outgoing,3657645
-CBi-PROVIDER-223,Revolut,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1500000
-CBi-PROVIDER-224,"Riot Games, Inc.",70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,1800000
-CBi-PROVIDER-224,"Riot Games, Inc.",70,,,,CBi-RECEIVER-7,International Medical Corps (IMC) [NGO],,1,1,outgoing,1800000
-CBi-PROVIDER-224,"Riot Games, Inc.",70,,,,CBi-RECEIVER-37,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,1800000
-CBi-PROVIDER-225,Riverview Community Bank,70,,,,CBi-RECEIVER-82,Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO],,1,1,outgoing,10000
-CBi-PROVIDER-226,Rockwell Automation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,100000
-CBi-PROVIDER-226,Rockwell Automation,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-226,Rockwell Automation,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-226,Rockwell Automation,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-226,Rockwell Automation,70,,,,CBi-RECEIVER-83,United Way [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-227,Royal Bank of Canada,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,158000
-CBi-PROVIDER-228,RSM US Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,32150
-CBi-PROVIDER-229,Russel Metals Inc. ,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,79000
-CBi-PROVIDER-230,S&P Global Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,150000
-CBi-PROVIDER-230,S&P Global Foundation,70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,150000
-CBi-PROVIDER-231,Sainsbury's,70,,,,CBi-RECEIVER-84,Comic Relief [NGO],,1,1,outgoing,2640000
-CBi-PROVIDER-232,"Salesforce, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2000000
-CBi-PROVIDER-233,Salvatore Ferragamo S.p.A.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,337079
-CBi-PROVIDER-234,Samsung Electronics,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,6000000
-CBi-PROVIDER-235,Sanofi S.A.,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5439025
-CBi-PROVIDER-236,Sappi Limited,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,100000
-CBi-PROVIDER-237,Schörling Family Foundation,70,,,,CBi-RECEIVER-85,Swedish Red Cross,,1,1,outgoing,5282620
-CBi-PROVIDER-237,Schörling Family Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,5282620
-CBi-PROVIDER-238,Sentara Healthcare,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3500000
-CBi-PROVIDER-239,SentinelOne,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
-CBi-PROVIDER-240,Shiseido Group,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1101820
-CBi-PROVIDER-241,Sidney E. Frank Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000
-CBi-PROVIDER-242,Siemens Caring Hands,70,,,,CBi-RECEIVER-5,German Red Cross,,1,1,outgoing,1112483
-CBi-PROVIDER-243,Signet Love Inspires Foundation,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1000000
-CBi-PROVIDER-244,Skoda,70,,,,CBi-RECEIVER-30,People in Need [NGO],,1,1,outgoing,443240
-CBi-PROVIDER-245,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,1250000
-CBi-PROVIDER-245,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-86,Mercy Chefs [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-245,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-245,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-246,"Snap, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,15000000
-CBi-PROVIDER-246,"Snap, Inc.",70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
-CBi-PROVIDER-247,Societe Generale Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2177020
-CBi-PROVIDER-248,Sologenic Development Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,10000
-CBi-PROVIDER-249,Sonoco Products Company,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,50594
-CBi-PROVIDER-250,Sony Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
-CBi-PROVIDER-251,"Southeastern Grocers, Inc.",70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,250000
-CBi-PROVIDER-251,"Southeastern Grocers, Inc.",70,,,,CBi-RECEIVER-87,Mission 823 [NGO],,1,1,outgoing,1100000
-CBi-PROVIDER-252,Spiegel Family Fund,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
-CBi-PROVIDER-253,Square Enix,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
-CBi-PROVIDER-254,Sun Life Financial Inc.,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,158000
-CBi-PROVIDER-255,Supercell Oy,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
-CBi-PROVIDER-256,T. Rowe Price Foundation,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,500000
-CBi-PROVIDER-257,Taiwan Sporting Goods Manufacturers Association,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000
-CBi-PROVIDER-258,Takeda Pharmaceutical Company Ltd,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,2455975
-CBi-PROVIDER-259,Techland S.A.,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,230890
-CBi-PROVIDER-260,Telus Corporation,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,79000
-CBi-PROVIDER-261,TELUS Friendly Future Foundation,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,118500
-CBi-PROVIDER-262,Tesco PLC,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,1320000
-CBi-PROVIDER-263,Teva Pharmaceutical Industries Ltd.,70,,,,CBi-RECEIVER-22,Direct Relief [NGO],,1,1,outgoing,10800000
-CBi-PROVIDER-263,Teva Pharmaceutical Industries Ltd.,70,,,,CBi-RECEIVER-30,People in Need [NGO],,1,1,outgoing,180000
-CBi-PROVIDER-263,Teva Pharmaceutical Industries Ltd.,70,,,,CBi-RECEIVER-88,United Hatzalah [NGO],,1,1,outgoing,180000
-CBi-PROVIDER-264,Texas Instruments Foundation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,25000
-CBi-PROVIDER-265,The Body Shop International Limited,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,50000
-CBi-PROVIDER-266,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,3655637
-CBi-PROVIDER-266,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,1462255
-CBi-PROVIDER-266,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-69,Human Rights Watch [NGO],,1,1,outgoing,146225
-CBi-PROVIDER-266,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-89,Plan International Denmark [NGO],,1,1,outgoing,584902
-CBi-PROVIDER-266,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1462255
-CBi-PROVIDER-267,The Nippon Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,40000000
-CBi-PROVIDER-268,TJ Morris Ltd,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,132000
-CBi-PROVIDER-269,Tom Ford SA,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,100000
-CBi-PROVIDER-270,Toyota Motor Corporation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,551120
-CBi-PROVIDER-271,Tripadvisor Foundation,70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-272,Uber Technologies Inc.,70,,,,CBi-RECEIVER-32,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,252106
-CBi-PROVIDER-272,Uber Technologies Inc.,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,1000000
-CBi-PROVIDER-273,Ukrainian Credit Union ,70,,,,CBi-RECEIVER-90,The Canada-Ukraine Foundation [NGO],,1,1,outgoing,79000
-CBi-PROVIDER-274,Unilever,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5451250
-CBi-PROVIDER-275,Union Pacific Railroad,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,250000
-CBi-PROVIDER-275,Union Pacific Railroad,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-276,United Health Foundation,70,,,,CBi-RECEIVER-22,Direct Relief [NGO],,1,1,outgoing,500000
-CBi-PROVIDER-276,United Health Foundation,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,500000
-CBi-PROVIDER-277,Valentino,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,557975
-CBi-PROVIDER-278,Vantage Towers,70,,,,CBi-RECEIVER-91,Interchurched Aid [NGO],,1,1,outgoing,13747
-CBi-PROVIDER-278,Vantage Towers,70,,,,CBi-RECEIVER-75,Romanian Red Cross,,1,1,outgoing,13747
-CBi-PROVIDER-278,Vantage Towers,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,27494
-CBi-PROVIDER-279,Verizon Communications Inc. ,70,,,,CBi-RECEIVER-7,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-279,Verizon Communications Inc. ,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,250000
-CBi-PROVIDER-279,Verizon Communications Inc. ,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,250000
-CBi-PROVIDER-280,VF Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,250000
-CBi-PROVIDER-281,Visa Foundation,70,,,,CBi-RECEIVER-66,United Nations Children's Fund (UNICEF) USA,,1,1,outgoing,2000000
-CBi-PROVIDER-282,Vodafone,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,112360
-CBi-PROVIDER-283,Vodafone Czech Republic a.s.,70,,,,CBi-RECEIVER-30,People in Need [NGO],,1,1,outgoing,85780
-CBi-PROVIDER-284,Vodafone Germany,70,,,,CBi-RECEIVER-92,Aktion Deutschland Hilft [NGO],,1,1,outgoing,219932
-CBi-PROVIDER-285,Vodafone Group Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,549875
-CBi-PROVIDER-286,Vodafone Hungary,70,,,,CBi-RECEIVER-93,Hungarian Interchurch Aid [NGO],,1,1,outgoing,54988
-CBi-PROVIDER-286,Vodafone Hungary,70,,,,CBi-RECEIVER-94,Sovereign Military Order of Malta,,1,1,outgoing,54988
-CBi-PROVIDER-287,Vodafone Italy Foundation,70,,,,CBi-RECEIVER-95,Italian Red Cross,,1,1,outgoing,109976
-CBi-PROVIDER-287,Vodafone Italy Foundation,70,,,,CBi-RECEIVER-96,Maria Francesca Rava Foundation [NGO],,1,1,outgoing,109976
-CBi-PROVIDER-288,Vodafone Luxembourg Foundation,70,,,,CBi-RECEIVER-97,Luxembourg Red Cross,,1,1,outgoing,6817
-CBi-PROVIDER-289,Vodafone Romania,70,,,,CBi-RECEIVER-98,Association for Community Relations [NGO],,1,1,outgoing,43990
-CBi-PROVIDER-289,Vodafone Romania,70,,,,CBi-RECEIVER-99,Doctors for Romania Association [NGO],,1,1,outgoing,16496
-CBi-PROVIDER-289,Vodafone Romania,70,,,,CBi-RECEIVER-100,Fundatia Mereu Aproape [NGO],,1,1,outgoing,32992
-CBi-PROVIDER-289,Vodafone Romania,70,,,,CBi-RECEIVER-101,Jesuit Refugee Service [NGO],,1,1,outgoing,10998
-CBi-PROVIDER-290,Vodafone Spain Foundation,70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,27492
-CBi-PROVIDER-291,Vodafone UK,70,,,,CBi-RECEIVER-11,British Red Cross Society ,,1,1,outgoing,329700
-CBi-PROVIDER-292,Volkswagen AG,70,,,,CBi-RECEIVER-28,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,1108400
-CBi-PROVIDER-293,Volvo,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,205570
-CBi-PROVIDER-294,Wabtec Foundation,70,,,,CBi-RECEIVER-8,International Rescue Committee (IRC) [NGO],,1,1,outgoing,50000
-CBi-PROVIDER-294,Wabtec Foundation,70,,,,CBi-RECEIVER-20,World Central Kitchen [NGO],,1,1,outgoing,50000
-CBi-PROVIDER-295,WELL Health Technologies,70,,,,CBi-RECEIVER-36,United Nations Children's Fund (UNICEF) Canada,,1,1,outgoing,79000
-CBi-PROVIDER-296,Western Union Foundation,70,,,,CBi-RECEIVER-7,International Medical Corps (IMC) [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-296,Western Union Foundation,70,,,,CBi-RECEIVER-102,Lithuanian Red Cross,,1,1,outgoing,22097
-CBi-PROVIDER-297,White & Case,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1000000
-CBi-PROVIDER-298,William Demant Foundation,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,1050000
-CBi-PROVIDER-299,World Federation of the Sporting Goods Industry,70,,,,CBi-RECEIVER-17,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,53294
-CBi-PROVIDER-300,"Wyndham Hotels & Resorts, Inc.",70,,,,CBi-RECEIVER-16,Save the Children [NGO],,1,1,outgoing,100000
-CBi-PROVIDER-301,XTX Markets,70,,,,CBi-RECEIVER-27,United Kingdom for UNHCR,,1,1,outgoing,13187200
-CBi-PROVIDER-302,Yum! Brands Foundation,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross and Red Crescent Societies (ICRC),,1,1,outgoing,1000000
-CBi-PROVIDER-303,Yuri and Julia Milner Foundation,70,,,,CBi-RECEIVER-47,GoFundMe.org Stand With Ukraine Fund,,1,1,outgoing,2000000
-CBi-PROVIDER-304,Z Zurich Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,269397
-CBi-PROVIDER-305,Zegna N.V.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1123595
-CBi-PROVIDER-306,Zound Industries,70,,,,CBi-RECEIVER-9,United Nations Children's Fund (UNICEF),,1,1,outgoing,27017
-CBi-PROVIDER-306,Zound Industries,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,27017
+CBi-PROVIDER-49,Booz-Allen & Hamilton,70,,,,CBi-RECEIVER-19,CARE International [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-50,Boston Consulting Group,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,48025
+CBi-PROVIDER-51,BP plc,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
+CBi-PROVIDER-51,BP plc,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,5000000
+CBi-PROVIDER-51,BP plc,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,5000000
+CBi-PROVIDER-52,Camlog Biotechnologies GmbH,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,10807
+CBi-PROVIDER-53,Canada Goose,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,79193
+CBi-PROVIDER-54,Canadian Imperial Bank of Commerce,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,39500
+CBi-PROVIDER-54,Canadian Imperial Bank of Commerce,70,,,,CBi-RECEIVER-36,United Nations Children's Fund (UNICEF) Canada,,1,1,outgoing,79000
+CBi-PROVIDER-54,Canadian Imperial Bank of Commerce,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,39500
+CBi-PROVIDER-55,Canadian Pacific Railway,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,399145
+CBi-PROVIDER-56,Cargolux,70,,,,CBi-RECEIVER-37,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,545000
+CBi-PROVIDER-56,Cargolux,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1090000
+CBi-PROVIDER-56,Cargolux,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1633596
+CBi-PROVIDER-57,Carlsberg A/S,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,731127
+CBi-PROVIDER-57,Carlsberg A/S,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,1462255
+CBi-PROVIDER-57,Carlsberg A/S,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,731127
+CBi-PROVIDER-57,Carlsberg A/S,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,731127
+CBi-PROVIDER-58,CD PROJEKT Group,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,240389
+CBi-PROVIDER-59,Chapman and Cutler LLP,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
+CBi-PROVIDER-60,Chellaram Foundation,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,500000
+CBi-PROVIDER-61,Chesapeake Energy,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
+CBi-PROVIDER-62,Chubb Limited,70,,,,CBi-RECEIVER-11,Project Hope [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-63,"Civitas Resources, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
+CBi-PROVIDER-64,Clorox Company,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,100000
+CBi-PROVIDER-65,CNH Industrial N.V.,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,78579
+CBi-PROVIDER-66,Coca-Cola Europacific Partners plc,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,215039
+CBi-PROVIDER-67,Coca-Cola Foundation,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,982218
+CBi-PROVIDER-68,Columbia Sportswear,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
+CBi-PROVIDER-69,ConocoPhillips,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2000000
+CBi-PROVIDER-70,Coyote Logistics,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,5036
+CBi-PROVIDER-71,Crankstart Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,1000000
+CBi-PROVIDER-72,Cra-Z-Art,70,,,,CBi-RECEIVER-25,The Toy Foundation [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-73,CropLife Europe,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,328587
+CBi-PROVIDER-74,CTP,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,10952903
+CBi-PROVIDER-75,Currency.com,70,,,,CBi-RECEIVER-41,ASAP Rescue [NGO],,1,1,outgoing,200000
+CBi-PROVIDER-75,Currency.com,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,300000
+CBi-PROVIDER-75,Currency.com,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,500000
+CBi-PROVIDER-76,Cytel Inc.,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,15239
+CBi-PROVIDER-77,Czapek & Cie SA,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,21615
+CBi-PROVIDER-78,"Daiichi Sankyo Company, Limited",70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1000000
+CBi-PROVIDER-79,Daily Mail and General Trust,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,660000
+CBi-PROVIDER-80,Danone S.A.,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,557334
+CBi-PROVIDER-81,Delta Air Lines,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000
+CBi-PROVIDER-82,Derald H. Ruttenberg Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,61289
+CBi-PROVIDER-83,Devon Energy,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,20000000
+CBi-PROVIDER-84,"Diamondback Energy, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
+CBi-PROVIDER-85,Don't Nod Entertainment SA,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,32700
+CBi-PROVIDER-86,Door County Candle Company,70,,,,CBi-RECEIVER-44,Razom [NGO],,1,1,outgoing,125000
+CBi-PROVIDER-87,Dow Chemical Company,70,,,,CBi-RECEIVER-45,CAF America [NGO],,1,1,outgoing,275000
+CBi-PROVIDER-88,Drax Group PLC,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,370000
+CBi-PROVIDER-89,DST Global,70,,,,CBi-RECEIVER-47,GoFundMe.org Stand With Ukraine Fund,,1,1,outgoing,3500000
+CBi-PROVIDER-90,Dunamu Inc.,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,811833
+CBi-PROVIDER-91,Dupont,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,200000
+CBi-PROVIDER-92,Eli Lilly and Company,70,,,,CBi-RECEIVER-23,Direct Relief [NGO],,1,1,outgoing,1800000
+CBi-PROVIDER-92,Eli Lilly and Company,70,,,,CBi-RECEIVER-11,Project Hope [NGO],,1,1,outgoing,7500000
+CBi-PROVIDER-93,Eli Lilly and Company Foundation,70,,,,CBi-RECEIVER-33,Americares [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-93,Eli Lilly and Company Foundation,70,,,,CBi-RECEIVER-23,Direct Relief [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-94,Embracer Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
+CBi-PROVIDER-95,Epic Games,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,117125856
+CBi-PROVIDER-95,Epic Games,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,26874144
+CBi-PROVIDER-96,ERSTE Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1085800
+CBi-PROVIDER-97,"Esmark, Inc.",70,,,,CBi-RECEIVER-48,City of Košice,,1,1,outgoing,25000
+CBi-PROVIDER-98,Eurol Foundation,70,,,,CBi-RECEIVER-49,Giro555 [NGO],,1,1,outgoing,8175
+CBi-PROVIDER-99,ExxonMobil,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,1000000
+CBi-PROVIDER-99,ExxonMobil,70,,,,CBi-RECEIVER-8,International Medical Corps (IMC) [NGO],,1,1,outgoing,750000
+CBi-PROVIDER-99,ExxonMobil,70,,,,CBi-RECEIVER-11,Project Hope [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-100,Fashion Institute of Design & Merchandising,70,,,,CBi-RECEIVER-50,Mission of Mercy [NGO],,1,1,outgoing,298000
+CBi-PROVIDER-101,"Fast Retailing Co., Ltd.",70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,10000000
+CBi-PROVIDER-102,Fédération nationale des Caisses d’Epargne,70,,,,CBi-RECEIVER-51,French Red Cross,,1,1,outgoing,1628700
+CBi-PROVIDER-102,Fédération nationale des Caisses d’Epargne,70,,,,CBi-RECEIVER-52,Groupe Habitat en Région [NGO],,1,1,outgoing,1954440
+CBi-PROVIDER-103,Federation of the European Sporting Goods Industry,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
+CBi-PROVIDER-104,Fidelity Investments Inc.,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,93432
+CBi-PROVIDER-104,Fidelity Investments Inc.,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,52850
+CBi-PROVIDER-105,Fondation CHANEL,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2177020
+CBi-PROVIDER-106,Fondation Egis,70,,,,CBi-RECEIVER-53,Agency for Technical Cooperation and Development (ACTED) [NGO],,1,1,outgoing,108554
+CBi-PROVIDER-107,Fondation Groupe Pierre & Vacances-Center Parcs,70,,,,CBi-RECEIVER-54,SOS Villages d' enfants [NGO],,1,1,outgoing,162968
+CBi-PROVIDER-108,Fondation Orange,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1088550
+CBi-PROVIDER-109,Fondation RAJA-Danièle Marcovici,70,,,,CBi-RECEIVER-55,Centrum Praw Kobiet [NGO],,1,1,outgoing,54277
+CBi-PROVIDER-110,Fondazione Cariplo,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3701022
+CBi-PROVIDER-111,Fondazione Generali,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1085800
+CBi-PROVIDER-112,Forada Limited,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
+CBi-PROVIDER-113,Ford Motor Company Fund,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-114,Fortum Oyj,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,223091
+CBi-PROVIDER-115,FOX Corporation,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,13533377
+CBi-PROVIDER-116,FreeWill Co.,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10800
+CBi-PROVIDER-117,Fujitsu Group,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
+CBi-PROVIDER-118,Fuller Giving Foundation,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,10000
+CBi-PROVIDER-119,"Fundación ""la Caixa""",70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1649490
+CBi-PROVIDER-120,Fundación A.M.A.,70,,,,CBi-RECEIVER-56,Fundación Mensajeros por la Paz [NGO],,1,1,outgoing,1090000
+CBi-PROVIDER-121,Fundación Aon España,70,,,,CBi-RECEIVER-57,Spanish Red Cross,,1,1,outgoing,21800
+CBi-PROVIDER-122,Fundacion MAPFRE,70,,,,CBi-RECEIVER-56,Fundación Mensajeros por la Paz [NGO],,1,1,outgoing,76300
+CBi-PROVIDER-123,Ganni,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,14700
+CBi-PROVIDER-124,GE Foundation,70,,,,CBi-RECEIVER-58,"Airlink, Inc. [NGO]",,1,1,outgoing,100000
+CBi-PROVIDER-124,GE Foundation,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,400000
+CBi-PROVIDER-125,GE Healthcare,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,4000000
+CBi-PROVIDER-126,General Motors,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-127,Gilead Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3700000
+CBi-PROVIDER-128,GlaxoSmithKline plc,70,,,,CBi-RECEIVER-59,Crown Agents [NGO],,1,1,outgoing,325654
+CBi-PROVIDER-128,GlaxoSmithKline plc,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,3960000
+CBi-PROVIDER-128,GlaxoSmithKline plc,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,325654
+CBi-PROVIDER-129,Global Star Logistics,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,1000
+CBi-PROVIDER-130,Google.org,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,31400000
+CBi-PROVIDER-130,Google.org,70,,,,CBi-RECEIVER-60,Polish Center for International Aid Foundation [NGO],,1,1,outgoing,2600000
+CBi-PROVIDER-130,Google.org,70,,,,CBi-RECEIVER-61,The Association for Legal Intervention [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-130,Google.org,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,877767
+CBi-PROVIDER-131,Grammarly Inc.,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
+CBi-PROVIDER-132,Group 1001 Resources,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000
+CBi-PROVIDER-133,Groupe BPCE,70,,,,CBi-RECEIVER-51,French Red Cross,,1,1,outgoing,5429000
+CBi-PROVIDER-134,Groupe Caisse d'épargne,70,,,,CBi-RECEIVER-51,French Red Cross,,1,1,outgoing,1631224
+CBi-PROVIDER-135,Groupe Crédit Agricole,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10858000
+CBi-PROVIDER-136,Gucci,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
+CBi-PROVIDER-137,H&M Hennes & Mauritz AB,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,930684
+CBi-PROVIDER-138,H. Lundbeck A/S,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,1500000
+CBi-PROVIDER-139,Heartland,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10258668
+CBi-PROVIDER-139,Heartland,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,1465524
+CBi-PROVIDER-139,Heartland,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1465524
+CBi-PROVIDER-139,Heartland,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1465524
+CBi-PROVIDER-140,Helly Hansen,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,158000
+CBi-PROVIDER-141,HELP Logistics,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,500000
+CBi-PROVIDER-142,Hendrick Automotive,70,,,,CBi-RECEIVER-62,Samaritan’s Purse [NGO],,1,1,outgoing,200000
+CBi-PROVIDER-143,Hilco Global,70,,,,CBi-RECEIVER-63,Sunflower of Peace [NGO],,1,1,outgoing,37500
+CBi-PROVIDER-143,Hilco Global,70,,,,CBi-RECEIVER-64,United Help Ukraine [NGO],,1,1,outgoing,37500
+CBi-PROVIDER-144,"Hitachi, Ltd.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3000000
+CBi-PROVIDER-145,Home Capital Group,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,39500
+CBi-PROVIDER-146,Hotel Engine,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,35200
+CBi-PROVIDER-147,"Humble Bundle, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,20817220
+CBi-PROVIDER-148,Hyundai Motor Company,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,1000000
+CBi-PROVIDER-149,IBM,70,,,,CBi-RECEIVER-31,People in Need [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-149,IBM,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-150,Iceland Foods Charitable Foundation,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,198000
+CBi-PROVIDER-151,ICR Touch,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,26440
+CBi-PROVIDER-152,Ikea Foundation,70,,,,CBi-RECEIVER-37,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,5500000
+CBi-PROVIDER-152,Ikea Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,22471910
+CBi-PROVIDER-153,INFICON Holding AG,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,27019
+CBi-PROVIDER-154,Inflexion Foundation,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,654000
+CBi-PROVIDER-155,Ingersoll Rand Inc.,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,242500
+CBi-PROVIDER-156,Intel Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1200000
+CBi-PROVIDER-157,Interogo Holding AG,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,5396868
+CBi-PROVIDER-158,James M. Cox Foundation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,500000
+CBi-PROVIDER-159,Japan Sporting Goods Industries Association,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000
+CBi-PROVIDER-160,John Legere Family Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
+CBi-PROVIDER-161,John Lewis Partnership,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,330000
+CBi-PROVIDER-162,Johnson & Johnson Foundation,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,2455546
+CBi-PROVIDER-162,Johnson & Johnson Foundation,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,2544454
+CBi-PROVIDER-163,Jonathan Molot and Hattie Ruttenberg Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,43249
+CBi-PROVIDER-164,JPMorgan Chase & Co.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
+CBi-PROVIDER-165,JYSK,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,156078
+CBi-PROVIDER-166,Kansas City Southern Charitable Fund,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,500000
+CBi-PROVIDER-167,Kerry Group plc,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,273823
+CBi-PROVIDER-168,KeyBank Foundation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,100000
+CBi-PROVIDER-168,KeyBank Foundation,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,50000
+CBi-PROVIDER-169,Kikkoman,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1000000
+CBi-PROVIDER-170,Kimberly-Clark,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1000000
+CBi-PROVIDER-171,Knockward Ltd,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,10849
+CBi-PROVIDER-172,KOEI TECMO,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
+CBi-PROVIDER-173,Koninklijke DSM N.V.,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,15071
+CBi-PROVIDER-174,KPMG LLP,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-175,Kroger Co. Zero Hunger Zero Waste Foundation,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,242500
+CBi-PROVIDER-176,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,4364468
+CBi-PROVIDER-176,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-65,[redacted] Recipient A,,1,1,outgoing,8234
+CBi-PROVIDER-176,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,641124
+CBi-PROVIDER-176,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1824949
+CBi-PROVIDER-176,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,3231708
+CBi-PROVIDER-176,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-66,United Nations Population Fund (UNFPA),,1,1,outgoing,36382
+CBi-PROVIDER-176,Kuehne + Nagel International AG,70,,,,CBi-RECEIVER-67,World Health Organization (WHO),,1,1,outgoing,609135
+CBi-PROVIDER-177,Kurt Geiger,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,66000
+CBi-PROVIDER-178,LEGO Foundation,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,3700000
+CBi-PROVIDER-179,Liebherr Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,215517
+CBi-PROVIDER-180,"Lincoln Electric Holdings, Inc.",70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,24958
+CBi-PROVIDER-181,Lindt & Sprüngli AG,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,1080762
+CBi-PROVIDER-182,Louis Vuitton,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1090000
+CBi-PROVIDER-183,LVMH Group,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,5450000
+CBi-PROVIDER-184,Magna International,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000
+CBi-PROVIDER-185,Marks & Spencer,70,,,,CBi-RECEIVER-28,United Kingdom for UNHCR,,1,1,outgoing,660000
+CBi-PROVIDER-185,Marks & Spencer,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,660000
+CBi-PROVIDER-185,Marks & Spencer,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,660000
+CBi-PROVIDER-186,"Mars, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10000000
+CBi-PROVIDER-186,"Mars, Inc.",70,,,,CBi-RECEIVER-68,Humane Society International [NGO],,1,1,outgoing,500000
+CBi-PROVIDER-186,"Mars, Inc.",70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,1500000
+CBi-PROVIDER-187,Mastercard,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,1250000
+CBi-PROVIDER-187,Mastercard,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,3500000
+CBi-PROVIDER-188,Mercedes-Benz,70,,,,CBi-RECEIVER-6,German Red Cross,,1,1,outgoing,1090000
+CBi-PROVIDER-189,Merck KGaA,70,,,,CBi-RECEIVER-6,German Red Cross,,1,1,outgoing,2180000
+CBi-PROVIDER-190,"Meta Platforms, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,15000000
+CBi-PROVIDER-190,"Meta Platforms, Inc.",70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,146704
+CBi-PROVIDER-190,"Meta Platforms, Inc.",70,,,,CBi-RECEIVER-7,International Organization for Migration (IOM),,1,1,outgoing,150000
+CBi-PROVIDER-191,Metro AG,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,393258
+CBi-PROVIDER-192,Metro Supply Chain,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,39500
+CBi-PROVIDER-193,Michael & Susan Dell Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,15000000
+CBi-PROVIDER-194,Micky and Madeleine Arison Family Foundation,70,,,,CBi-RECEIVER-23,Direct Relief [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-194,Micky and Madeleine Arison Family Foundation,70,,,,CBi-RECEIVER-69,United Nations Children's Fund (UNICEF) USA,,1,1,outgoing,1000000
+CBi-PROVIDER-194,Micky and Madeleine Arison Family Foundation,70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-195,Microsoft Corporation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,31500000
+CBi-PROVIDER-196,Micys Company S.p.A.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,11236
+CBi-PROVIDER-197,Mitsubishi Electric,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1099600
+CBi-PROVIDER-198,Mondi plc,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1095290
+CBi-PROVIDER-199,Mondou,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,79000
+CBi-PROVIDER-200,Moody's Foundation,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-201,Moose Toys,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-202,Morrison & Foerster Foundation,70,,,,CBi-RECEIVER-70,Benevolent Healthcare Foundation [NGO],,1,1,outgoing,15000
+CBi-PROVIDER-202,Morrison & Foerster Foundation,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,17000
+CBi-PROVIDER-202,Morrison & Foerster Foundation,70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,15000
+CBi-PROVIDER-203,Morrison Supermarkets,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,330000
+CBi-PROVIDER-204,MSA Safety,70,,,,CBi-RECEIVER-71,FIRE AID [NGO],,1,1,outgoing,400000
+CBi-PROVIDER-205,NanoTemper Technologies,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,13508
+CBi-PROVIDER-206,NCR Foundation,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,200000
+CBi-PROVIDER-207,Neptune Energy,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,1000000
+CBi-PROVIDER-207,Neptune Energy,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-208,New York Life,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,150000
+CBi-PROVIDER-208,New York Life,70,,,,CBi-RECEIVER-69,United Nations Children's Fund (UNICEF) USA,,1,1,outgoing,150000
+CBi-PROVIDER-209,Newmont Corporation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
+CBi-PROVIDER-210,Nike Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1000000
+CBi-PROVIDER-211,"Nissan Motor Co., Ltd.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1088220
+CBi-PROVIDER-211,"Nissan Motor Co., Ltd.",70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,538795
+CBi-PROVIDER-212,Norton Rose Fulbright,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,100000
+CBi-PROVIDER-212,Norton Rose Fulbright,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,200000
+CBi-PROVIDER-213,Novartis AG,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,1000000
+CBi-PROVIDER-213,Novartis AG,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-213,Novartis AG,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-214,Novelis Corporation,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,300000
+CBi-PROVIDER-215,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,3695117
+CBi-PROVIDER-215,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,1478047
+CBi-PROVIDER-215,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-72,Human Rights Watch [NGO],,1,1,outgoing,147804
+CBi-PROVIDER-215,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-73,United Nations Children's Fund (UNICEF) Denmark,,1,1,outgoing,591218
+CBi-PROVIDER-215,Novo Nordisk Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1478047
+CBi-PROVIDER-216,Oak Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,10750000
+CBi-PROVIDER-217,Olam International,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1000000
+CBi-PROVIDER-218,Old Navy,70,,,,CBi-RECEIVER-74,USA for UNHCR,,1,1,outgoing,1000000
+CBi-PROVIDER-219,Olympus Corporation,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,497147
+CBi-PROVIDER-220,OpenText,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000
+CBi-PROVIDER-221,"Orrick, Herrington & Sutcliffe",70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,12500
+CBi-PROVIDER-221,"Orrick, Herrington & Sutcliffe",70,,,,CBi-RECEIVER-64,United Help Ukraine [NGO],,1,1,outgoing,12500
+CBi-PROVIDER-222,Pacific Life Foundation,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,250000
+CBi-PROVIDER-223,Pandora,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1000000
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,1600000
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-75,Caritas Lviv [NGO],,1,1,outgoing,1671684
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-23,Direct Relief [NGO],,1,1,outgoing,20000
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-76,Moldovan Red Cross,,1,1,outgoing,20615
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-77,Polish Red Cross,,1,1,outgoing,917805
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-78,Romanian Red Cross,,1,1,outgoing,22423
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,1020751
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-79,Swiss Red Cross,,1,1,outgoing,20000
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-80,Ukraine Foodbank [NGO],,1,1,outgoing,474287
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,1000000
+CBi-PROVIDER-224,"Pepsico Foundation, Inc.",70,,,,CBi-RECEIVER-81,World Vision Romania [NGO],,1,1,outgoing,350000
+CBi-PROVIDER-225,"Phillips Auctioneers, LLC",70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,7656000
+CBi-PROVIDER-226,Pioneer Natural Resources,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,20000000
+CBi-PROVIDER-227,Plarium,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,500000
+CBi-PROVIDER-228,Pokémon Company,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,200000
+CBi-PROVIDER-229,"Popular, Inc.",70,,,,CBi-RECEIVER-82,American Red Cross in Puerto Rico,,1,1,outgoing,50000
+CBi-PROVIDER-230,Porsche AG,70,,,,CBi-RECEIVER-83,Ferry Porsche Foundation [NGO],,1,1,outgoing,272500
+CBi-PROVIDER-230,Porsche AG,70,,,,CBi-RECEIVER-29,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,817500
+CBi-PROVIDER-231,PricewaterhouseCoopers,70,,,,CBi-RECEIVER-19,CARE International [NGO],,1,1,outgoing,125000
+CBi-PROVIDER-232,Procter & Gamble,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,755436
+CBi-PROVIDER-233,"Punto Fa, S.L.",70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,111595
+CBi-PROVIDER-234,Realdania,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,7315290
+CBi-PROVIDER-234,Realdania,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,3657645
+CBi-PROVIDER-234,Realdania,70,,,,CBi-RECEIVER-84,Save the Children Denmark [NGO],,1,1,outgoing,3657645
+CBi-PROVIDER-235,Revolut,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1500000
+CBi-PROVIDER-236,"Riot Games, Inc.",70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,1800000
+CBi-PROVIDER-236,"Riot Games, Inc.",70,,,,CBi-RECEIVER-8,International Medical Corps (IMC) [NGO],,1,1,outgoing,1800000
+CBi-PROVIDER-236,"Riot Games, Inc.",70,,,,CBi-RECEIVER-37,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,1800000
+CBi-PROVIDER-237,Riverview Community Bank,70,,,,CBi-RECEIVER-85,Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO],,1,1,outgoing,10000
+CBi-PROVIDER-238,Rockwell Automation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,100000
+CBi-PROVIDER-238,Rockwell Automation,70,,,,CBi-RECEIVER-42,GlobalGiving [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-238,Rockwell Automation,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-238,Rockwell Automation,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-238,Rockwell Automation,70,,,,CBi-RECEIVER-86,United Way [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-239,Royal Bank of Canada,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,158000
+CBi-PROVIDER-240,RSM US Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,32150
+CBi-PROVIDER-241,Russel Metals Inc. ,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,79000
+CBi-PROVIDER-242,S&P Global Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,150000
+CBi-PROVIDER-242,S&P Global Foundation,70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,150000
+CBi-PROVIDER-243,Sainsbury's,70,,,,CBi-RECEIVER-87,Comic Relief [NGO],,1,1,outgoing,2640000
+CBi-PROVIDER-244,"Salesforce, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,4000000
+CBi-PROVIDER-245,Salvatore Ferragamo S.p.A.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,337079
+CBi-PROVIDER-246,Samsung Electronics,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,6000000
+CBi-PROVIDER-247,Sanofi S.A.,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5439025
+CBi-PROVIDER-248,Sappi Limited,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,100000
+CBi-PROVIDER-249,Schörling Family Foundation,70,,,,CBi-RECEIVER-88,Swedish Red Cross,,1,1,outgoing,5282620
+CBi-PROVIDER-249,Schörling Family Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,5282620
+CBi-PROVIDER-250,Sentara Healthcare,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,3500000
+CBi-PROVIDER-251,SentinelOne,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,25000
+CBi-PROVIDER-252,Share Our Strength,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,9700
+CBi-PROVIDER-253,Shiseido Group,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1101820
+CBi-PROVIDER-254,Sidney E. Frank Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000
+CBi-PROVIDER-255,Siemens Caring Hands,70,,,,CBi-RECEIVER-6,German Red Cross,,1,1,outgoing,1112483
+CBi-PROVIDER-256,Signet Love Inspires Foundation,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1000000
+CBi-PROVIDER-257,Skoda,70,,,,CBi-RECEIVER-31,People in Need [NGO],,1,1,outgoing,443240
+CBi-PROVIDER-258,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,1250000
+CBi-PROVIDER-258,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-89,Mercy Chefs [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-258,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-258,"Smithfield Foods, Inc.",70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-259,"Snap, Inc.",70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,15000000
+CBi-PROVIDER-259,"Snap, Inc.",70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
+CBi-PROVIDER-260,Societe Generale Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,2177020
+CBi-PROVIDER-261,Sologenic Development Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,10000
+CBi-PROVIDER-262,Sonoco Products Company,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,50594
+CBi-PROVIDER-263,Sony Group,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5000000
+CBi-PROVIDER-264,"Southeastern Grocers, Inc.",70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,250000
+CBi-PROVIDER-264,"Southeastern Grocers, Inc.",70,,,,CBi-RECEIVER-90,Mission 823 [NGO],,1,1,outgoing,1100000
+CBi-PROVIDER-265,Spiegel Family Fund,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
+CBi-PROVIDER-266,Square Enix,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000
+CBi-PROVIDER-267,Sun Life Financial Inc.,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,158000
+CBi-PROVIDER-268,Supercell Oy,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000
+CBi-PROVIDER-269,T. Rowe Price Foundation,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,500000
+CBi-PROVIDER-270,Taiwan Sporting Goods Manufacturers Association,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000
+CBi-PROVIDER-271,Takeda Pharmaceutical Company Ltd,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,23985235
+CBi-PROVIDER-272,Techland S.A.,70,,,,CBi-RECEIVER-40,Polish Humanitarian Action [NGO],,1,1,outgoing,230890
+CBi-PROVIDER-273,Telus Corporation,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,79000
+CBi-PROVIDER-274,TELUS Friendly Future Foundation,70,,,,CBi-RECEIVER-35,Canadian Red Cross Society,,1,1,outgoing,118500
+CBi-PROVIDER-275,Tesco PLC,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,1320000
+CBi-PROVIDER-276,Teva Pharmaceutical Industries Ltd.,70,,,,CBi-RECEIVER-23,Direct Relief [NGO],,1,1,outgoing,10800000
+CBi-PROVIDER-276,Teva Pharmaceutical Industries Ltd.,70,,,,CBi-RECEIVER-31,People in Need [NGO],,1,1,outgoing,180000
+CBi-PROVIDER-276,Teva Pharmaceutical Industries Ltd.,70,,,,CBi-RECEIVER-91,United Hatzalah [NGO],,1,1,outgoing,180000
+CBi-PROVIDER-277,Texas Instruments Foundation,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,25000
+CBi-PROVIDER-278,The Body Shop International Limited,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,50000
+CBi-PROVIDER-279,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-38,Danish Red Cross,,1,1,outgoing,3655637
+CBi-PROVIDER-279,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-39,Danish Refugee Council [NGO],,1,1,outgoing,1462255
+CBi-PROVIDER-279,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-72,Human Rights Watch [NGO],,1,1,outgoing,146225
+CBi-PROVIDER-279,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-92,Plan International Denmark [NGO],,1,1,outgoing,584902
+CBi-PROVIDER-279,The Carlsberg Foundation and the Tuborg Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1462255
+CBi-PROVIDER-280,"The Interpublic Group of Companies, Inc.",70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,9700
+CBi-PROVIDER-281,The Nippon Foundation,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,40000000
+CBi-PROVIDER-282,TikTok Inc.,70,,,,CBi-RECEIVER-93,United Nations Central Emergency Response Fund (CERF),,1,1,outgoing,1000000
+CBi-PROVIDER-283,TJ Morris Ltd,70,,,,CBi-RECEIVER-46,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,132000
+CBi-PROVIDER-284,Tom Ford SA,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,100000
+CBi-PROVIDER-285,Toyota Motor Corporation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,551120
+CBi-PROVIDER-286,Tripadvisor Foundation,70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-287,U.S. Travel Association,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,24250
+CBi-PROVIDER-288,Uber Technologies Inc.,70,,,,CBi-RECEIVER-5,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,248573
+CBi-PROVIDER-288,Uber Technologies Inc.,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,1000000
+CBi-PROVIDER-289,Ukrainian Credit Union ,70,,,,CBi-RECEIVER-94,The Canada-Ukraine Foundation [NGO],,1,1,outgoing,79000
+CBi-PROVIDER-290,Unilever,70,,,,CBi-RECEIVER-3,[multiple or not specified],,1,1,outgoing,5451250
+CBi-PROVIDER-291,Union Pacific Railroad,70,,,,CBi-RECEIVER-1,American Red Cross,,1,1,outgoing,250000
+CBi-PROVIDER-291,Union Pacific Railroad,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-292,United Health Foundation,70,,,,CBi-RECEIVER-23,Direct Relief [NGO],,1,1,outgoing,500000
+CBi-PROVIDER-292,United Health Foundation,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,500000
+CBi-PROVIDER-293,Valentino,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,557975
+CBi-PROVIDER-294,Vantage Towers,70,,,,CBi-RECEIVER-95,Interchurched Aid [NGO],,1,1,outgoing,13747
+CBi-PROVIDER-294,Vantage Towers,70,,,,CBi-RECEIVER-78,Romanian Red Cross,,1,1,outgoing,13747
+CBi-PROVIDER-294,Vantage Towers,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,27494
+CBi-PROVIDER-295,Verizon Communications Inc. ,70,,,,CBi-RECEIVER-8,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-295,Verizon Communications Inc. ,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,250000
+CBi-PROVIDER-295,Verizon Communications Inc. ,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,250000
+CBi-PROVIDER-296,VF Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,250000
+CBi-PROVIDER-297,Visa Foundation,70,,,,CBi-RECEIVER-69,United Nations Children's Fund (UNICEF) USA,,1,1,outgoing,2000000
+CBi-PROVIDER-298,Vodafone,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,112360
+CBi-PROVIDER-299,Vodafone Czech Republic a.s.,70,,,,CBi-RECEIVER-31,People in Need [NGO],,1,1,outgoing,85780
+CBi-PROVIDER-300,Vodafone Germany,70,,,,CBi-RECEIVER-96,Aktion Deutschland Hilft [NGO],,1,1,outgoing,219932
+CBi-PROVIDER-301,Vodafone Group Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,549875
+CBi-PROVIDER-302,Vodafone Hungary,70,,,,CBi-RECEIVER-97,Hungarian Interchurch Aid [NGO],,1,1,outgoing,54988
+CBi-PROVIDER-302,Vodafone Hungary,70,,,,CBi-RECEIVER-98,Sovereign Military Order of Malta,,1,1,outgoing,54988
+CBi-PROVIDER-303,Vodafone Italy Foundation,70,,,,CBi-RECEIVER-99,Italian Red Cross,,1,1,outgoing,109976
+CBi-PROVIDER-303,Vodafone Italy Foundation,70,,,,CBi-RECEIVER-100,Maria Francesca Rava Foundation [NGO],,1,1,outgoing,109976
+CBi-PROVIDER-304,Vodafone Luxembourg Foundation,70,,,,CBi-RECEIVER-101,Luxembourg Red Cross,,1,1,outgoing,6817
+CBi-PROVIDER-305,Vodafone Romania,70,,,,CBi-RECEIVER-102,Association for Community Relations [NGO],,1,1,outgoing,43990
+CBi-PROVIDER-305,Vodafone Romania,70,,,,CBi-RECEIVER-103,Doctors for Romania Association [NGO],,1,1,outgoing,16496
+CBi-PROVIDER-305,Vodafone Romania,70,,,,CBi-RECEIVER-104,Fundatia Mereu Aproape [NGO],,1,1,outgoing,32992
+CBi-PROVIDER-305,Vodafone Romania,70,,,,CBi-RECEIVER-105,Jesuit Refugee Service [NGO],,1,1,outgoing,10997
+CBi-PROVIDER-306,Vodafone Spain Foundation,70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,27491
+CBi-PROVIDER-307,Vodafone UK,70,,,,CBi-RECEIVER-12,British Red Cross Society ,,1,1,outgoing,329700
+CBi-PROVIDER-308,Volkswagen AG,70,,,,CBi-RECEIVER-29,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,1108400
+CBi-PROVIDER-309,Volvo,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,205570
+CBi-PROVIDER-310,Wabtec Foundation,70,,,,CBi-RECEIVER-9,International Rescue Committee (IRC) [NGO],,1,1,outgoing,50000
+CBi-PROVIDER-310,Wabtec Foundation,70,,,,CBi-RECEIVER-21,World Central Kitchen [NGO],,1,1,outgoing,50000
+CBi-PROVIDER-311,WELL Health Technologies,70,,,,CBi-RECEIVER-36,United Nations Children's Fund (UNICEF) Canada,,1,1,outgoing,79000
+CBi-PROVIDER-312,Western Union Foundation,70,,,,CBi-RECEIVER-8,International Medical Corps (IMC) [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-312,Western Union Foundation,70,,,,CBi-RECEIVER-106,Lithuanian Red Cross,,1,1,outgoing,22097
+CBi-PROVIDER-313,White & Case,70,,,,CBi-RECEIVER-43,Ukrainian Red Cross Society,,1,1,outgoing,1000000
+CBi-PROVIDER-314,William Demant Foundation,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,1050000
+CBi-PROVIDER-315,Wings for Things Foundation Inc.,70,,,,CBi-RECEIVER-2,World Food Programme (WFP),,1,1,outgoing,242500
+CBi-PROVIDER-316,World Federation of the Sporting Goods Industry,70,,,,CBi-RECEIVER-18,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,53294
+CBi-PROVIDER-317,"Wyndham Hotels & Resorts, Inc.",70,,,,CBi-RECEIVER-17,Save the Children [NGO],,1,1,outgoing,100000
+CBi-PROVIDER-318,XTX Markets,70,,,,CBi-RECEIVER-28,United Kingdom for UNHCR,,1,1,outgoing,13187200
+CBi-PROVIDER-319,Yum! Brands Foundation,70,,,,CBi-RECEIVER-34,International Committee of the Red Cross (ICRC),,1,1,outgoing,1000000
+CBi-PROVIDER-320,Yuri and Julia Milner Foundation,70,,,,CBi-RECEIVER-47,GoFundMe.org Stand With Ukraine Fund,,1,1,outgoing,2000000
+CBi-PROVIDER-321,Z Zurich Foundation,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,269397
+CBi-PROVIDER-322,Zegna N.V.,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1123595
+CBi-PROVIDER-323,Zound Industries,70,,,,CBi-RECEIVER-10,United Nations Children's Fund (UNICEF),,1,1,outgoing,27017
+CBi-PROVIDER-323,Zound Industries,70,,,,CBi-RECEIVER-4,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,27017
