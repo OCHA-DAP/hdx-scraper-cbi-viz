@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2022-04-22T14:35:37.597738","#meta+flows+num":460},"data":[
+{"metadata":{"#date+run":"2022-04-23T14:35:21.480076","#meta+flows+num":460},"data":[
 {"#org+id+reporting":"CBi-PROVIDER-1","#org+reporting+type":70,"#org+name+provider":null,"#org+name+receiver":"American Red Cross","#indicator+bool+humanitarian":1,"#indicator+bool+strict":1,"#x_transaction_direction":"outgoing","#value+total":2500000},
 {"#org+id+reporting":"CBi-PROVIDER-1","#org+reporting+type":70,"#org+name+provider":null,"#org+name+receiver":"World Food Programme (WFP)","#indicator+bool+humanitarian":1,"#indicator+bool+strict":1,"#x_transaction_direction":"outgoing","#value+total":2425000},
 {"#org+id+reporting":"CBi-PROVIDER-2","#org+reporting+type":70,"#org+name+provider":null,"#org+name+receiver":"[multiple or not specified]","#indicator+bool+humanitarian":1,"#indicator+bool+strict":1,"#x_transaction_direction":"outgoing","#value+total":2752000},
