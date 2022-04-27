@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2022-04-26T14:35:35.543816","#meta+transactions+num":504},"data":[
+{"metadata":{"#date+run":"2022-04-27T14:36:01.713455","#meta+transactions+num":504},"data":[
 {"#date+month":"2022-04","#org+id":"CBi-PROVIDER-1","#org+type":70,"#sector":"Energy","#country":"American Red Cross","#indicator+bool+humanitarian":1,"#indicator+bool+strict":1,"#x_transaction_type":"spending","#activity+code":"CBi-ACTIVITY-0","#value+net":2500000,"#value+total":2500000},
 {"#date+month":"2022-04","#org+id":"CBi-PROVIDER-1","#org+type":70,"#sector":"Energy","#country":"World Food Programme (WFP)","#indicator+bool+humanitarian":1,"#indicator+bool+strict":1,"#x_transaction_type":"spending","#activity+code":"CBi-ACTIVITY-1","#value+net":2425000,"#value+total":2425000},
 {"#date+month":"2022-04","#org+id":"CBi-PROVIDER-2","#org+type":70,"#sector":"Consumer discretionary","#country":"[multiple or not specified]","#indicator+bool+humanitarian":1,"#indicator+bool+strict":1,"#x_transaction_type":"commitments","#activity+code":"CBi-ACTIVITY-2","#value+net":2752000,"#value+total":2752000},
