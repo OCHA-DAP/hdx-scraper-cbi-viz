@@ -62,8 +62,8 @@ Month,Reporting org id,Reporting org name,Reporting org type,Sector,Recipient co
 2022-05,CBi-PROVIDER-34,AstraZeneca,70,Health care,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-59,9343,9343
 2022-05,CBi-PROVIDER-35,Atlas Copco Group,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-60,105807,105807
 2022-05,CBi-PROVIDER-36,ATN Corp.,70,Consumer discretionary,The Gorta Group [NGO],1,1,commitments,CBi-ACTIVITY-61,300000,300000
-2022-05,CBi-PROVIDER-37,Audi AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-62,805774,805774
-2022-05,CBi-PROVIDER-37,Audi AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-63,268591,268591
+2022-05,CBi-PROVIDER-37,Audi AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-62,268591,268591
+2022-05,CBi-PROVIDER-37,Audi AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-63,805774,805774
 2022-05,CBi-PROVIDER-38,"Aurora World, Inc.",70,Consumer discretionary,The Toy Foundation [NGO],1,1,commitments,CBi-ACTIVITY-64,250000,250000
 2022-05,CBi-PROVIDER-39,aviado GmbH,70,Industrials,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-65,16667,16667
 2022-05,CBi-PROVIDER-40,AXA,70,Financials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-66,6405720,6405720
@@ -78,8 +78,8 @@ Month,Reporting org id,Reporting org name,Reporting org type,Sector,Recipient co
 2022-05,CBi-PROVIDER-49,Barratt Foundation,70,Communications services,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-75,66000,66000
 2022-05,CBi-PROVIDER-50,Barry Callebaut AG,70,Consumer discretionary,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-76,31617,31617
 2022-05,CBi-PROVIDER-51,BASF,70,Industrials,German Red Cross,1,1,commitments,CBi-ACTIVITY-77,1101820,1101820
-2022-05,CBi-PROVIDER-52,Bayer AG,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-78,263672,263672
-2022-05,CBi-PROVIDER-52,Bayer AG,70,Health care,[multiple or not specified],1,1,spending,CBi-ACTIVITY-79,204681,204681
+2022-05,CBi-PROVIDER-52,Bayer AG,70,Health care,[multiple or not specified],1,1,spending,CBi-ACTIVITY-78,204681,204681
+2022-05,CBi-PROVIDER-52,Bayer AG,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-79,263672,263672
 2022-05,CBi-PROVIDER-52,Bayer AG,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-80,1673122,1673122
 2022-05,CBi-PROVIDER-52,Bayer AG,70,Health care,German Red Cross,1,1,spending,CBi-ACTIVITY-81,210938,210938
 2022-05,CBi-PROVIDER-52,Bayer AG,70,Health care,German Red Cross,1,1,spending,CBi-ACTIVITY-82,1120462,1120462
@@ -197,8 +197,8 @@ Month,Reporting org id,Reporting org name,Reporting org type,Sector,Recipient co
 2022-05,CBi-PROVIDER-107,"Daiichi Sankyo Company, Limited",70,Health care,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-194,1000000,1000000
 2022-05,CBi-PROVIDER-108,Daily Mail and General Trust,70,Communications services,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-195,660000,660000
 2022-05,CBi-PROVIDER-109,Danone S.A.,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-196,557334,557334
-2022-05,CBi-PROVIDER-110,Decathlon,70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-197,2778102,2778102
-2022-05,CBi-PROVIDER-110,Decathlon,70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-198,1068501,1068501
+2022-05,CBi-PROVIDER-110,Decathlon,70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-197,1068501,1068501
+2022-05,CBi-PROVIDER-110,Decathlon,70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-198,2778102,2778102
 2022-05,CBi-PROVIDER-111,Delta Air Lines,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-199,1000000,1000000
 2022-05,CBi-PROVIDER-111,Delta Air Lines,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-200,100000,100000
 2022-05,CBi-PROVIDER-112,Dentsu Inc.,70,Communications services,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-201,844600,844600
@@ -296,340 +296,346 @@ Month,Reporting org id,Reporting org name,Reporting org type,Sector,Recipient co
 2022-05,CBi-PROVIDER-183,Hendrick Automotive,70,Consumer discretionary,Samaritan’s Purse [NGO],1,1,commitments,CBi-ACTIVITY-293,200000,200000
 2022-05,CBi-PROVIDER-184,Hilco Global,70,Financials,Sunflower of Peace [NGO],1,1,commitments,CBi-ACTIVITY-294,37500,37500
 2022-05,CBi-PROVIDER-184,Hilco Global,70,Financials,United Help Ukraine [NGO],1,1,commitments,CBi-ACTIVITY-295,37500,37500
-2022-05,CBi-PROVIDER-185,"Hitachi, Ltd.",70,Consumer discretionary,Japanese Red Cross Society,1,1,spending,CBi-ACTIVITY-296,1340807,1340807
-2022-05,CBi-PROVIDER-185,"Hitachi, Ltd.",70,Consumer discretionary,United Nations Children's Fund (UNICEF) Japan Committee,1,1,spending,CBi-ACTIVITY-297,1340807,1340807
-2022-05,CBi-PROVIDER-186,Home Capital Group,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-298,39500,39500
-2022-05,CBi-PROVIDER-187,Hotel Engine,70,Consumer discretionary,World Food Programme (WFP),1,1,commitments,CBi-ACTIVITY-299,35200,35200
-2022-05,CBi-PROVIDER-188,"Humble Bundle, Inc.",70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-300,20817220,20817220
-2022-05,CBi-PROVIDER-189,Hyundai Motor Company,70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-301,1000000,1000000
-2022-05,CBi-PROVIDER-190,IBM,70,Information technology,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-302,250000,250000
-2022-05,CBi-PROVIDER-190,IBM,70,Information technology,Polish Humanitarian Action [NGO],1,1,commitments,CBi-ACTIVITY-303,250000,250000
-2022-05,CBi-PROVIDER-191,Iceland Foods Charitable Foundation,70,Consumer staples,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-304,198000,198000
-2022-05,CBi-PROVIDER-192,ICR Touch,70,Information technology,Disasters Emergency Committee (DEC) [NGO],1,1,commitments,CBi-ACTIVITY-305,26440,26440
-2022-05,CBi-PROVIDER-193,Ikea Foundation,70,Consumer discretionary,Médecins Sans Frontières (MSF) [NGO],1,1,commitments,CBi-ACTIVITY-306,5500000,5500000
-2022-05,CBi-PROVIDER-193,Ikea Foundation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-307,22471910,22471910
-2022-05,CBi-PROVIDER-194,INFICON Holding AG,70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-308,27019,27019
-2022-05,CBi-PROVIDER-195,Inflexion Foundation,70,Financials,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-309,654000,654000
-2022-05,CBi-PROVIDER-196,Ingersoll Rand Inc.,70,Industrials,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-310,242500,242500
-2022-05,CBi-PROVIDER-197,Intel Foundation,70,Industrials,American Red Cross,1,1,spending,CBi-ACTIVITY-311,350000,350000
-2022-05,CBi-PROVIDER-197,Intel Foundation,70,Industrials,Geeks Without Frontiers [NGO],1,1,spending,CBi-ACTIVITY-312,500000,500000
-2022-05,CBi-PROVIDER-197,Intel Foundation,70,Industrials,GlobalGiving [NGO],1,1,spending,CBi-ACTIVITY-313,560000,560000
-2022-05,CBi-PROVIDER-197,Intel Foundation,70,Industrials,United Nations Children's Fund (UNICEF) USA,1,1,spending,CBi-ACTIVITY-314,540000,540000
-2022-05,CBi-PROVIDER-197,Intel Foundation,70,Industrials,USA for UNHCR,1,1,spending,CBi-ACTIVITY-315,550000,550000
-2022-05,CBi-PROVIDER-198,Interogo Holding AG,70,Real estate,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-316,5396868,5396868
-2022-05,CBi-PROVIDER-199,Intuit Inc.,70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-317,1000000,1000000
-2022-05,CBi-PROVIDER-200,Ipsen,70,Health care,French Red Cross,1,1,commitments,CBi-ACTIVITY-318,791059,791059
-2022-05,CBi-PROVIDER-200,Ipsen,70,Health care,Tulipe [NGO],1,1,commitments,CBi-ACTIVITY-319,791059,791059
-2022-05,CBi-PROVIDER-201,Jaguar Land Rover,70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-320,178930,178930
-2022-05,CBi-PROVIDER-202,James M. Cox Foundation,70,Communications services,American Red Cross,1,1,commitments,CBi-ACTIVITY-321,500000,500000
-2022-05,CBi-PROVIDER-203,Japan Sporting Goods Industries Association,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-322,10000,10000
-2022-05,CBi-PROVIDER-204,John Legere Family Foundation,70,Communications services,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-323,25000,25000
-2022-05,CBi-PROVIDER-205,John Lewis Partnership,70,Consumer discretionary,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-324,132000,132000
-2022-05,CBi-PROVIDER-205,John Lewis Partnership,70,Consumer discretionary,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-325,198000,198000
-2022-05,CBi-PROVIDER-206,Johnson & Johnson Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-326,5000000,5000000
-2022-05,CBi-PROVIDER-206,Johnson & Johnson Foundation,70,Consumer discretionary,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-327,4877232,4877232
-2022-05,CBi-PROVIDER-206,Johnson & Johnson Foundation,70,Consumer discretionary,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-328,2544454,2544454
-2022-05,CBi-PROVIDER-207,Jonathan Molot and Hattie Ruttenberg Foundation,70,Financials,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-329,43249,43249
-2022-05,CBi-PROVIDER-208,JPMorgan Chase & Co.,70,Financials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-330,4000000,4000000
-2022-05,CBi-PROVIDER-208,JPMorgan Chase & Co.,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-331,1000000,1000000
-2022-05,CBi-PROVIDER-209,JYSK,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-332,156078,156078
-2022-05,CBi-PROVIDER-210,Kansas City Southern Charitable Fund,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-333,500000,500000
-2022-05,CBi-PROVIDER-211,Keen,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-334,165000,165000
-2022-05,CBi-PROVIDER-212,Kerry Group plc,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-335,273823,273823
-2022-05,CBi-PROVIDER-213,KeyBank Foundation,70,Financials,American Red Cross,1,1,commitments,CBi-ACTIVITY-336,100000,100000
-2022-05,CBi-PROVIDER-213,KeyBank Foundation,70,Financials,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-337,50000,50000
-2022-05,CBi-PROVIDER-214,Kikkoman,70,Consumer staples,World Food Programme (WFP),1,1,commitments,CBi-ACTIVITY-338,1000000,1000000
-2022-05,CBi-PROVIDER-215,Kimberly-Clark,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-339,500000,500000
-2022-05,CBi-PROVIDER-215,Kimberly-Clark,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-340,500000,500000
-2022-05,CBi-PROVIDER-216,Kinross Gold Corporation,70,Materials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-341,1000000,1000000
-2022-05,CBi-PROVIDER-217,Knockward Ltd,70,,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-342,10849,10849
-2022-05,CBi-PROVIDER-218,KOEI TECMO,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-343,500000,500000
-2022-05,CBi-PROVIDER-219,Koninklijke DSM N.V.,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-344,15071,15071
-2022-05,CBi-PROVIDER-220,KPMG LLP,70,Financials,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-345,250000,250000
-2022-05,CBi-PROVIDER-221,Kroger Co. Zero Hunger Zero Waste Foundation,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-346,242500,242500
-2022-05,CBi-PROVIDER-222,Kuehne + Nagel International AG,70,Industrials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-347,4364468,4364468
-2022-05,CBi-PROVIDER-222,Kuehne + Nagel International AG,70,Industrials,[redacted] Recipient A,1,1,spending,CBi-ACTIVITY-348,8234,8234
-2022-05,CBi-PROVIDER-222,Kuehne + Nagel International AG,70,Industrials,International Committee of the Red Cross (ICRC),1,1,spending,CBi-ACTIVITY-349,641124,641124
-2022-05,CBi-PROVIDER-222,Kuehne + Nagel International AG,70,Industrials,United Nations Children's Fund (UNICEF),1,1,spending,CBi-ACTIVITY-350,1824949,1824949
-2022-05,CBi-PROVIDER-222,Kuehne + Nagel International AG,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-351,3231708,3231708
-2022-05,CBi-PROVIDER-222,Kuehne + Nagel International AG,70,Industrials,United Nations Population Fund (UNFPA),1,1,spending,CBi-ACTIVITY-352,36382,36382
-2022-05,CBi-PROVIDER-222,Kuehne + Nagel International AG,70,Industrials,World Health Organization (WHO),1,1,spending,CBi-ACTIVITY-353,609135,609135
-2022-05,CBi-PROVIDER-223,Kurt Geiger,70,Consumer discretionary,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-354,66000,66000
-2022-05,CBi-PROVIDER-224,LEGO Foundation,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-355,3700000,3700000
-2022-05,CBi-PROVIDER-225,LEO Pharma A/S,70,Health care,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-356,141758,141758
-2022-05,CBi-PROVIDER-225,LEO Pharma A/S,70,Health care,International Health Partners [NGO],1,1,commitments,CBi-ACTIVITY-357,1898379,1898379
-2022-05,CBi-PROVIDER-226,Levi Strauss & Co.,70,Consumer Discretionary,CARE International [NGO],1,1,commitments,CBi-ACTIVITY-358,100000,100000
-2022-05,CBi-PROVIDER-226,Levi Strauss & Co.,70,Consumer Discretionary,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-359,200000,200000
-2022-05,CBi-PROVIDER-227,Liebherr Foundation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-360,215517,215517
-2022-05,CBi-PROVIDER-228,"Lincoln Electric Holdings, Inc.",70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-361,24958,24958
-2022-05,CBi-PROVIDER-229,Lindt & Sprüngli AG,70,Consumer discretionary,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-362,1080762,1080762
-2022-05,CBi-PROVIDER-230,Louis Vuitton,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-363,1090000,1090000
-2022-05,CBi-PROVIDER-231,LVMH Group,70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-364,5450000,5450000
-2022-05,CBi-PROVIDER-232,Magna International,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-365,100000,100000
-2022-05,CBi-PROVIDER-233,Marks & Spencer,70,Consumer discretionary,United Kingdom for UNHCR,1,1,commitments,CBi-ACTIVITY-366,660000,660000
-2022-05,CBi-PROVIDER-233,Marks & Spencer,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-367,660000,660000
-2022-05,CBi-PROVIDER-233,Marks & Spencer,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-368,660000,660000
-2022-05,CBi-PROVIDER-234,Marriott International,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-369,2700000,2700000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-370,3750000,3750000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,American Red Cross,1,1,spending,CBi-ACTIVITY-371,2500000,2500000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,Humane Society International [NGO],1,1,spending,CBi-ACTIVITY-372,1500000,1500000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,International Fund for Animal Welfare [NGO],1,1,spending,CBi-ACTIVITY-373,750000,750000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,Save the Children [NGO],1,1,spending,CBi-ACTIVITY-374,1500000,1500000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-375,1000000,1000000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,Veterinarians Without Borders [NGO],1,1,spending,CBi-ACTIVITY-376,500000,500000
-2022-05,CBi-PROVIDER-235,"Mars, Inc.",70,Consumer staples,World Central Kitchen [NGO],1,1,spending,CBi-ACTIVITY-377,500000,500000
-2022-05,CBi-PROVIDER-236,Mastercard,70,Financials,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-378,1250000,1250000
-2022-05,CBi-PROVIDER-236,Mastercard,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-379,500000,500000
-2022-05,CBi-PROVIDER-236,Mastercard,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-380,3000000,3000000
-2022-05,CBi-PROVIDER-237,"Mattel, Inc.",70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-381,1000000,1000000
-2022-05,CBi-PROVIDER-238,Mazda Motor Corporation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-382,1056055,1056055
-2022-05,CBi-PROVIDER-239,McCain Foods Limited,70,Consumer Staples,Canadian Red Cross Society,1,1,spending,CBi-ACTIVITY-383,200000,200000
-2022-05,CBi-PROVIDER-240,Mercedes-Benz,70,Consumer discretionary,German Red Cross,1,1,commitments,CBi-ACTIVITY-384,1090000,1090000
-2022-05,CBi-PROVIDER-241,Merck KGaA,70,Health care,German Red Cross,1,1,commitments,CBi-ACTIVITY-385,2180000,2180000
-2022-05,CBi-PROVIDER-242,"Meta Platforms, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-386,10000000,10000000
-2022-05,CBi-PROVIDER-242,"Meta Platforms, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-387,5000000,5000000
-2022-05,CBi-PROVIDER-242,"Meta Platforms, Inc.",70,Information technology,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-388,146704,146704
-2022-05,CBi-PROVIDER-242,"Meta Platforms, Inc.",70,Information technology,International Organization for Migration (IOM),1,1,spending,CBi-ACTIVITY-389,150000,150000
-2022-05,CBi-PROVIDER-243,Metro AG,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-390,393258,393258
-2022-05,CBi-PROVIDER-244,Metro Supply Chain,70,Industrials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-391,39500,39500
-2022-05,CBi-PROVIDER-245,Michael & Susan Dell Foundation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-392,15000000,15000000
-2022-05,CBi-PROVIDER-246,Micky and Madeleine Arison Family Foundation,70,Consumer discretionary,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-393,1000000,1000000
-2022-05,CBi-PROVIDER-246,Micky and Madeleine Arison Family Foundation,70,Consumer discretionary,United Nations Children's Fund (UNICEF) USA,1,1,commitments,CBi-ACTIVITY-394,1000000,1000000
-2022-05,CBi-PROVIDER-246,Micky and Madeleine Arison Family Foundation,70,Consumer discretionary,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-395,1000000,1000000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-396,2149000,2149000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-397,4268000,4268000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-398,2017000,2017000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-399,27843000,27843000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-400,5405000,5405000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-401,52452000,52452000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-402,52000000,52000000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-403,19475000,19475000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-404,143500,143500
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-405,978880,978880
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-406,8708000,8708000
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-407,2445600,2445600
-2022-05,CBi-PROVIDER-247,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-408,70000,70000
-2022-05,CBi-PROVIDER-248,Micys Company S.p.A.,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-409,11236,11236
-2022-05,CBi-PROVIDER-249,Mitsubishi Electric,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-410,1099600,1099600
-2022-05,CBi-PROVIDER-250,Mondelez International,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-411,63384,63384
-2022-05,CBi-PROVIDER-251,Mondi plc,70,Industrials,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-412,1095290,1095290
-2022-05,CBi-PROVIDER-252,Mondou,70,Consumer discretionary,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-413,79000,79000
-2022-05,CBi-PROVIDER-253,Moody's Foundation,70,Financials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-414,250000,250000
-2022-05,CBi-PROVIDER-254,Moose Toys,70,Consumer discretionary,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-415,100000,100000
-2022-05,CBi-PROVIDER-255,Morrison & Foerster Foundation,70,Financials,Benevolent Healthcare Foundation [NGO],1,1,commitments,CBi-ACTIVITY-416,15000,15000
-2022-05,CBi-PROVIDER-255,Morrison & Foerster Foundation,70,Financials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-417,17000,17000
-2022-05,CBi-PROVIDER-255,Morrison & Foerster Foundation,70,Financials,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-418,15000,15000
-2022-05,CBi-PROVIDER-256,Morrison Supermarkets,70,Consumer staples,Disasters Emergency Committee (DEC) [NGO],1,1,commitments,CBi-ACTIVITY-419,330000,330000
-2022-05,CBi-PROVIDER-257,MSA Safety,70,Industrials,FIRE AID [NGO],1,1,commitments,CBi-ACTIVITY-420,400000,400000
-2022-05,CBi-PROVIDER-258,MSD,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-421,65000000,65000000
-2022-05,CBi-PROVIDER-259,NanoTemper Technologies,70,Information technology,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-422,13508,13508
-2022-05,CBi-PROVIDER-260,NCR Foundation,70,Industrials,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-423,200000,200000
-2022-05,CBi-PROVIDER-261,Neptune Energy,70,Energy,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-424,1000000,1000000
-2022-05,CBi-PROVIDER-261,Neptune Energy,70,Energy,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-425,1000000,1000000
-2022-05,CBi-PROVIDER-262,Nestlé Nespresso S.A.,70,Consumer staples,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-426,250000,250000
-2022-05,CBi-PROVIDER-263,Nestlé S.A.,70,Consumer staples,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-427,250000,250000
-2022-05,CBi-PROVIDER-263,Nestlé S.A.,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-428,654754,654754
-2022-05,CBi-PROVIDER-264,New York Life,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-429,150000,150000
-2022-05,CBi-PROVIDER-264,New York Life,70,Financials,United Nations Children's Fund (UNICEF) USA,1,1,commitments,CBi-ACTIVITY-430,150000,150000
-2022-05,CBi-PROVIDER-265,Newmont Corporation,70,Materials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-431,500000,500000
-2022-05,CBi-PROVIDER-265,Newmont Corporation,70,Materials,American Red Cross,1,1,commitments,CBi-ACTIVITY-432,3000000,3000000
-2022-05,CBi-PROVIDER-265,Newmont Corporation,70,Materials,American Red Cross,1,1,commitments,CBi-ACTIVITY-433,127110,127110
-2022-05,CBi-PROVIDER-265,Newmont Corporation,70,Materials,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-434,1000000,1000000
-2022-05,CBi-PROVIDER-265,Newmont Corporation,70,Materials,Project C.U.R.E. [NGO],1,1,commitments,CBi-ACTIVITY-435,500000,500000
-2022-05,CBi-PROVIDER-266,Nike Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-436,1000000,1000000
-2022-05,CBi-PROVIDER-267,"Nissan Motor Co., Ltd.",70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-437,1088220,1088220
-2022-05,CBi-PROVIDER-267,"Nissan Motor Co., Ltd.",70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-438,538795,538795
-2022-05,CBi-PROVIDER-268,Norton Rose Fulbright,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-439,100000,100000
-2022-05,CBi-PROVIDER-268,Norton Rose Fulbright,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-440,200000,200000
-2022-05,CBi-PROVIDER-269,Novartis AG,70,Health care,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-441,1000000,1000000
-2022-05,CBi-PROVIDER-269,Novartis AG,70,Health care,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-442,1000000,1000000
-2022-05,CBi-PROVIDER-269,Novartis AG,70,Health care,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-443,1000000,1000000
-2022-05,CBi-PROVIDER-270,Novelis Corporation,70,Industrials,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-444,300000,300000
-2022-05,CBi-PROVIDER-271,Novo Nordisk Foundation,70,Energy,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-445,3695117,3695117
-2022-05,CBi-PROVIDER-271,Novo Nordisk Foundation,70,Energy,Danish Refugee Council [NGO],1,1,commitments,CBi-ACTIVITY-446,1478047,1478047
-2022-05,CBi-PROVIDER-271,Novo Nordisk Foundation,70,Energy,Human Rights Watch [NGO],1,1,commitments,CBi-ACTIVITY-447,147804,147804
-2022-05,CBi-PROVIDER-271,Novo Nordisk Foundation,70,Energy,United Nations Children's Fund (UNICEF) Denmark,1,1,commitments,CBi-ACTIVITY-448,591218,591218
-2022-05,CBi-PROVIDER-271,Novo Nordisk Foundation,70,Energy,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-449,1478047,1478047
-2022-05,CBi-PROVIDER-271,Novo Nordisk Foundation,70,Energy,World Health Organization (WHO),1,1,spending,CBi-ACTIVITY-450,3656088,3656088
-2022-05,CBi-PROVIDER-272,Oak Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-451,10750000,10750000
-2022-05,CBi-PROVIDER-273,Offshore Technology Conference Inc.,70,Energy,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-452,25666,25666
-2022-05,CBi-PROVIDER-274,Olam International,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-453,1000000,1000000
-2022-05,CBi-PROVIDER-275,Old Navy,70,Consumer discretionary,USA for UNHCR,1,1,commitments,CBi-ACTIVITY-454,1000000,1000000
-2022-05,CBi-PROVIDER-276,Olympus Corporation,70,Consumer discretionary,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-455,497147,497147
-2022-05,CBi-PROVIDER-277,OpenText,70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-456,100000,100000
-2022-05,CBi-PROVIDER-278,"Orrick, Herrington & Sutcliffe",70,Financials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-457,12500,12500
-2022-05,CBi-PROVIDER-278,"Orrick, Herrington & Sutcliffe",70,Financials,United Help Ukraine [NGO],1,1,commitments,CBi-ACTIVITY-458,12500,12500
-2022-05,CBi-PROVIDER-279,"Otsuka Pharmaceutical Co., Ltd.",70,Health care,Japanese Red Cross Society,1,1,commitments,CBi-ACTIVITY-459,153670,153670
-2022-05,CBi-PROVIDER-280,Pacific Life Foundation,70,Financials,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-460,250000,250000
-2022-05,CBi-PROVIDER-281,Pandora,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-461,1000000,1000000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-462,1600000,1600000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Caritas [NGO],1,1,commitments,CBi-ACTIVITY-463,1671684,1671684
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-464,20000,20000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Moldovan Red Cross,1,1,commitments,CBi-ACTIVITY-465,20615,20615
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Polish Red Cross,1,1,commitments,CBi-ACTIVITY-466,650000,650000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Polish Red Cross,1,1,commitments,CBi-ACTIVITY-467,267805,267805
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Romanian Red Cross,1,1,commitments,CBi-ACTIVITY-468,22423,22423
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-469,1000000,1000000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-470,20751,20751
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Swiss Red Cross,1,1,commitments,CBi-ACTIVITY-471,20000,20000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,Ukraine Foodbank [NGO],1,1,commitments,CBi-ACTIVITY-472,474287,474287
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-473,1000000,1000000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,World Food Programme (WFP),1,1,commitments,CBi-ACTIVITY-474,1000000,1000000
-2022-05,CBi-PROVIDER-282,"Pepsico Foundation, Inc.",70,Consumer staples,World Vision Romania [NGO],1,1,commitments,CBi-ACTIVITY-475,350000,350000
-2022-05,CBi-PROVIDER-283,"Phillips Auctioneers, LLC",70,Consumer discretionary,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-476,7656000,7656000
-2022-05,CBi-PROVIDER-284,Pioneer Natural Resources,70,Energy,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-477,20000000,20000000
-2022-05,CBi-PROVIDER-285,Plarium,70,Consumer discretionary,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-478,500000,500000
-2022-05,CBi-PROVIDER-286,Pokémon Company,70,Consumer discretionary,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-479,200000,200000
-2022-05,CBi-PROVIDER-287,"Popular, Inc.",70,Financials,American Red Cross in Puerto Rico,1,1,commitments,CBi-ACTIVITY-480,50000,50000
-2022-05,CBi-PROVIDER-288,Porsche AG,70,Consumer discretionary,Ferry Porsche Foundation [NGO],1,1,commitments,CBi-ACTIVITY-481,272500,272500
-2022-05,CBi-PROVIDER-288,Porsche AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-482,817500,817500
-2022-05,CBi-PROVIDER-289,PricewaterhouseCoopers,70,Financials,CARE International [NGO],1,1,commitments,CBi-ACTIVITY-483,125000,125000
-2022-05,CBi-PROVIDER-290,Procter & Gamble,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-484,755436,755436
-2022-05,CBi-PROVIDER-291,"Punto Fa, S.L.",70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-485,111595,111595
-2022-05,CBi-PROVIDER-292,Realdania,70,Financials,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-486,7315290,7315290
-2022-05,CBi-PROVIDER-292,Realdania,70,Financials,Danish Refugee Council [NGO],1,1,commitments,CBi-ACTIVITY-487,3657645,3657645
-2022-05,CBi-PROVIDER-292,Realdania,70,Financials,Save the Children Denmark [NGO],1,1,commitments,CBi-ACTIVITY-488,3657645,3657645
-2022-05,CBi-PROVIDER-293,Renesas Electronics Corporation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-489,1074595,1074595
-2022-05,CBi-PROVIDER-294,Revolut,70,Financials,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-490,1500000,1500000
-2022-05,CBi-PROVIDER-295,"Riot Games, Inc.",70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-491,1800000,1800000
-2022-05,CBi-PROVIDER-295,"Riot Games, Inc.",70,Consumer discretionary,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-492,1800000,1800000
-2022-05,CBi-PROVIDER-295,"Riot Games, Inc.",70,Consumer discretionary,Médecins Sans Frontières (MSF) [NGO],1,1,commitments,CBi-ACTIVITY-493,1800000,1800000
-2022-05,CBi-PROVIDER-296,Riverview Community Bank,70,Financials,Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO],1,1,commitments,CBi-ACTIVITY-494,10000,10000
-2022-05,CBi-PROVIDER-297,Rockwell Automation,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-495,100000,100000
-2022-05,CBi-PROVIDER-297,Rockwell Automation,70,Industrials,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-496,100000,100000
-2022-05,CBi-PROVIDER-297,Rockwell Automation,70,Industrials,Polish Humanitarian Action [NGO],1,1,commitments,CBi-ACTIVITY-497,100000,100000
-2022-05,CBi-PROVIDER-297,Rockwell Automation,70,Industrials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-498,100000,100000
-2022-05,CBi-PROVIDER-297,Rockwell Automation,70,Industrials,United Way [NGO],1,1,commitments,CBi-ACTIVITY-499,100000,100000
-2022-05,CBi-PROVIDER-298,Royal Bank of Canada,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-500,158000,158000
-2022-05,CBi-PROVIDER-299,RSM US Foundation,70,Financials,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-501,32150,32150
-2022-05,CBi-PROVIDER-300,Russel Metals Inc. ,70,Materials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-502,79000,79000
-2022-05,CBi-PROVIDER-301,S&P Global Foundation,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-503,150000,150000
-2022-05,CBi-PROVIDER-301,S&P Global Foundation,70,Financials,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-504,150000,150000
-2022-05,CBi-PROVIDER-302,Sabre Corporation,70,Information technology,Polish Red Cross,1,1,commitments,CBi-ACTIVITY-505,1000000,1000000
-2022-05,CBi-PROVIDER-303,Sainsbury's,70,Consumer staples,Comic Relief [NGO],1,1,commitments,CBi-ACTIVITY-506,2640000,2640000
-2022-05,CBi-PROVIDER-304,"Salesforce, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-507,4000000,4000000
-2022-05,CBi-PROVIDER-305,Salvatore Ferragamo S.p.A.,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-508,337079,337079
-2022-05,CBi-PROVIDER-306,Samsung Electronics,70,Industrials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-509,5000000,5000000
-2022-05,CBi-PROVIDER-306,Samsung Electronics,70,Industrials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-510,1000000,1000000
-2022-05,CBi-PROVIDER-307,Sanofi S.A.,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-511,5439025,5439025
-2022-05,CBi-PROVIDER-308,SAP SE,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-512,3163515,3163515
-2022-05,CBi-PROVIDER-309,Sappi Limited,70,Materials,Ukraine Humanitarian Fund (UHF),1,1,commitments,CBi-ACTIVITY-513,100000,100000
-2022-05,CBi-PROVIDER-310,Schörling Family Foundation,70,Industrials,Swedish Red Cross,1,1,commitments,CBi-ACTIVITY-514,5282620,5282620
-2022-05,CBi-PROVIDER-310,Schörling Family Foundation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-515,5282620,5282620
-2022-05,CBi-PROVIDER-311,SeaDream Family Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-516,1500000,1500000
-2022-05,CBi-PROVIDER-312,Sentara Healthcare,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-517,3500000,3500000
-2022-05,CBi-PROVIDER-313,SentinelOne,70,Information technology,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-518,25000,25000
-2022-05,CBi-PROVIDER-314,Share Our Strength,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-519,9700,9700
-2022-05,CBi-PROVIDER-315,Shiseido Group,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-520,1101820,1101820
-2022-05,CBi-PROVIDER-316,Sidney E. Frank Foundation,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-521,20000,20000
-2022-05,CBi-PROVIDER-317,Siemens Caring Hands,70,Industrials,German Red Cross,1,1,commitments,CBi-ACTIVITY-522,1112483,1112483
-2022-05,CBi-PROVIDER-318,Siemens Gamesa Renewable Energy,70,Energy,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-523,136092,136092
-2022-05,CBi-PROVIDER-319,Signet Love Inspires Foundation,70,Consumer discretionary,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-524,1000000,1000000
-2022-05,CBi-PROVIDER-320,Škoda Auto a.s.,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-525,1108400,1108400
-2022-05,CBi-PROVIDER-320,Škoda Auto a.s.,70,Consumer discretionary,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-526,443240,443240
-2022-05,CBi-PROVIDER-321,"Smithfield Foods, Inc.",70,Consumer staples,American Red Cross,1,1,commitments,CBi-ACTIVITY-527,250000,250000
-2022-05,CBi-PROVIDER-321,"Smithfield Foods, Inc.",70,Consumer staples,American Red Cross,1,1,commitments,CBi-ACTIVITY-528,1000000,1000000
-2022-05,CBi-PROVIDER-321,"Smithfield Foods, Inc.",70,Consumer staples,Mercy Chefs [NGO],1,1,commitments,CBi-ACTIVITY-529,250000,250000
-2022-05,CBi-PROVIDER-321,"Smithfield Foods, Inc.",70,Consumer staples,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-530,250000,250000
-2022-05,CBi-PROVIDER-321,"Smithfield Foods, Inc.",70,Consumer staples,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-531,250000,250000
-2022-05,CBi-PROVIDER-322,"Snap, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-532,15000000,15000000
-2022-05,CBi-PROVIDER-322,"Snap, Inc.",70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-533,500000,500000
-2022-05,CBi-PROVIDER-323,Societe Generale Group,70,Financials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-534,2177020,2177020
-2022-05,CBi-PROVIDER-324,Sologenic Development Foundation,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-535,10000,10000
-2022-05,CBi-PROVIDER-325,Sonoco Products Company,70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-536,50594,50594
-2022-05,CBi-PROVIDER-326,Sony Group,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-537,5000000,5000000
-2022-05,CBi-PROVIDER-327,"Southeastern Grocers, Inc.",70,Consumer staples,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-538,250000,250000
-2022-05,CBi-PROVIDER-327,"Southeastern Grocers, Inc.",70,Consumer staples,Mission 823 [NGO],1,1,commitments,CBi-ACTIVITY-539,1100000,1100000
-2022-05,CBi-PROVIDER-328,Spiegel Family Fund,70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-540,1000000,1000000
-2022-05,CBi-PROVIDER-329,Square Enix,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-541,500000,500000
-2022-05,CBi-PROVIDER-330,Stallergenes AG,70,Health care,French Red Cross,1,1,commitments,CBi-ACTIVITY-542,158165,158165
-2022-05,CBi-PROVIDER-331,Sun Life Financial Inc.,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-543,158000,158000
-2022-05,CBi-PROVIDER-331,Sun Life Financial Inc.,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-544,80000,80000
-2022-05,CBi-PROVIDER-332,Supercell Oy,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-545,1000000,1000000
-2022-05,CBi-PROVIDER-333,Sylvamo,70,Materials,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-546,250000,250000
-2022-05,CBi-PROVIDER-334,T. Rowe Price Foundation,70,Financials,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-547,500000,500000
-2022-05,CBi-PROVIDER-335,Taiwan Sporting Goods Manufacturers Association,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-548,20000,20000
-2022-05,CBi-PROVIDER-336,Takeda Pharmaceutical Company Ltd,70,Health care,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-549,23985235,23985235
-2022-05,CBi-PROVIDER-337,Techland S.A.,70,Consumer discretionary,Polish Humanitarian Action [NGO],1,1,commitments,CBi-ACTIVITY-550,230890,230890
-2022-05,CBi-PROVIDER-338,Telus Corporation,70,Communications services,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-551,79000,79000
-2022-05,CBi-PROVIDER-339,TELUS Friendly Future Foundation,70,Communications services,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-552,118500,118500
-2022-05,CBi-PROVIDER-340,Tesco PLC,70,Consumer staples,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-553,1320000,1320000
-2022-05,CBi-PROVIDER-341,Teva Pharmaceutical Industries Ltd.,70,Health care,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-554,10800000,10800000
-2022-05,CBi-PROVIDER-341,Teva Pharmaceutical Industries Ltd.,70,Health care,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-555,180000,180000
-2022-05,CBi-PROVIDER-341,Teva Pharmaceutical Industries Ltd.,70,Health care,United Hatzalah [NGO],1,1,commitments,CBi-ACTIVITY-556,180000,180000
-2022-05,CBi-PROVIDER-342,Texas Instruments Foundation,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-557,25000,25000
-2022-05,CBi-PROVIDER-343,The Body Shop International Limited,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-558,50000,50000
-2022-05,CBi-PROVIDER-344,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-559,3655637,3655637
-2022-05,CBi-PROVIDER-344,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Danish Refugee Council [NGO],1,1,commitments,CBi-ACTIVITY-560,1462255,1462255
-2022-05,CBi-PROVIDER-344,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Human Rights Watch [NGO],1,1,commitments,CBi-ACTIVITY-561,146225,146225
-2022-05,CBi-PROVIDER-344,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Plan International Denmark [NGO],1,1,commitments,CBi-ACTIVITY-562,584902,584902
-2022-05,CBi-PROVIDER-344,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-563,1462255,1462255
-2022-05,CBi-PROVIDER-345,The Coca-Cola Company,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-564,13602743,13602743
-2022-05,CBi-PROVIDER-346,The Coca-Cola Foundation,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-565,982218,982218
-2022-05,CBi-PROVIDER-347,The Estée Lauder Companies Inc,70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-566,1000000,1000000
-2022-05,CBi-PROVIDER-348,"The Interpublic Group of Companies, Inc.",70,Communications services,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-567,9700,9700
-2022-05,CBi-PROVIDER-349,The Nippon Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-568,40000000,40000000
-2022-05,CBi-PROVIDER-350,The Pfizer Foundation,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-569,2000000,2000000
-2022-05,CBi-PROVIDER-351,TikTok Inc.,70,Information technology,United Nations Central Emergency Response Fund (CERF),1,1,spending,CBi-ACTIVITY-570,1000000,1000000
-2022-05,CBi-PROVIDER-352,TJ Morris Ltd,70,Consumer discretionary,Disasters Emergency Committee (DEC) [NGO],1,1,commitments,CBi-ACTIVITY-571,132000,132000
-2022-05,CBi-PROVIDER-353,Tom Ford SA,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,commitments,CBi-ACTIVITY-572,100000,100000
-2022-05,CBi-PROVIDER-354,Toyota Motor Corporation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-573,551120,551120
-2022-05,CBi-PROVIDER-355,Tripadvisor Foundation,70,Consumer discretionary,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-574,250000,250000
-2022-05,CBi-PROVIDER-356,Twitter,70,Information technology,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-575,267000,267000
-2022-05,CBi-PROVIDER-357,U.S. Travel Association,70,Consumer discretionary,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-576,24250,24250
-2022-05,CBi-PROVIDER-358,Uber Technologies Inc.,70,Information technology,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-577,252809,252809
-2022-05,CBi-PROVIDER-358,Uber Technologies Inc.,70,Information technology,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-578,1000000,1000000
-2022-05,CBi-PROVIDER-359,Ukrainian Credit Union ,70,Financials,The Canada-Ukraine Foundation [NGO],1,1,commitments,CBi-ACTIVITY-579,79000,79000
-2022-05,CBi-PROVIDER-360,Unilever,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-580,1790788,1790788
-2022-05,CBi-PROVIDER-360,Unilever,70,Consumer staples,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-581,2001470,2001470
-2022-05,CBi-PROVIDER-360,Unilever,70,Consumer staples,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-582,1474767,1474767
-2022-05,CBi-PROVIDER-361,Union Pacific Railroad,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-583,250000,250000
-2022-05,CBi-PROVIDER-361,Union Pacific Railroad,70,Industrials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-584,250000,250000
-2022-05,CBi-PROVIDER-362,United Health Foundation,70,Health care,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-585,500000,500000
-2022-05,CBi-PROVIDER-362,United Health Foundation,70,Health care,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-586,500000,500000
-2022-05,CBi-PROVIDER-363,Valentino,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-587,557975,557975
-2022-05,CBi-PROVIDER-364,Vanguard,70,Financials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-588,23694,23694
-2022-05,CBi-PROVIDER-365,Vantage Towers,70,Communications services,Interchurched Aid [NGO],1,1,commitments,CBi-ACTIVITY-589,13747,13747
-2022-05,CBi-PROVIDER-365,Vantage Towers,70,Communications services,Romanian Red Cross,1,1,commitments,CBi-ACTIVITY-590,13747,13747
-2022-05,CBi-PROVIDER-365,Vantage Towers,70,Communications services,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-591,27494,27494
-2022-05,CBi-PROVIDER-366,Verizon Communications Inc. ,70,Communications services,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-592,250000,250000
-2022-05,CBi-PROVIDER-366,Verizon Communications Inc. ,70,Communications services,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-593,250000,250000
-2022-05,CBi-PROVIDER-366,Verizon Communications Inc. ,70,Communications services,USA for UNHCR,1,1,commitments,CBi-ACTIVITY-594,250000,250000
-2022-05,CBi-PROVIDER-367,VF Foundation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-595,250000,250000
-2022-05,CBi-PROVIDER-368,Visa Foundation,70,Financials,United Nations Children's Fund (UNICEF) USA,1,1,commitments,CBi-ACTIVITY-596,2000000,2000000
-2022-05,CBi-PROVIDER-369,Vodafone,70,Communications services,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-597,112360,112360
-2022-05,CBi-PROVIDER-370,Vodafone Czech Republic a.s.,70,Communications services,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-598,85780,85780
-2022-05,CBi-PROVIDER-371,Vodafone Germany,70,Communications services,Aktion Deutschland Hilft [NGO],1,1,commitments,CBi-ACTIVITY-599,219932,219932
-2022-05,CBi-PROVIDER-372,Vodafone Group Foundation,70,Communications services,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-600,549875,549875
-2022-05,CBi-PROVIDER-373,Vodafone Hungary,70,Communications services,Hungarian Interchurch Aid [NGO],1,1,commitments,CBi-ACTIVITY-601,54988,54988
-2022-05,CBi-PROVIDER-373,Vodafone Hungary,70,Communications services,Sovereign Military Order of Malta,1,1,commitments,CBi-ACTIVITY-602,54988,54988
-2022-05,CBi-PROVIDER-374,Vodafone Italy Foundation,70,Communications services,Italian Red Cross,1,1,commitments,CBi-ACTIVITY-603,109976,109976
-2022-05,CBi-PROVIDER-374,Vodafone Italy Foundation,70,Communications services,Maria Francesca Rava Foundation [NGO],1,1,commitments,CBi-ACTIVITY-604,109976,109976
-2022-05,CBi-PROVIDER-375,Vodafone Luxembourg Foundation,70,Communications services,Luxembourg Red Cross,1,1,commitments,CBi-ACTIVITY-605,6817,6817
-2022-05,CBi-PROVIDER-376,Vodafone Romania,70,Communications services,Association for Community Relations [NGO],1,1,commitments,CBi-ACTIVITY-606,43990,43990
-2022-05,CBi-PROVIDER-376,Vodafone Romania,70,Communications services,Doctors for Romania Association [NGO],1,1,commitments,CBi-ACTIVITY-607,16496,16496
-2022-05,CBi-PROVIDER-376,Vodafone Romania,70,Communications services,Fundatia Mereu Aproape [NGO],1,1,commitments,CBi-ACTIVITY-608,32992,32992
-2022-05,CBi-PROVIDER-376,Vodafone Romania,70,Communications services,Jesuit Refugee Service [NGO],1,1,commitments,CBi-ACTIVITY-609,10997,10997
-2022-05,CBi-PROVIDER-377,Vodafone Spain Foundation,70,Communications services,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-610,27491,27491
-2022-05,CBi-PROVIDER-378,Vodafone UK,70,Communications services,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-611,329700,329700
-2022-05,CBi-PROVIDER-379,Volkswagen AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-612,1108400,1108400
-2022-05,CBi-PROVIDER-380,Volvo,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-613,205570,205570
-2022-05,CBi-PROVIDER-381,Wabtec Foundation,70,Industrials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-614,50000,50000
-2022-05,CBi-PROVIDER-381,Wabtec Foundation,70,Industrials,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-615,50000,50000
-2022-05,CBi-PROVIDER-382,WELL Health Technologies,70,Health care,United Nations Children's Fund (UNICEF) Canada,1,1,commitments,CBi-ACTIVITY-616,79000,79000
-2022-05,CBi-PROVIDER-383,Wells Fargo & Company,70,Financials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-617,1000000,1000000
-2022-05,CBi-PROVIDER-384,Western Union Foundation,70,Financials,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-618,100000,100000
-2022-05,CBi-PROVIDER-384,Western Union Foundation,70,Financials,Lithuanian Red Cross,1,1,commitments,CBi-ACTIVITY-619,22097,22097
-2022-05,CBi-PROVIDER-385,White & Case,70,Financials,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-620,1000000,1000000
-2022-05,CBi-PROVIDER-386,William Demant Foundation,70,Health care,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-621,1050000,1050000
-2022-05,CBi-PROVIDER-387,Wings for Things Foundation Inc.,70,,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-622,242500,242500
-2022-05,CBi-PROVIDER-388,World Federation of the Sporting Goods Industry,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-623,53294,53294
-2022-05,CBi-PROVIDER-389,"Wyndham Hotels & Resorts, Inc.",70,Consumer discretionary,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-624,100000,100000
-2022-05,CBi-PROVIDER-390,XTX Markets,70,Financials,United Kingdom for UNHCR,1,1,spending,CBi-ACTIVITY-625,13187200,13187200
-2022-05,CBi-PROVIDER-391,"Yamaha Motor Co., Ltd.",70,Industrials,Japan Platform [NGO],1,1,commitments,CBi-ACTIVITY-626,700000,700000
-2022-05,CBi-PROVIDER-392,Yum! Brands Foundation,70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-627,1000000,1000000
-2022-05,CBi-PROVIDER-393,Yuri and Julia Milner Foundation,70,Information technology,GoFundMe.org Stand With Ukraine Fund,1,1,spending,CBi-ACTIVITY-628,2000000,2000000
-2022-05,CBi-PROVIDER-394,Z Zurich Foundation,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-629,269397,269397
-2022-05,CBi-PROVIDER-395,Zegna N.V.,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-630,1123595,1123595
-2022-05,CBi-PROVIDER-396,Zound Industries,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-631,27017,27017
-2022-05,CBi-PROVIDER-396,Zound Industries,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-632,27017,27017
+2022-05,CBi-PROVIDER-185,"Hitachi Astemo, Ltd.",70,Consumer discretionary,Japanese Red Cross Society,1,1,spending,CBi-ACTIVITY-296,78753,78753
+2022-05,CBi-PROVIDER-186,"Hitachi, Ltd.",70,Consumer discretionary,American Red Cross,1,1,spending,CBi-ACTIVITY-297,236255,236255
+2022-05,CBi-PROVIDER-186,"Hitachi, Ltd.",70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,spending,CBi-ACTIVITY-298,126002,126002
+2022-05,CBi-PROVIDER-186,"Hitachi, Ltd.",70,Consumer discretionary,Japanese Red Cross Society,1,1,spending,CBi-ACTIVITY-299,1340807,1340807
+2022-05,CBi-PROVIDER-186,"Hitachi, Ltd.",70,Consumer discretionary,Singapore Red Cross Society,1,1,spending,CBi-ACTIVITY-300,35438,35438
+2022-05,CBi-PROVIDER-186,"Hitachi, Ltd.",70,Consumer discretionary,United Nations Children's Fund (UNICEF) Japan Committee,1,1,spending,CBi-ACTIVITY-301,1340807,1340807
+2022-05,CBi-PROVIDER-186,"Hitachi, Ltd.",70,Consumer discretionary,United Nations Children's Fund (UNICEF) USA,1,1,spending,CBi-ACTIVITY-302,66939,66939
+2022-05,CBi-PROVIDER-186,"Hitachi, Ltd.",70,Consumer discretionary,World Central Kitchen [NGO],1,1,spending,CBi-ACTIVITY-303,15750,15750
+2022-05,CBi-PROVIDER-187,Home Capital Group,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-304,39500,39500
+2022-05,CBi-PROVIDER-188,Hotel Engine,70,Consumer discretionary,World Food Programme (WFP),1,1,commitments,CBi-ACTIVITY-305,35200,35200
+2022-05,CBi-PROVIDER-189,"Humble Bundle, Inc.",70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-306,20817220,20817220
+2022-05,CBi-PROVIDER-190,Hyundai Motor Company,70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-307,1000000,1000000
+2022-05,CBi-PROVIDER-191,IBM,70,Information technology,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-308,250000,250000
+2022-05,CBi-PROVIDER-191,IBM,70,Information technology,Polish Humanitarian Action [NGO],1,1,commitments,CBi-ACTIVITY-309,250000,250000
+2022-05,CBi-PROVIDER-192,Iceland Foods Charitable Foundation,70,Consumer staples,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-310,198000,198000
+2022-05,CBi-PROVIDER-193,ICR Touch,70,Information technology,Disasters Emergency Committee (DEC) [NGO],1,1,commitments,CBi-ACTIVITY-311,26440,26440
+2022-05,CBi-PROVIDER-194,Ikea Foundation,70,Consumer discretionary,Médecins Sans Frontières (MSF) [NGO],1,1,commitments,CBi-ACTIVITY-312,5500000,5500000
+2022-05,CBi-PROVIDER-194,Ikea Foundation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-313,22471910,22471910
+2022-05,CBi-PROVIDER-195,INFICON Holding AG,70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-314,27019,27019
+2022-05,CBi-PROVIDER-196,Inflexion Foundation,70,Financials,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-315,654000,654000
+2022-05,CBi-PROVIDER-197,Ingersoll Rand Inc.,70,Industrials,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-316,242500,242500
+2022-05,CBi-PROVIDER-198,Intel Foundation,70,Industrials,American Red Cross,1,1,spending,CBi-ACTIVITY-317,350000,350000
+2022-05,CBi-PROVIDER-198,Intel Foundation,70,Industrials,Geeks Without Frontiers [NGO],1,1,spending,CBi-ACTIVITY-318,500000,500000
+2022-05,CBi-PROVIDER-198,Intel Foundation,70,Industrials,GlobalGiving [NGO],1,1,spending,CBi-ACTIVITY-319,560000,560000
+2022-05,CBi-PROVIDER-198,Intel Foundation,70,Industrials,United Nations Children's Fund (UNICEF) USA,1,1,spending,CBi-ACTIVITY-320,540000,540000
+2022-05,CBi-PROVIDER-198,Intel Foundation,70,Industrials,USA for UNHCR,1,1,spending,CBi-ACTIVITY-321,550000,550000
+2022-05,CBi-PROVIDER-199,Interogo Holding AG,70,Real estate,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-322,5396868,5396868
+2022-05,CBi-PROVIDER-200,Intuit Inc.,70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-323,1000000,1000000
+2022-05,CBi-PROVIDER-201,Ipsen,70,Health care,French Red Cross,1,1,commitments,CBi-ACTIVITY-324,791059,791059
+2022-05,CBi-PROVIDER-201,Ipsen,70,Health care,Tulipe [NGO],1,1,commitments,CBi-ACTIVITY-325,791059,791059
+2022-05,CBi-PROVIDER-202,Jaguar Land Rover,70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-326,178930,178930
+2022-05,CBi-PROVIDER-203,James M. Cox Foundation,70,Communications services,American Red Cross,1,1,commitments,CBi-ACTIVITY-327,500000,500000
+2022-05,CBi-PROVIDER-204,Japan Sporting Goods Industries Association,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-328,10000,10000
+2022-05,CBi-PROVIDER-205,John Legere Family Foundation,70,Communications services,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-329,25000,25000
+2022-05,CBi-PROVIDER-206,John Lewis Partnership,70,Consumer discretionary,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-330,132000,132000
+2022-05,CBi-PROVIDER-206,John Lewis Partnership,70,Consumer discretionary,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-331,198000,198000
+2022-05,CBi-PROVIDER-207,Johnson & Johnson Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-332,5000000,5000000
+2022-05,CBi-PROVIDER-207,Johnson & Johnson Foundation,70,Consumer discretionary,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-333,4877232,4877232
+2022-05,CBi-PROVIDER-207,Johnson & Johnson Foundation,70,Consumer discretionary,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-334,2544454,2544454
+2022-05,CBi-PROVIDER-208,Jonathan Molot and Hattie Ruttenberg Foundation,70,Financials,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-335,43249,43249
+2022-05,CBi-PROVIDER-209,JPMorgan Chase & Co.,70,Financials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-336,4000000,4000000
+2022-05,CBi-PROVIDER-209,JPMorgan Chase & Co.,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-337,1000000,1000000
+2022-05,CBi-PROVIDER-210,JYSK,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-338,156078,156078
+2022-05,CBi-PROVIDER-211,Kansas City Southern Charitable Fund,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-339,500000,500000
+2022-05,CBi-PROVIDER-212,Keen,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-340,165000,165000
+2022-05,CBi-PROVIDER-213,Kerry Group plc,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-341,273823,273823
+2022-05,CBi-PROVIDER-214,KeyBank Foundation,70,Financials,American Red Cross,1,1,commitments,CBi-ACTIVITY-342,100000,100000
+2022-05,CBi-PROVIDER-214,KeyBank Foundation,70,Financials,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-343,50000,50000
+2022-05,CBi-PROVIDER-215,Kikkoman,70,Consumer staples,World Food Programme (WFP),1,1,commitments,CBi-ACTIVITY-344,1000000,1000000
+2022-05,CBi-PROVIDER-216,Kimberly-Clark,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-345,500000,500000
+2022-05,CBi-PROVIDER-216,Kimberly-Clark,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-346,500000,500000
+2022-05,CBi-PROVIDER-217,Kinross Gold Corporation,70,Materials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-347,1000000,1000000
+2022-05,CBi-PROVIDER-218,Knockward Ltd,70,0,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-348,10849,10849
+2022-05,CBi-PROVIDER-219,KOEI TECMO,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-349,500000,500000
+2022-05,CBi-PROVIDER-220,Koninklijke DSM N.V.,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-350,15071,15071
+2022-05,CBi-PROVIDER-221,KPMG LLP,70,Financials,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-351,250000,250000
+2022-05,CBi-PROVIDER-222,Kroger Co. Zero Hunger Zero Waste Foundation,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-352,242500,242500
+2022-05,CBi-PROVIDER-223,Kuehne + Nagel International AG,70,Industrials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-353,4364468,4364468
+2022-05,CBi-PROVIDER-223,Kuehne + Nagel International AG,70,Industrials,[redacted] Recipient A,1,1,spending,CBi-ACTIVITY-354,8234,8234
+2022-05,CBi-PROVIDER-223,Kuehne + Nagel International AG,70,Industrials,International Committee of the Red Cross (ICRC),1,1,spending,CBi-ACTIVITY-355,641124,641124
+2022-05,CBi-PROVIDER-223,Kuehne + Nagel International AG,70,Industrials,United Nations Children's Fund (UNICEF),1,1,spending,CBi-ACTIVITY-356,1824949,1824949
+2022-05,CBi-PROVIDER-223,Kuehne + Nagel International AG,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-357,3231708,3231708
+2022-05,CBi-PROVIDER-223,Kuehne + Nagel International AG,70,Industrials,United Nations Population Fund (UNFPA),1,1,spending,CBi-ACTIVITY-358,36382,36382
+2022-05,CBi-PROVIDER-223,Kuehne + Nagel International AG,70,Industrials,World Health Organization (WHO),1,1,spending,CBi-ACTIVITY-359,609135,609135
+2022-05,CBi-PROVIDER-224,Kurt Geiger,70,Consumer discretionary,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-360,66000,66000
+2022-05,CBi-PROVIDER-225,LEGO Foundation,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-361,3700000,3700000
+2022-05,CBi-PROVIDER-226,LEO Pharma A/S,70,Health care,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-362,141758,141758
+2022-05,CBi-PROVIDER-226,LEO Pharma A/S,70,Health care,International Health Partners [NGO],1,1,commitments,CBi-ACTIVITY-363,1898379,1898379
+2022-05,CBi-PROVIDER-227,Levi Strauss & Co.,70,Consumer Discretionary,CARE International [NGO],1,1,commitments,CBi-ACTIVITY-364,100000,100000
+2022-05,CBi-PROVIDER-227,Levi Strauss & Co.,70,Consumer Discretionary,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-365,200000,200000
+2022-05,CBi-PROVIDER-228,Liebherr Foundation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-366,215517,215517
+2022-05,CBi-PROVIDER-229,"Lincoln Electric Holdings, Inc.",70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-367,24958,24958
+2022-05,CBi-PROVIDER-230,Lindt & Sprüngli AG,70,Consumer discretionary,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-368,1080762,1080762
+2022-05,CBi-PROVIDER-231,Louis Vuitton,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-369,1090000,1090000
+2022-05,CBi-PROVIDER-232,LVMH Group,70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-370,5450000,5450000
+2022-05,CBi-PROVIDER-233,Magna International,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-371,100000,100000
+2022-05,CBi-PROVIDER-234,Marks & Spencer,70,Consumer discretionary,United Kingdom for UNHCR,1,1,commitments,CBi-ACTIVITY-372,660000,660000
+2022-05,CBi-PROVIDER-234,Marks & Spencer,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-373,660000,660000
+2022-05,CBi-PROVIDER-234,Marks & Spencer,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-374,660000,660000
+2022-05,CBi-PROVIDER-235,Marriott International,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-375,2700000,2700000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-376,3750000,3750000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,American Red Cross,1,1,spending,CBi-ACTIVITY-377,2500000,2500000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,Humane Society International [NGO],1,1,spending,CBi-ACTIVITY-378,1500000,1500000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,International Fund for Animal Welfare [NGO],1,1,spending,CBi-ACTIVITY-379,750000,750000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,Save the Children [NGO],1,1,spending,CBi-ACTIVITY-380,1500000,1500000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-381,1000000,1000000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,Veterinarians Without Borders [NGO],1,1,spending,CBi-ACTIVITY-382,500000,500000
+2022-05,CBi-PROVIDER-236,"Mars, Inc.",70,Consumer staples,World Central Kitchen [NGO],1,1,spending,CBi-ACTIVITY-383,500000,500000
+2022-05,CBi-PROVIDER-237,Mastercard,70,Financials,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-384,1250000,1250000
+2022-05,CBi-PROVIDER-237,Mastercard,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-385,500000,500000
+2022-05,CBi-PROVIDER-237,Mastercard,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-386,3000000,3000000
+2022-05,CBi-PROVIDER-238,"Mattel, Inc.",70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-387,1000000,1000000
+2022-05,CBi-PROVIDER-239,Mazda Motor Corporation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-388,1056055,1056055
+2022-05,CBi-PROVIDER-240,McCain Foods Limited,70,Consumer Staples,Canadian Red Cross Society,1,1,spending,CBi-ACTIVITY-389,200000,200000
+2022-05,CBi-PROVIDER-241,Mercedes-Benz,70,Consumer discretionary,German Red Cross,1,1,commitments,CBi-ACTIVITY-390,1090000,1090000
+2022-05,CBi-PROVIDER-242,Merck KGaA,70,Health care,German Red Cross,1,1,commitments,CBi-ACTIVITY-391,2180000,2180000
+2022-05,CBi-PROVIDER-243,"Meta Platforms, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-392,5000000,5000000
+2022-05,CBi-PROVIDER-243,"Meta Platforms, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-393,10000000,10000000
+2022-05,CBi-PROVIDER-243,"Meta Platforms, Inc.",70,Information technology,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-394,146704,146704
+2022-05,CBi-PROVIDER-243,"Meta Platforms, Inc.",70,Information technology,International Organization for Migration (IOM),1,1,spending,CBi-ACTIVITY-395,150000,150000
+2022-05,CBi-PROVIDER-244,Metro AG,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-396,393258,393258
+2022-05,CBi-PROVIDER-245,Metro Supply Chain,70,Industrials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-397,39500,39500
+2022-05,CBi-PROVIDER-246,Michael & Susan Dell Foundation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-398,15000000,15000000
+2022-05,CBi-PROVIDER-247,Micky and Madeleine Arison Family Foundation,70,Consumer discretionary,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-399,1000000,1000000
+2022-05,CBi-PROVIDER-247,Micky and Madeleine Arison Family Foundation,70,Consumer discretionary,United Nations Children's Fund (UNICEF) USA,1,1,commitments,CBi-ACTIVITY-400,1000000,1000000
+2022-05,CBi-PROVIDER-247,Micky and Madeleine Arison Family Foundation,70,Consumer discretionary,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-401,1000000,1000000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-402,70000,70000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-403,143500,143500
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-404,978880,978880
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-405,2017000,2017000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-406,2149000,2149000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-407,2445600,2445600
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-408,4268000,4268000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-409,5405000,5405000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-410,8708000,8708000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-411,19475000,19475000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-412,27843000,27843000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-413,52000000,52000000
+2022-05,CBi-PROVIDER-248,Microsoft Corporation,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-414,52452000,52452000
+2022-05,CBi-PROVIDER-249,Micys Company S.p.A.,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-415,11236,11236
+2022-05,CBi-PROVIDER-250,Mitsubishi Electric,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-416,1099600,1099600
+2022-05,CBi-PROVIDER-251,Mondelez International,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-417,63384,63384
+2022-05,CBi-PROVIDER-252,Mondi plc,70,Industrials,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-418,1095290,1095290
+2022-05,CBi-PROVIDER-253,Mondou,70,Consumer discretionary,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-419,79000,79000
+2022-05,CBi-PROVIDER-254,Moody's Foundation,70,Financials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-420,250000,250000
+2022-05,CBi-PROVIDER-255,Moose Toys,70,Consumer discretionary,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-421,100000,100000
+2022-05,CBi-PROVIDER-256,Morrison & Foerster Foundation,70,Financials,Benevolent Healthcare Foundation [NGO],1,1,commitments,CBi-ACTIVITY-422,15000,15000
+2022-05,CBi-PROVIDER-256,Morrison & Foerster Foundation,70,Financials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-423,17000,17000
+2022-05,CBi-PROVIDER-256,Morrison & Foerster Foundation,70,Financials,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-424,15000,15000
+2022-05,CBi-PROVIDER-257,Morrison Supermarkets,70,Consumer staples,Disasters Emergency Committee (DEC) [NGO],1,1,commitments,CBi-ACTIVITY-425,330000,330000
+2022-05,CBi-PROVIDER-258,MSA Safety,70,Industrials,FIRE AID [NGO],1,1,commitments,CBi-ACTIVITY-426,400000,400000
+2022-05,CBi-PROVIDER-259,MSD,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-427,65000000,65000000
+2022-05,CBi-PROVIDER-260,NanoTemper Technologies,70,Information technology,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-428,13508,13508
+2022-05,CBi-PROVIDER-261,NCR Foundation,70,Industrials,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-429,200000,200000
+2022-05,CBi-PROVIDER-262,Neptune Energy,70,Energy,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-430,1000000,1000000
+2022-05,CBi-PROVIDER-262,Neptune Energy,70,Energy,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-431,1000000,1000000
+2022-05,CBi-PROVIDER-263,Nestlé Nespresso S.A.,70,Consumer staples,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-432,250000,250000
+2022-05,CBi-PROVIDER-264,Nestlé S.A.,70,Consumer staples,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-433,250000,250000
+2022-05,CBi-PROVIDER-264,Nestlé S.A.,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-434,654754,654754
+2022-05,CBi-PROVIDER-265,New York Life,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-435,150000,150000
+2022-05,CBi-PROVIDER-265,New York Life,70,Financials,United Nations Children's Fund (UNICEF) USA,1,1,commitments,CBi-ACTIVITY-436,150000,150000
+2022-05,CBi-PROVIDER-266,Newmont Corporation,70,Materials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-437,500000,500000
+2022-05,CBi-PROVIDER-266,Newmont Corporation,70,Materials,American Red Cross,1,1,commitments,CBi-ACTIVITY-438,127110,127110
+2022-05,CBi-PROVIDER-266,Newmont Corporation,70,Materials,American Red Cross,1,1,commitments,CBi-ACTIVITY-439,3000000,3000000
+2022-05,CBi-PROVIDER-266,Newmont Corporation,70,Materials,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-440,1000000,1000000
+2022-05,CBi-PROVIDER-266,Newmont Corporation,70,Materials,Project C.U.R.E. [NGO],1,1,commitments,CBi-ACTIVITY-441,500000,500000
+2022-05,CBi-PROVIDER-267,Nike Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-442,1000000,1000000
+2022-05,CBi-PROVIDER-268,"Nissan Motor Co., Ltd.",70,Industrials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-443,1088220,1088220
+2022-05,CBi-PROVIDER-268,"Nissan Motor Co., Ltd.",70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-444,538795,538795
+2022-05,CBi-PROVIDER-269,Norton Rose Fulbright,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-445,100000,100000
+2022-05,CBi-PROVIDER-269,Norton Rose Fulbright,70,Financials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-446,200000,200000
+2022-05,CBi-PROVIDER-270,Novartis AG,70,Health care,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-447,1000000,1000000
+2022-05,CBi-PROVIDER-270,Novartis AG,70,Health care,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-448,1000000,1000000
+2022-05,CBi-PROVIDER-270,Novartis AG,70,Health care,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-449,1000000,1000000
+2022-05,CBi-PROVIDER-271,Novelis Corporation,70,Industrials,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-450,300000,300000
+2022-05,CBi-PROVIDER-272,Novo Nordisk Foundation,70,Energy,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-451,3695117,3695117
+2022-05,CBi-PROVIDER-272,Novo Nordisk Foundation,70,Energy,Danish Refugee Council [NGO],1,1,commitments,CBi-ACTIVITY-452,1478047,1478047
+2022-05,CBi-PROVIDER-272,Novo Nordisk Foundation,70,Energy,Human Rights Watch [NGO],1,1,commitments,CBi-ACTIVITY-453,147804,147804
+2022-05,CBi-PROVIDER-272,Novo Nordisk Foundation,70,Energy,United Nations Children's Fund (UNICEF) Denmark,1,1,commitments,CBi-ACTIVITY-454,591218,591218
+2022-05,CBi-PROVIDER-272,Novo Nordisk Foundation,70,Energy,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-455,1478047,1478047
+2022-05,CBi-PROVIDER-272,Novo Nordisk Foundation,70,Energy,World Health Organization (WHO),1,1,spending,CBi-ACTIVITY-456,3656088,3656088
+2022-05,CBi-PROVIDER-273,Oak Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-457,10750000,10750000
+2022-05,CBi-PROVIDER-274,Offshore Technology Conference Inc.,70,Energy,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-458,25666,25666
+2022-05,CBi-PROVIDER-275,Olam International,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-459,1000000,1000000
+2022-05,CBi-PROVIDER-276,Old Navy,70,Consumer discretionary,USA for UNHCR,1,1,commitments,CBi-ACTIVITY-460,1000000,1000000
+2022-05,CBi-PROVIDER-277,Olympus Corporation,70,Consumer discretionary,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-461,497147,497147
+2022-05,CBi-PROVIDER-278,OpenText,70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-462,100000,100000
+2022-05,CBi-PROVIDER-279,"Orrick, Herrington & Sutcliffe",70,Financials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-463,12500,12500
+2022-05,CBi-PROVIDER-279,"Orrick, Herrington & Sutcliffe",70,Financials,United Help Ukraine [NGO],1,1,commitments,CBi-ACTIVITY-464,12500,12500
+2022-05,CBi-PROVIDER-280,"Otsuka Pharmaceutical Co., Ltd.",70,Health care,Japanese Red Cross Society,1,1,commitments,CBi-ACTIVITY-465,153670,153670
+2022-05,CBi-PROVIDER-281,Pacific Life Foundation,70,Financials,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-466,250000,250000
+2022-05,CBi-PROVIDER-282,Pandora,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-467,1000000,1000000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-468,1600000,1600000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Caritas [NGO],1,1,commitments,CBi-ACTIVITY-469,1671684,1671684
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-470,20000,20000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Moldovan Red Cross,1,1,commitments,CBi-ACTIVITY-471,20615,20615
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Polish Red Cross,1,1,commitments,CBi-ACTIVITY-472,267805,267805
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Polish Red Cross,1,1,commitments,CBi-ACTIVITY-473,650000,650000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Romanian Red Cross,1,1,commitments,CBi-ACTIVITY-474,22423,22423
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-475,20751,20751
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-476,1000000,1000000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Swiss Red Cross,1,1,commitments,CBi-ACTIVITY-477,20000,20000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,Ukraine Foodbank [NGO],1,1,commitments,CBi-ACTIVITY-478,474287,474287
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-479,1000000,1000000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,World Food Programme (WFP),1,1,commitments,CBi-ACTIVITY-480,1000000,1000000
+2022-05,CBi-PROVIDER-283,"Pepsico Foundation, Inc.",70,Consumer staples,World Vision Romania [NGO],1,1,commitments,CBi-ACTIVITY-481,350000,350000
+2022-05,CBi-PROVIDER-284,"Phillips Auctioneers, LLC",70,Consumer discretionary,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-482,7656000,7656000
+2022-05,CBi-PROVIDER-285,Pioneer Natural Resources,70,Energy,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-483,20000000,20000000
+2022-05,CBi-PROVIDER-286,Plarium,70,Consumer discretionary,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-484,500000,500000
+2022-05,CBi-PROVIDER-287,Pokémon Company,70,Consumer discretionary,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-485,200000,200000
+2022-05,CBi-PROVIDER-288,"Popular, Inc.",70,Financials,American Red Cross in Puerto Rico,1,1,commitments,CBi-ACTIVITY-486,50000,50000
+2022-05,CBi-PROVIDER-289,Porsche AG,70,Consumer discretionary,Ferry Porsche Foundation [NGO],1,1,commitments,CBi-ACTIVITY-487,272500,272500
+2022-05,CBi-PROVIDER-289,Porsche AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-488,817500,817500
+2022-05,CBi-PROVIDER-290,PricewaterhouseCoopers,70,Financials,CARE International [NGO],1,1,commitments,CBi-ACTIVITY-489,125000,125000
+2022-05,CBi-PROVIDER-291,Procter & Gamble,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-490,755436,755436
+2022-05,CBi-PROVIDER-292,"Punto Fa, S.L.",70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-491,111595,111595
+2022-05,CBi-PROVIDER-293,Realdania,70,Financials,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-492,7315290,7315290
+2022-05,CBi-PROVIDER-293,Realdania,70,Financials,Danish Refugee Council [NGO],1,1,commitments,CBi-ACTIVITY-493,3657645,3657645
+2022-05,CBi-PROVIDER-293,Realdania,70,Financials,Save the Children Denmark [NGO],1,1,commitments,CBi-ACTIVITY-494,3657645,3657645
+2022-05,CBi-PROVIDER-294,Renesas Electronics Corporation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-495,1074595,1074595
+2022-05,CBi-PROVIDER-295,Revolut,70,Financials,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-496,1500000,1500000
+2022-05,CBi-PROVIDER-296,"Riot Games, Inc.",70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-497,1800000,1800000
+2022-05,CBi-PROVIDER-296,"Riot Games, Inc.",70,Consumer discretionary,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-498,1800000,1800000
+2022-05,CBi-PROVIDER-296,"Riot Games, Inc.",70,Consumer discretionary,Médecins Sans Frontières (MSF) [NGO],1,1,commitments,CBi-ACTIVITY-499,1800000,1800000
+2022-05,CBi-PROVIDER-297,Riverview Community Bank,70,Financials,Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO],1,1,commitments,CBi-ACTIVITY-500,10000,10000
+2022-05,CBi-PROVIDER-298,Rockwell Automation,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-501,100000,100000
+2022-05,CBi-PROVIDER-298,Rockwell Automation,70,Industrials,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-502,100000,100000
+2022-05,CBi-PROVIDER-298,Rockwell Automation,70,Industrials,Polish Humanitarian Action [NGO],1,1,commitments,CBi-ACTIVITY-503,100000,100000
+2022-05,CBi-PROVIDER-298,Rockwell Automation,70,Industrials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-504,100000,100000
+2022-05,CBi-PROVIDER-298,Rockwell Automation,70,Industrials,United Way [NGO],1,1,commitments,CBi-ACTIVITY-505,100000,100000
+2022-05,CBi-PROVIDER-299,Royal Bank of Canada,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-506,158000,158000
+2022-05,CBi-PROVIDER-300,RSM US Foundation,70,Financials,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-507,32150,32150
+2022-05,CBi-PROVIDER-301,Russel Metals Inc. ,70,Materials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-508,79000,79000
+2022-05,CBi-PROVIDER-302,S&P Global Foundation,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-509,150000,150000
+2022-05,CBi-PROVIDER-302,S&P Global Foundation,70,Financials,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-510,150000,150000
+2022-05,CBi-PROVIDER-303,Sabre Corporation,70,Information technology,Polish Red Cross,1,1,commitments,CBi-ACTIVITY-511,1000000,1000000
+2022-05,CBi-PROVIDER-304,Sainsbury's,70,Consumer staples,Comic Relief [NGO],1,1,commitments,CBi-ACTIVITY-512,2640000,2640000
+2022-05,CBi-PROVIDER-305,"Salesforce, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-513,4000000,4000000
+2022-05,CBi-PROVIDER-306,Salvatore Ferragamo S.p.A.,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-514,337079,337079
+2022-05,CBi-PROVIDER-307,Samsung Electronics,70,Industrials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-515,1000000,1000000
+2022-05,CBi-PROVIDER-307,Samsung Electronics,70,Industrials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-516,5000000,5000000
+2022-05,CBi-PROVIDER-308,Sanofi S.A.,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-517,5439025,5439025
+2022-05,CBi-PROVIDER-309,SAP SE,70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-518,3163515,3163515
+2022-05,CBi-PROVIDER-310,Sappi Limited,70,Materials,Ukraine Humanitarian Fund (UHF),1,1,commitments,CBi-ACTIVITY-519,100000,100000
+2022-05,CBi-PROVIDER-311,Schörling Family Foundation,70,Industrials,Swedish Red Cross,1,1,commitments,CBi-ACTIVITY-520,5282620,5282620
+2022-05,CBi-PROVIDER-311,Schörling Family Foundation,70,Industrials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-521,5282620,5282620
+2022-05,CBi-PROVIDER-312,SeaDream Family Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-522,1500000,1500000
+2022-05,CBi-PROVIDER-313,Sentara Healthcare,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-523,3500000,3500000
+2022-05,CBi-PROVIDER-314,SentinelOne,70,Information technology,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-524,25000,25000
+2022-05,CBi-PROVIDER-315,Share Our Strength,70,Consumer staples,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-525,9700,9700
+2022-05,CBi-PROVIDER-316,Shiseido Group,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-526,1101820,1101820
+2022-05,CBi-PROVIDER-317,Sidney E. Frank Foundation,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-527,20000,20000
+2022-05,CBi-PROVIDER-318,Siemens Caring Hands,70,Industrials,German Red Cross,1,1,commitments,CBi-ACTIVITY-528,1112483,1112483
+2022-05,CBi-PROVIDER-319,Siemens Gamesa Renewable Energy,70,Energy,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-529,136092,136092
+2022-05,CBi-PROVIDER-320,Signet Love Inspires Foundation,70,Consumer discretionary,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-530,1000000,1000000
+2022-05,CBi-PROVIDER-321,Škoda Auto a.s.,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-531,1108400,1108400
+2022-05,CBi-PROVIDER-321,Škoda Auto a.s.,70,Consumer discretionary,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-532,443240,443240
+2022-05,CBi-PROVIDER-322,"Smithfield Foods, Inc.",70,Consumer staples,American Red Cross,1,1,commitments,CBi-ACTIVITY-533,250000,250000
+2022-05,CBi-PROVIDER-322,"Smithfield Foods, Inc.",70,Consumer staples,American Red Cross,1,1,commitments,CBi-ACTIVITY-534,1000000,1000000
+2022-05,CBi-PROVIDER-322,"Smithfield Foods, Inc.",70,Consumer staples,Mercy Chefs [NGO],1,1,commitments,CBi-ACTIVITY-535,250000,250000
+2022-05,CBi-PROVIDER-322,"Smithfield Foods, Inc.",70,Consumer staples,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-536,250000,250000
+2022-05,CBi-PROVIDER-322,"Smithfield Foods, Inc.",70,Consumer staples,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-537,250000,250000
+2022-05,CBi-PROVIDER-323,"Snap, Inc.",70,Information technology,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-538,15000000,15000000
+2022-05,CBi-PROVIDER-323,"Snap, Inc.",70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-539,500000,500000
+2022-05,CBi-PROVIDER-324,Societe Generale Group,70,Financials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-540,2177020,2177020
+2022-05,CBi-PROVIDER-325,Sologenic Development Foundation,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-541,10000,10000
+2022-05,CBi-PROVIDER-326,Sonoco Products Company,70,Industrials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-542,50594,50594
+2022-05,CBi-PROVIDER-327,Sony Group,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-543,5000000,5000000
+2022-05,CBi-PROVIDER-328,"Southeastern Grocers, Inc.",70,Consumer staples,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-544,250000,250000
+2022-05,CBi-PROVIDER-328,"Southeastern Grocers, Inc.",70,Consumer staples,Mission 823 [NGO],1,1,commitments,CBi-ACTIVITY-545,1100000,1100000
+2022-05,CBi-PROVIDER-329,Spiegel Family Fund,70,Information technology,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-546,1000000,1000000
+2022-05,CBi-PROVIDER-330,Square Enix,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-547,500000,500000
+2022-05,CBi-PROVIDER-331,Stallergenes AG,70,Health care,French Red Cross,1,1,commitments,CBi-ACTIVITY-548,158165,158165
+2022-05,CBi-PROVIDER-332,Sun Life Financial Inc.,70,Financials,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-549,158000,158000
+2022-05,CBi-PROVIDER-332,Sun Life Financial Inc.,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-550,80000,80000
+2022-05,CBi-PROVIDER-333,Supercell Oy,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-551,1000000,1000000
+2022-05,CBi-PROVIDER-334,Sylvamo,70,Materials,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-552,250000,250000
+2022-05,CBi-PROVIDER-335,T. Rowe Price Foundation,70,Financials,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-553,500000,500000
+2022-05,CBi-PROVIDER-336,Taiwan Sporting Goods Manufacturers Association,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-554,20000,20000
+2022-05,CBi-PROVIDER-337,Takeda Pharmaceutical Company Ltd,70,Health care,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-555,23985235,23985235
+2022-05,CBi-PROVIDER-338,Techland S.A.,70,Consumer discretionary,Polish Humanitarian Action [NGO],1,1,commitments,CBi-ACTIVITY-556,230890,230890
+2022-05,CBi-PROVIDER-339,Telus Corporation,70,Communications services,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-557,79000,79000
+2022-05,CBi-PROVIDER-340,TELUS Friendly Future Foundation,70,Communications services,Canadian Red Cross Society,1,1,commitments,CBi-ACTIVITY-558,118500,118500
+2022-05,CBi-PROVIDER-341,Tesco PLC,70,Consumer staples,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-559,1320000,1320000
+2022-05,CBi-PROVIDER-342,Teva Pharmaceutical Industries Ltd.,70,Health care,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-560,10800000,10800000
+2022-05,CBi-PROVIDER-342,Teva Pharmaceutical Industries Ltd.,70,Health care,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-561,180000,180000
+2022-05,CBi-PROVIDER-342,Teva Pharmaceutical Industries Ltd.,70,Health care,United Hatzalah [NGO],1,1,commitments,CBi-ACTIVITY-562,180000,180000
+2022-05,CBi-PROVIDER-343,Texas Instruments Foundation,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-563,25000,25000
+2022-05,CBi-PROVIDER-344,The Body Shop International Limited,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-564,50000,50000
+2022-05,CBi-PROVIDER-345,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Danish Red Cross,1,1,commitments,CBi-ACTIVITY-565,3655637,3655637
+2022-05,CBi-PROVIDER-345,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Danish Refugee Council [NGO],1,1,commitments,CBi-ACTIVITY-566,1462255,1462255
+2022-05,CBi-PROVIDER-345,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Human Rights Watch [NGO],1,1,commitments,CBi-ACTIVITY-567,146225,146225
+2022-05,CBi-PROVIDER-345,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,Plan International Denmark [NGO],1,1,commitments,CBi-ACTIVITY-568,584902,584902
+2022-05,CBi-PROVIDER-345,The Carlsberg Foundation and the Tuborg Foundation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-569,1462255,1462255
+2022-05,CBi-PROVIDER-346,The Coca-Cola Company,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-570,13602743,13602743
+2022-05,CBi-PROVIDER-347,The Coca-Cola Foundation,70,Consumer staples,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-571,982218,982218
+2022-05,CBi-PROVIDER-348,The Estée Lauder Companies Inc,70,Consumer Discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-572,1000000,1000000
+2022-05,CBi-PROVIDER-349,"The Interpublic Group of Companies, Inc.",70,Communications services,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-573,9700,9700
+2022-05,CBi-PROVIDER-350,The Nippon Foundation,70,Consumer discretionary,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-574,40000000,40000000
+2022-05,CBi-PROVIDER-351,The Pfizer Foundation,70,Health care,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-575,2000000,2000000
+2022-05,CBi-PROVIDER-352,TikTok Inc.,70,Information technology,United Nations Central Emergency Response Fund (CERF),1,1,spending,CBi-ACTIVITY-576,1000000,1000000
+2022-05,CBi-PROVIDER-353,TJ Morris Ltd,70,Consumer discretionary,Disasters Emergency Committee (DEC) [NGO],1,1,commitments,CBi-ACTIVITY-577,132000,132000
+2022-05,CBi-PROVIDER-354,Tom Ford SA,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,commitments,CBi-ACTIVITY-578,100000,100000
+2022-05,CBi-PROVIDER-355,Toyota Motor Corporation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-579,551120,551120
+2022-05,CBi-PROVIDER-356,Tripadvisor Foundation,70,Consumer discretionary,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-580,250000,250000
+2022-05,CBi-PROVIDER-357,Twitter,70,Information technology,GlobalGiving [NGO],1,1,commitments,CBi-ACTIVITY-581,267000,267000
+2022-05,CBi-PROVIDER-358,U.S. Travel Association,70,Consumer discretionary,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-582,24250,24250
+2022-05,CBi-PROVIDER-359,Uber Technologies Inc.,70,Information technology,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-583,252809,252809
+2022-05,CBi-PROVIDER-359,Uber Technologies Inc.,70,Information technology,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-584,1000000,1000000
+2022-05,CBi-PROVIDER-360,Ukrainian Credit Union ,70,Financials,The Canada-Ukraine Foundation [NGO],1,1,commitments,CBi-ACTIVITY-585,79000,79000
+2022-05,CBi-PROVIDER-361,Unilever,70,Consumer staples,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-586,1790788,1790788
+2022-05,CBi-PROVIDER-361,Unilever,70,Consumer staples,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-587,2001470,2001470
+2022-05,CBi-PROVIDER-361,Unilever,70,Consumer staples,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-588,1474767,1474767
+2022-05,CBi-PROVIDER-362,Union Pacific Railroad,70,Industrials,American Red Cross,1,1,commitments,CBi-ACTIVITY-589,250000,250000
+2022-05,CBi-PROVIDER-362,Union Pacific Railroad,70,Industrials,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-590,250000,250000
+2022-05,CBi-PROVIDER-363,United Health Foundation,70,Health care,Direct Relief [NGO],1,1,commitments,CBi-ACTIVITY-591,500000,500000
+2022-05,CBi-PROVIDER-363,United Health Foundation,70,Health care,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-592,500000,500000
+2022-05,CBi-PROVIDER-364,Valentino,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-593,557975,557975
+2022-05,CBi-PROVIDER-365,Vanguard,70,Financials,International Federation of Red Cross and Red Crescent Societies (IFRC),1,1,spending,CBi-ACTIVITY-594,23694,23694
+2022-05,CBi-PROVIDER-366,Vantage Towers,70,Communications services,Interchurched Aid [NGO],1,1,commitments,CBi-ACTIVITY-595,13747,13747
+2022-05,CBi-PROVIDER-366,Vantage Towers,70,Communications services,Romanian Red Cross,1,1,commitments,CBi-ACTIVITY-596,13747,13747
+2022-05,CBi-PROVIDER-366,Vantage Towers,70,Communications services,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-597,27494,27494
+2022-05,CBi-PROVIDER-367,Verizon Communications Inc. ,70,Communications services,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-598,250000,250000
+2022-05,CBi-PROVIDER-367,Verizon Communications Inc. ,70,Communications services,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-599,250000,250000
+2022-05,CBi-PROVIDER-367,Verizon Communications Inc. ,70,Communications services,USA for UNHCR,1,1,commitments,CBi-ACTIVITY-600,250000,250000
+2022-05,CBi-PROVIDER-368,VF Foundation,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-601,250000,250000
+2022-05,CBi-PROVIDER-369,Visa Foundation,70,Financials,United Nations Children's Fund (UNICEF) USA,1,1,commitments,CBi-ACTIVITY-602,2000000,2000000
+2022-05,CBi-PROVIDER-370,Vodafone,70,Communications services,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-603,112360,112360
+2022-05,CBi-PROVIDER-371,Vodafone Czech Republic a.s.,70,Communications services,People in Need [NGO],1,1,commitments,CBi-ACTIVITY-604,85780,85780
+2022-05,CBi-PROVIDER-372,Vodafone Germany,70,Communications services,Aktion Deutschland Hilft [NGO],1,1,commitments,CBi-ACTIVITY-605,219932,219932
+2022-05,CBi-PROVIDER-373,Vodafone Group Foundation,70,Communications services,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-606,549875,549875
+2022-05,CBi-PROVIDER-374,Vodafone Hungary,70,Communications services,Hungarian Interchurch Aid [NGO],1,1,commitments,CBi-ACTIVITY-607,54988,54988
+2022-05,CBi-PROVIDER-374,Vodafone Hungary,70,Communications services,Sovereign Military Order of Malta,1,1,commitments,CBi-ACTIVITY-608,54988,54988
+2022-05,CBi-PROVIDER-375,Vodafone Italy Foundation,70,Communications services,Italian Red Cross,1,1,commitments,CBi-ACTIVITY-609,109976,109976
+2022-05,CBi-PROVIDER-375,Vodafone Italy Foundation,70,Communications services,Maria Francesca Rava Foundation [NGO],1,1,commitments,CBi-ACTIVITY-610,109976,109976
+2022-05,CBi-PROVIDER-376,Vodafone Luxembourg Foundation,70,Communications services,Luxembourg Red Cross,1,1,commitments,CBi-ACTIVITY-611,6817,6817
+2022-05,CBi-PROVIDER-377,Vodafone Romania,70,Communications services,Association for Community Relations [NGO],1,1,commitments,CBi-ACTIVITY-612,43990,43990
+2022-05,CBi-PROVIDER-377,Vodafone Romania,70,Communications services,Doctors for Romania Association [NGO],1,1,commitments,CBi-ACTIVITY-613,16496,16496
+2022-05,CBi-PROVIDER-377,Vodafone Romania,70,Communications services,Fundatia Mereu Aproape [NGO],1,1,commitments,CBi-ACTIVITY-614,32992,32992
+2022-05,CBi-PROVIDER-377,Vodafone Romania,70,Communications services,Jesuit Refugee Service [NGO],1,1,commitments,CBi-ACTIVITY-615,10997,10997
+2022-05,CBi-PROVIDER-378,Vodafone Spain Foundation,70,Communications services,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-616,27491,27491
+2022-05,CBi-PROVIDER-379,Vodafone UK,70,Communications services,British Red Cross Society ,1,1,commitments,CBi-ACTIVITY-617,329700,329700
+2022-05,CBi-PROVIDER-380,Volkswagen AG,70,Consumer discretionary,UNO-Flüchtlingshilfe (Germany for UNHCR),1,1,commitments,CBi-ACTIVITY-618,1108400,1108400
+2022-05,CBi-PROVIDER-381,Volvo,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-619,205570,205570
+2022-05,CBi-PROVIDER-382,Wabtec Foundation,70,Industrials,International Rescue Committee (IRC) [NGO],1,1,commitments,CBi-ACTIVITY-620,50000,50000
+2022-05,CBi-PROVIDER-382,Wabtec Foundation,70,Industrials,World Central Kitchen [NGO],1,1,commitments,CBi-ACTIVITY-621,50000,50000
+2022-05,CBi-PROVIDER-383,WELL Health Technologies,70,Health care,United Nations Children's Fund (UNICEF) Canada,1,1,commitments,CBi-ACTIVITY-622,79000,79000
+2022-05,CBi-PROVIDER-384,Wells Fargo & Company,70,Financials,[multiple or not specified],1,1,commitments,CBi-ACTIVITY-623,1000000,1000000
+2022-05,CBi-PROVIDER-385,Western Union Foundation,70,Financials,International Medical Corps (IMC) [NGO],1,1,commitments,CBi-ACTIVITY-624,100000,100000
+2022-05,CBi-PROVIDER-385,Western Union Foundation,70,Financials,Lithuanian Red Cross,1,1,commitments,CBi-ACTIVITY-625,22097,22097
+2022-05,CBi-PROVIDER-386,White & Case,70,Financials,Ukrainian Red Cross Society,1,1,commitments,CBi-ACTIVITY-626,1000000,1000000
+2022-05,CBi-PROVIDER-387,William Demant Foundation,70,Health care,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-627,1050000,1050000
+2022-05,CBi-PROVIDER-388,Wings for Things Foundation Inc.,70,0,World Food Programme (WFP),1,1,spending,CBi-ACTIVITY-628,242500,242500
+2022-05,CBi-PROVIDER-389,World Federation of the Sporting Goods Industry,70,Consumer discretionary,Ukraine Humanitarian Fund (UHF),1,1,spending,CBi-ACTIVITY-629,53294,53294
+2022-05,CBi-PROVIDER-390,"Wyndham Hotels & Resorts, Inc.",70,Consumer discretionary,Save the Children [NGO],1,1,commitments,CBi-ACTIVITY-630,100000,100000
+2022-05,CBi-PROVIDER-391,XTX Markets,70,Financials,United Kingdom for UNHCR,1,1,spending,CBi-ACTIVITY-631,13187200,13187200
+2022-05,CBi-PROVIDER-392,"Yamaha Motor Co., Ltd.",70,Industrials,Japan Platform [NGO],1,1,commitments,CBi-ACTIVITY-632,700000,700000
+2022-05,CBi-PROVIDER-393,Yum! Brands Foundation,70,Consumer discretionary,International Committee of the Red Cross (ICRC),1,1,commitments,CBi-ACTIVITY-633,1000000,1000000
+2022-05,CBi-PROVIDER-394,Yuri and Julia Milner Foundation,70,Information technology,GoFundMe.org Stand With Ukraine Fund,1,1,spending,CBi-ACTIVITY-634,2000000,2000000
+2022-05,CBi-PROVIDER-395,Z Zurich Foundation,70,Financials,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-635,269397,269397
+2022-05,CBi-PROVIDER-396,Zegna N.V.,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,spending,CBi-ACTIVITY-636,1123595,1123595
+2022-05,CBi-PROVIDER-397,Zound Industries,70,Consumer discretionary,United Nations Children's Fund (UNICEF),1,1,commitments,CBi-ACTIVITY-637,27017,27017
+2022-05,CBi-PROVIDER-397,Zound Industries,70,Consumer discretionary,United Nations High Commissioner for Refugees (UNHCR),1,1,commitments,CBi-ACTIVITY-638,27017,27017
