@@ -67,13 +67,13 @@ def start(configuration, today, retriever, output_dir):
     month = today[:7]
     flows = dict()
     transactions = list()
-    for i, inrow in enumerate(iterator):
-        activity_id = f"CBi-ACTIVITY-{i}"
+    for inrow in iterator:
+        activity_id = inrow["Transaction ID"]
         provider = inrow["Private sector donor"]
         provider_id = provider_name_to_id.get(provider)
         if not provider_id:
             provider_count += 1
-            provider_id = f"CBi-PROVIDER-{provider_count}"
+            provider_id = inrow["Donor ID"]
             provider_name_to_id[provider] = provider_id
         org_type = 70
         sector = inrow["Business sector"]
@@ -81,7 +81,7 @@ def start(configuration, today, retriever, output_dir):
         receiver_id = receiver_name_to_id.get(receiver)
         if not receiver_id:
             receiver_count += 1
-            receiver_id = f"CBi-RECEIVER-{receiver_count}"
+            receiver_id = inrow["Recipient ID"]
             receiver_name_to_id[receiver] = receiver_id
         value = float(inrow["Est USD value"])
         totals["overall"] += value
@@ -90,6 +90,7 @@ def start(configuration, today, retriever, output_dir):
             transaction = "spending"
         else:
             transaction = "commitments"
+        description = inrow["Notes"]
         totals[transaction] += value
         intvalue = int(round(value))
         row = (
@@ -105,6 +106,7 @@ def start(configuration, today, retriever, output_dir):
             activity_id,
             intvalue,
             intvalue,
+            description,
         )
         transactions.append(row)
 
@@ -126,6 +128,7 @@ def start(configuration, today, retriever, output_dir):
                 1,
                 "outgoing",
             ]
+            cur_output["description"] = description
         flows[key] = cur_output
 
     logger.info(
@@ -143,7 +146,9 @@ def start(configuration, today, retriever, output_dir):
         outputs_configuration,
         "flows",
         [
-            flows[key]["row"] + [int(round(flows[key]["value"]))]
+            flows[key]["row"]
+            + [int(round(flows[key]["value"]))]
+            + [flows[key]["description"]]
             for key in flows
         ],
     )
@@ -163,5 +168,5 @@ def start(configuration, today, retriever, output_dir):
         output_dir,
         outputs_configuration,
         "orgs",
-        sorted(provider_name_to_id.items()),
+        [t[::-1] for t in sorted(provider_name_to_id.items())],
     )

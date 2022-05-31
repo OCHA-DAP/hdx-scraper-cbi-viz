@@ -16,6 +16,7 @@ outputs:
       - "Activity id"
       - "Net money"
       - "Total money"
+      - "Notes"
     hxltags:
       - "#date+month"
       - "#org+id"
@@ -29,6 +30,7 @@ outputs:
       - "#activity+code"
       - "#value+net"
       - "#value+total"
+      - "#description"
     csv:
       filename: "transactions.csv"
     json:
@@ -45,6 +47,7 @@ outputs:
         - "#activity+code"
         - "#value+net"
         - "#value+total"
+        - "#description"
   flows:
     headers:
       - "Reporting org id"
@@ -60,6 +63,7 @@ outputs:
       - "Strict?"
       - "Transaction direction"
       - "Total money"
+      - "Notes"
     hxltags:
       - "#org+id+reporting"
       - "#org+name+reporting"
@@ -74,6 +78,7 @@ outputs:
       - "#indicator+bool+strict"
       - "#x_transaction_direction"
       - "#value+total"
+      - "#description"
     csv:
       filename: "flows.csv"
     json:
@@ -87,6 +92,7 @@ outputs:
         - "#indicator+bool+strict"
         - "#x_transaction_direction"
         - "#value+total"
+        - "#description"
   orgs:
     headers:
       - "Reporting org id"
