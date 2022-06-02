@@ -11,9 +11,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python 3.x
-      uses: actions/setup-python@v2
+      uses: actions/setup-python@v3
       with:
         python-version: 3.x
     - name: Install dependencies
@@ -29,7 +29,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest --junitxml=junit/test-results-${{ matrix.python-version }}.xml --cov-config .coveragerc --cov-report= --cov=.
+        pytest --junitxml=junit/test-results.xml --cov-config .coveragerc --cov-report= --cov=.
     - name: Publish in Coveralls
       uses: AndreMiras/coveralls-python-action@develop
       if: success()
