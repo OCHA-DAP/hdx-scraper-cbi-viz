@@ -93,7 +93,7 @@ outputs:
         - "#x_transaction_direction"
         - "#value+total"
         - "#description"
-  orgs:
+  reporting_orgs:
     headers:
       - "Reporting org id"
       - "Reporting org name"
@@ -104,4 +104,15 @@ outputs:
       filename: "reporting_orgs.csv"
     json:
       filename: "reporting_orgs.json"
+  receiver_orgs:
+    headers:
+      - "Receiver org id"
+      - "Receiver org name"
+    hxltags:
+      - "#org+id+receiver"
+      - "#org+name+receiver"
+    csv:
+      filename: "receiver_orgs.csv"
+    json:
+      filename: "receiver_orgs.json"
 

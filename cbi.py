@@ -162,11 +162,20 @@ def start(configuration, today, retriever, output_dir):
         transactions,
     )
 
-    # Write orgs
+    # Write reporting orgs
     write(
         today,
         output_dir,
         outputs_configuration,
-        "orgs",
+        "reporting_orgs",
         [t[::-1] for t in sorted(provider_name_to_id.items())],
+    )
+
+    # Write receiver orgs
+    write(
+        today,
+        output_dir,
+        outputs_configuration,
+        "receiver_orgs",
+        [t[::-1] for t in sorted(receiver_name_to_id.items())],
     )
