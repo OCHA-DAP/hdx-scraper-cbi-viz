@@ -1,5 +1,5 @@
-Month,Reporting org id,Reporting org name,Reporting org type,Sector,Recipient country,Humanitarian?,Strict?,Transaction type,Activity id,Net money,Total money,Notes
-#date+month,#org+id,#org+name,#org+type,#sector,#country,#indicator+bool+humanitarian,#indicator+bool+strict,#x_transaction_type,#activity+code,#value+net,#value+total,#description
+Month,Reporting org id,Reporting org name,Reporting org type,Sector,Receiver org name,Humanitarian?,Strict?,Transaction type,Activity id,Net money,Total money,Notes
+#date+month,#org+id,#org+name,#org+type,#sector,#org+name+receiver,#indicator+bool+humanitarian,#indicator+bool+strict,#x_transaction_type,#activity+code,#value+net,#value+total,#description
 2022-06,donor-1,[redacted] Donor A,70,Energy,American Red Cross,1,1,spending,1,2500000,2500000,Donation from Fortune 50 company that does not wish to be identified.
 2022-06,donor-1,[redacted] Donor A,70,Energy,World Food Programme (WFP),1,1,spending,2,2425000,2425000,Donation from Fortune 50 company that does not wish to be identified.
 2022-06,donor-2,3M,70,Consumer discretionary,[multiple or not specified],1,1,commitments,3,2000000,2000000,Commitment of at least $2 million to directly support relief efforts.
