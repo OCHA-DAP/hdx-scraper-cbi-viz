@@ -68,7 +68,7 @@ def start(configuration, today, retriever, output_dir):
     flows = dict()
     transactions = list()
     for inrow in iterator:
-        activity_id = inrow["Transaction ID"]
+        activity_id = int(inrow["Transaction ID"])
         provider = inrow["Private sector donor"]
         provider_id = provider_name_to_id.get(provider)
         if not provider_id:
