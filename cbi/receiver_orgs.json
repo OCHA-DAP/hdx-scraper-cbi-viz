@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2022-06-07T14:35:42.015383","#meta+receiver_orgs+num":141},"data":[
+{"metadata":{"#date+run":"2022-06-08T22:30:38.287358","#meta+receiver_orgs+num":155},"data":[
 {"#org+id+receiver":"recipient-10","#org+name+receiver":"ASAP Rescue [NGO]"},
 {"#org+id+receiver":"recipient-3","#org+name+receiver":"Agency for Technical Cooperation and Development (ACTED) [NGO]"},
 {"#org+id+receiver":"recipient-4","#org+name+receiver":"Airlink, Inc. [NGO]"},
@@ -108,6 +108,7 @@
 {"#org+id+receiver":"recipient-108","#org+name+receiver":"The Gorta Group [NGO]"},
 {"#org+id+receiver":"recipient-109","#org+name+receiver":"The Toy Foundation [NGO]"},
 {"#org+id+receiver":"recipient-110","#org+name+receiver":"Tulipe [NGO]"},
+{"#org+id+receiver":"recipient-155","#org+name+receiver":"UN Global Compact Network Poland"},
 {"#org+id+receiver":"recipient-131","#org+name+receiver":"UNO-Fl\u00fcchtlingshilfe (Germany for UNHCR)"},
 {"#org+id+receiver":"recipient-132","#org+name+receiver":"USA for UNHCR"},
 {"#org+id+receiver":"recipient-111","#org+name+receiver":"Ukraina Kreeka-Katoliku Kiriku Kogudus Tallinnas"},
@@ -139,4 +140,17 @@
 {"#org+id+receiver":"recipient-139","#org+name+receiver":"World Help [NGO]"},
 {"#org+id+receiver":"recipient-140","#org+name+receiver":"World Vision Romania [NGO]"},
 {"#org+id+receiver":"recipient-1","#org+name+receiver":"[multiple or not specified]"},
+{"#org+id+receiver":"recipient-142","#org+name+receiver":"[not specified Microsoft recipients 1/13]"},
+{"#org+id+receiver":"recipient-151","#org+name+receiver":"[not specified Microsoft recipients 10/13]"},
+{"#org+id+receiver":"recipient-152","#org+name+receiver":"[not specified Microsoft recipients 11/13]"},
+{"#org+id+receiver":"recipient-153","#org+name+receiver":"[not specified Microsoft recipients 12/13]"},
+{"#org+id+receiver":"recipient-154","#org+name+receiver":"[not specified Microsoft recipients 13/13]"},
+{"#org+id+receiver":"recipient-143","#org+name+receiver":"[not specified Microsoft recipients 2/13]"},
+{"#org+id+receiver":"recipient-144","#org+name+receiver":"[not specified Microsoft recipients 3/13]"},
+{"#org+id+receiver":"recipient-145","#org+name+receiver":"[not specified Microsoft recipients 4/13]"},
+{"#org+id+receiver":"recipient-146","#org+name+receiver":"[not specified Microsoft recipients 5/13]"},
+{"#org+id+receiver":"recipient-147","#org+name+receiver":"[not specified Microsoft recipients 6/13]"},
+{"#org+id+receiver":"recipient-148","#org+name+receiver":"[not specified Microsoft recipients 7/13]"},
+{"#org+id+receiver":"recipient-149","#org+name+receiver":"[not specified Microsoft recipients 8/13]"},
+{"#org+id+receiver":"recipient-150","#org+name+receiver":"[not specified Microsoft recipients 9/13]"},
 {"#org+id+receiver":"recipient-2","#org+name+receiver":"[redacted] Recipient A"}]}

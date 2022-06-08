@@ -1,6 +1,7 @@
 Reporting org id,Reporting org name
 #org+id+reporting,#org+name+reporting
 donor-2,3M
+donor-403,8x8 Inc.
 donor-5,ABP Food Group Ltd.
 donor-10,"ADP, Inc."
 donor-11,AGCO Agriculture Foundation
@@ -18,6 +19,7 @@ donor-13,Alcoa Corporation
 donor-14,Aldi Nord
 donor-16,Aldwin Callen
 donor-17,Allianz SE
+donor-404,Alnylam Pharmaceuticals Inc.
 donor-18,Amadeus IT Group
 donor-19,"Amazon.com, Inc."
 donor-20,American Express Company
@@ -25,12 +27,14 @@ donor-21,AmerisourceBergen Foundation
 donor-22,"Amgen Foundation, Inc."
 donor-23,Analog Devices Incorporated
 donor-24,AngloAmerican Foundation
+donor-405,Ann and Gordon Getty Foundation
 donor-28,Arc'teryx
 donor-25,Arcadia Fund
 donor-26,Arcadis NV
 donor-27,Archer-Daniels-Midland Company
 donor-29,Ares Management Corporation
 donor-30,Argyle Systems Inc 
+donor-406,Arista
 donor-31,Armani Group 
 donor-32,Asda Stores Ltd
 donor-34,Astellas Pharma Inc.
@@ -79,6 +83,7 @@ donor-75,Camlog Biotechnologies GmbH
 donor-76,Canada Goose
 donor-77,Canadian Imperial Bank of Commerce
 donor-78,Canadian Pacific Railway
+donor-412,Canva
 donor-79,Cargolux
 donor-80,Carlsberg A/S
 donor-82,Chapman and Cutler LLP
@@ -153,7 +158,7 @@ donor-156,Ford Motor Company Fund
 donor-157,Fortum Oyj
 donor-159,FreeWill Co.
 donor-160,Fujitsu Group
-donor-161,Fuller Giving Foundation
+donor-161,Fuller Landau LLP
 donor-165,Fundacion MAPFRE
 donor-162,"Fundación ""la Caixa"""
 donor-163,Fundación A.M.A.
@@ -165,7 +170,6 @@ donor-166,Ganni
 donor-169,General Motors
 donor-170,Gilead Foundation
 donor-171,GlaxoSmithKline plc
-donor-172,Global Star Logistics
 donor-173,Google
 donor-174,Google.org
 donor-175,Grammarly Inc.
@@ -181,7 +185,9 @@ donor-186,HELP Logistics
 donor-184,Heartland
 donor-185,Helly Hansen
 donor-187,Hendrick Automotive
+donor-407,Hermès International S.A.
 donor-188,Hilco Global
+donor-408,"Hillenbrand, Inc."
 donor-402,"Hitachi Astemo, Ltd."
 donor-189,"Hitachi, Ltd."
 donor-190,Home Capital Group
@@ -222,6 +228,7 @@ donor-223,Koninklijke DSM N.V.
 donor-225,Kroger Co. Zero Hunger Zero Waste Foundation
 donor-226,Kuehne + Nagel International AG
 donor-227,Kurt Geiger
+donor-414,L'Oréal S.A.
 donor-228,LEGO Foundation
 donor-229,LEO Pharma A/S
 donor-235,LVMH Group
@@ -270,6 +277,7 @@ donor-272,Norton Rose Fulbright
 donor-273,Novartis AG
 donor-274,Novelis Corporation
 donor-275,Novo Nordisk Foundation
+donor-409,Nuix
 donor-276,Oak Foundation
 donor-277,Offshore Technology Conference Inc.
 donor-278,Olam International
@@ -290,6 +298,7 @@ donor-292,Porsche AG
 donor-293,PricewaterhouseCoopers
 donor-294,Procter & Gamble
 donor-295,"Punto Fa, S.L."
+donor-413,Pérez-Llorca
 donor-303,RSM US Foundation
 donor-296,Realdania
 donor-297,Renesas Electronics Corporation
@@ -318,6 +327,7 @@ donor-320,Sidney E. Frank Foundation
 donor-321,Siemens Caring Hands
 donor-322,Siemens Gamesa Renewable Energy
 donor-323,Signet Love Inspires Foundation
+donor-411,Skanska AB
 donor-325,"Smithfield Foods, Inc."
 donor-326,"Snap, Inc."
 donor-327,Societe Generale Group
@@ -393,6 +403,7 @@ donor-397,Yum! Brands Foundation
 donor-398,Yuri and Julia Milner Foundation
 donor-399,Z Zurich Foundation
 donor-400,Zegna N.V.
+donor-410,"Zentiva Group, a.s."
 donor-401,Zound Industries
 donor-1,[redacted] Donor A
 donor-40,aviado GmbH
