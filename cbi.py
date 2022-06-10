@@ -4,6 +4,7 @@ from os.path import join
 
 import unicodecsv
 from hdx.data.dataset import Dataset
+from hdx.utilities.text import get_numeric_if_possible
 
 logger = logging.getLogger(__name__)
 
@@ -83,7 +84,7 @@ def start(configuration, today, retriever, output_dir):
             receiver_count += 1
             receiver_id = inrow["Recipient ID"]
             receiver_name_to_id[receiver] = receiver_id
-        value = float(inrow["Est USD value"])
+        value = get_numeric_if_possible(inrow["Est USD value"])
         totals["overall"] += value
         status = inrow["Donation status"]
         if status == "paid":
