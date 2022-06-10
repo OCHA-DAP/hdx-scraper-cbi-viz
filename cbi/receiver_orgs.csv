@@ -1,160 +1,161 @@
 Receiver org id,Receiver org name
 #org+id+receiver,#org+name+receiver
-recipient-10,ASAP Rescue [NGO]
-recipient-3,Agency for Technical Cooperation and Development (ACTED) [NGO]
-recipient-4,"Airlink, Inc. [NGO]"
-recipient-5,Aktion Deutschland Hilft [NGO]
-recipient-6,Aktionsbündnis Katastrophenhilfe [NGO]
-recipient-7,American Red Cross
-recipient-8,American Red Cross in Puerto Rico
-recipient-9,Americares [NGO]
-recipient-11,Association for Community Relations [NGO]
-recipient-12,Austrian Red Cross
-recipient-13,Benevolent Healthcare Foundation [NGO]
+ro-8,ASAP Rescue [NGO]
+ro-1,Agency for Technical Cooperation and Development (ACTED) [NGO]
+ro-2,"Airlink, Inc. [NGO]"
+ro-3,Aktion Deutschland Hilft [NGO]
+ro-4,Aktionsbündnis Katastrophenhilfe [NGO]
+ro-5,American Red Cross
+ro-6,American Red Cross in Puerto Rico
+ro-7,Americares [NGO]
+ro-9,Association for Community Relations [NGO]
+ro-10,Austrian Red Cross
+ro-11,Benevolent Healthcare Foundation [NGO]
 GB-CHC-220949,British Red Cross Society 
-recipient-16,British-Ukrainian Aid [NGO]
-recipient-14,Bērnu Klīniskā Universitātes Slimnīca (Latvian Children's Hospital)
-recipient-17,CAF America [NGO]
+ro-14,British-Ukrainian Aid [NGO]
+ro-12,Bērnu Klīniskā Universitātes Slimnīca (Latvian Children's Hospital)
+ro-15,CAF America [NGO]
 GB-CHC-292506,CARE International [NGO]
-recipient-18,Canada-Ukraine Foundation [NGO]
-recipient-19,Canadian Red Cross Society
-recipient-20,Canadian Ukrainian Immigrant Aid Society [NGO]
-recipient-22,Caritas [NGO]
-recipient-23,Centrum Praw Kobiet [NGO]
-recipient-24,City of Košice
+ro-16,Canada-Ukraine Foundation [NGO]
+ro-17,Canadian Red Cross Society
+ro-18,Canadian Ukrainian Immigrant Aid Society [NGO]
+ro-20,Caritas [NGO]
+ro-21,Centrum Praw Kobiet [NGO]
+ro-22,City of Košice
 GB-CHC-326568,Comic Relief [NGO]
-recipient-26,Counterpart International [NGO]
+ro-24,Counterpart International [NGO]
 GB-COH-03259922,Crown Agents [NGO]
 DK-CVR-20700211,Danish Red Cross
 DK-CVR-20699310,Danish Refugee Council [NGO]
-recipient-30,Diakonie [NGO]
-recipient-31,Direct Relief [NGO]
+ro-28,Diakonie [NGO]
+ro-29,Direct Relief [NGO]
 GB-CHC-1062638,Disasters Emergency Committee (DEC) [NGO]
-recipient-33,Doctors for Romania Association [NGO]
-recipient-35,FIRE AID [NGO]
-recipient-34,Ferry Porsche Foundation [NGO]
-recipient-36,Foundation Conservation Carpathia [NGO]
-recipient-37,Frankfurt Zoological Society [NGO]
-recipient-38,French Red Cross
-recipient-39,Fundación Mensajeros por la Paz [NGO]
-recipient-40,Fundatia Mereu Aproape [NGO]
-recipient-41,Geeks Without Frontiers [NGO]
-recipient-42,German Red Cross
-recipient-43,Giro555 [NGO]
+ro-31,Doctors for Romania Association [NGO]
+ro-33,FIRE AID [NGO]
+ro-32,Ferry Porsche Foundation [NGO]
+ro-34,Foundation Conservation Carpathia [NGO]
+ro-35,Frankfurt Zoological Society [NGO]
+ro-36,French Red Cross
+ro-37,Fundación Mensajeros por la Paz [NGO]
+ro-38,Fundatia Mereu Aproape [NGO]
+ro-39,Geeks Without Frontiers [NGO]
+ro-40,German Red Cross
+ro-41,Giro555 [NGO]
 US-EIN-300108263,GlobalGiving [NGO]
-recipient-45,GoFundMe.org Stand With Ukraine Fund
-recipient-46,GoFundMe.org Ukraine Humanitarian Fund
-recipient-47,Groupe Habitat en Région [NGO]
-recipient-48,Human Rights Watch [NGO]
-recipient-49,Humane Society International [NGO]
-recipient-50,Hungarian Interchurch Aid [NGO]
-recipient-51,Interchurched Aid [NGO]
+ro-43,GoFundMe.org Stand With Ukraine Fund
+ro-44,GoFundMe.org Ukraine Humanitarian Fund
+ro-45,Groupe Habitat en Région [NGO]
+ro-46,Human Rights Watch [NGO]
+ro-47,Humane Society International [NGO]
+ro-48,Hungarian Interchurch Aid [NGO]
+ro-49,Interchurched Aid [NGO]
 XM-DAC-21016,International Committee of the Red Cross (ICRC)
 XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC)
-recipient-54,International Fund for Animal Welfare [NGO]
-recipient-55,International Health Partners [NGO]
-recipient-56,International Medical Corps (IMC) [NGO]
+ro-52,International Fund for Animal Welfare [NGO]
+ro-53,International Health Partners [NGO]
+ro-54,International Medical Corps (IMC) [NGO]
 XM-DAC-47066,International Organization for Migration (IOM)
 US-EIN-13-5660870,International Rescue Committee (IRC) [NGO]
-recipient-59,International Strategic Action Network for Security [NGO]
-recipient-60,Irish Red Cross Society
-recipient-61,Italian Red Cross
-recipient-62,Japan Platform [NGO]
-recipient-63,Japanese Red Cross Society
-recipient-64,Jesuit Refugee Service [NGO]
-recipient-65,Lithuanian Red Cross
-recipient-66,Luxembourg Red Cross
-recipient-78,MTÜ Eesti Pagulasabi [NGO]
-recipient-79,MTÜ Ukraina Kultuurikeskus [NGO]
-recipient-67,Maria Francesca Rava Foundation [NGO]
-recipient-69,Mercy Chefs [NGO]
-recipient-70,Mercy Corps [NGO]
-recipient-71,Ministry of Agrarian Policy and Food of Ukraine [government]
-recipient-72,Ministry of Health of Ukraine [government]
-recipient-73,Ministry of Social Policy of Ukraine [government]
-recipient-74,Mission 823 [NGO]
-recipient-75,Mission of Mercy [NGO]
-recipient-76,Moldovan Red Cross
-recipient-77,Mondo MTÜ [NGO]
-recipient-68,Médecins Sans Frontières (MSF) [NGO]
+ro-57,International Strategic Action Network for Security [NGO]
+ro-58,Irish Red Cross Society
+ro-59,Italian Red Cross
+ro-60,Japan Platform [NGO]
+ro-61,Japanese Red Cross Society
+ro-62,Jesuit Refugee Service [NGO]
+ro-63,Lithuanian Red Cross
+ro-64,Luxembourg Red Cross
+ro-76,MTÜ Eesti Pagulasabi [NGO]
+ro-77,MTÜ Ukraina Kultuurikeskus [NGO]
+ro-65,Maria Francesca Rava Foundation [NGO]
+ro-67,Mercy Chefs [NGO]
+ro-68,Mercy Corps [NGO]
+ro-69,Ministry of Agrarian Policy and Food of Ukraine [government]
+ro-70,Ministry of Health of Ukraine [government]
+ro-71,Ministry of Social Policy of Ukraine [government]
+ro-72,Mission 823 [NGO]
+ro-73,Mission of Mercy [NGO]
+ro-74,Moldovan Red Cross
+ro-75,Mondo MTÜ [NGO]
+ro-66,Médecins Sans Frontières (MSF) [NGO]
 CZ-ICO-25755277,People in Need [NGO]
-recipient-82,Pioneer Foundation [NGO]
-recipient-83,Plan International Denmark [NGO]
-recipient-84,Polish Center for International Aid Foundation [NGO]
-recipient-85,Polish Humanitarian Action [NGO]
-recipient-86,Polish Red Cross
-recipient-87,President Kaljulaid Foundation MTÜ [NGO]
-recipient-88,Project C.U.R.E. [NGO]
-recipient-89,Project Hope [NGO]
-recipient-80,Päästeliit [NGO]
-recipient-90,Razom [NGO]
-recipient-91,Refugee Council [NGO]
-recipient-92,Refugee Support Europe [NGO]
-recipient-93,Riigikaitse Edendamise Sihtasutus [NGO]
-recipient-94,Romanian Red Cross
-recipient-95,Rotary Klubi Tallinn Vanalinn [NGO]
-recipient-99,SOS Children's Villages [NGO]
+ro-80,Pioneer Foundation [NGO]
+ro-81,Plan International Denmark [NGO]
+ro-82,Polish Center for International Aid Foundation [NGO]
+ro-83,Polish Humanitarian Action [NGO]
+ro-84,Polish Red Cross
+ro-85,President Kaljulaid Foundation MTÜ [NGO]
+ro-86,Project C.U.R.E. [NGO]
+ro-87,Project Hope [NGO]
+ro-78,Päästeliit [NGO]
+ro-88,Razom [NGO]
+ro-90,Refugee Council [NGO]
+ro-91,Refugee Support Europe [NGO]
+ro-92,Riigikaitse Edendamise Sihtasutus [NGO]
+ro-93,Romanian Red Cross
+ro-94,Rotary Klubi Tallinn Vanalinn [NGO]
+ro-99,SOS Children's Villages [NGO]
 GB-CHC-1001349,Samaritan’s Purse [NGO]
 DK-CVR-63407216,Save the Children Denmark [NGO]
 GB-COH-213890,Save the Children [NGO]
-recipient-141,Singapore Red Cross Society
-recipient-100,Sovereign Military Order of Malta
-recipient-101,Spanish Red Cross
-recipient-102,Sunflower of Peace [NGO]
-recipient-103,Swedish Red Cross
-recipient-104,Swiss Red Cross
-recipient-105,Talent Beyond Boundaries [NGO]
-recipient-106,The Association for Legal Intervention [NGO]
-recipient-107,The Canada-Ukraine Foundation [NGO]
-recipient-108,The Gorta Group [NGO]
-recipient-109,The Toy Foundation [NGO]
-recipient-110,Tulipe [NGO]
-recipient-155,UN Global Compact Network Poland
-recipient-131,UNO-Flüchtlingshilfe (Germany for UNHCR)
-recipient-132,USA for UNHCR
-recipient-111,Ukraina Kreeka-Katoliku Kiriku Kogudus Tallinnas
-recipient-112,Ukraine Foodbank [NGO]
-recipient-113,Ukraine Humanitarian Fund (UHF)
-recipient-114,Ukraine Rotary Club Kyiv International [NGO]
-recipient-115,Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO]
-recipient-116,Ukrainian Red Cross Society
-recipient-117,United Hatzalah [NGO]
-recipient-118,United Help Ukraine [NGO]
-recipient-119,United Kingdom for UNHCR
-recipient-120,United Nations Central Emergency Response Fund (CERF)
+ro-98,Singapore Red Cross Society
+ro-100,Sovereign Military Order of Malta
+ro-101,Spanish Red Cross
+ro-102,Sunflower of Peace [NGO]
+ro-103,Swedish Red Cross
+ro-104,Swiss Red Cross
+ro-105,Talent Beyond Boundaries [NGO]
+ro-106,The Association for Legal Intervention [NGO]
+ro-107,The Canada-Ukraine Foundation [NGO]
+ro-108,The Gorta Group [NGO]
+ro-109,The Toy Foundation [NGO]
+ro-110,Tulipe [NGO]
+ro-117,UN Global Compact Network Poland
+ro-132,UNO-Flüchtlingshilfe (Germany for UNHCR)
+ro-150,USA for UNHCR
+ro-111,Ukraina Kreeka-Katoliku Kiriku Kogudus Tallinnas
+ro-112,Ukraine Foodbank [NGO]
+ro-113,Ukraine Humanitarian Fund (UHF)
+ro-114,Ukraine Rotary Club Kyiv International [NGO]
+ro-115,Ukrainian American Cultural Association of Oregon and Southwest Washington [NGO]
+ro-116,Ukrainian Red Cross Society
+ro-118,United Hatzalah [NGO]
+ro-119,United Help Ukraine [NGO]
+ro-120,United Kingdom for UNHCR
+ro-121,United Nations Central Emergency Response Fund (CERF)
 XM-DAC-41122,United Nations Children's Fund (UNICEF)
-recipient-122,United Nations Children's Fund (UNICEF) Canada
-recipient-123,United Nations Children's Fund (UNICEF) Denmark
-recipient-124,United Nations Children's Fund (UNICEF) Japan Committee
-recipient-125,United Nations Children's Fund (UNICEF) Poland
-recipient-126,United Nations Children's Fund (UNICEF) USA
+ro-123,United Nations Children's Fund (UNICEF) Canada
+ro-124,United Nations Children's Fund (UNICEF) Denmark
+ro-125,United Nations Children's Fund (UNICEF) Japan Committee
+ro-126,United Nations Children's Fund (UNICEF) Poland
+ro-127,United Nations Children's Fund (UNICEF) USA
 XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR)
-recipient-128,United Nations High Commissioner for Refugees (UNHCR) Nigeria
+ro-129,United Nations High Commissioner for Refugees (UNHCR) Nigeria
 XM-DAC-41119,United Nations Population Fund (UNFPA)
-recipient-130,United Way [NGO]
-recipient-133,Veterinarians Without Borders [NGO]
-recipient-134,Voices of Children Foundation [NGO]
-recipient-135,War Child [NGO]
-recipient-136,World Central Kitchen [NGO]
+ro-131,United Way [NGO]
+ro-151,Veterinarians Without Borders [NGO]
+ro-152,Voices of Children Foundation [NGO]
+ro-153,War Child [NGO]
+ro-154,World Central Kitchen [NGO]
 XM-DAC-41140,World Food Programme (WFP)
+ro-156,World Food Programme (WFP) USA
 XM-DAC-928,World Health Organization (WHO)
-recipient-139,World Help [NGO]
-recipient-140,World Vision Romania [NGO]
-recipient-1,[multiple or not specified]
-recipient-2,redacted Recipient A
-recipient-156,unspecified Google recipients group A
-recipient-157,unspecified Google recipients group B
-recipient-158,unspecified Google recipients group C
-recipient-142,unspecified Microsoft recipients group A
-recipient-143,unspecified Microsoft recipients group B
-recipient-144,unspecified Microsoft recipients group C
-recipient-145,unspecified Microsoft recipients group D
-recipient-146,unspecified Microsoft recipients group E
-recipient-147,unspecified Microsoft recipients group F
-recipient-148,unspecified Microsoft recipients group G
-recipient-149,unspecified Microsoft recipients group H
-recipient-150,unspecified Microsoft recipients group I
-recipient-151,unspecified Microsoft recipients group J
-recipient-152,unspecified Microsoft recipients group K
-recipient-153,unspecified Microsoft recipients group L
-recipient-154,unspecified Microsoft recipients group M
+ro-158,World Help [NGO]
+ro-159,World Vision Romania [NGO]
+ro-89,redacted Recipient A
+ro-133,unspecified Google cash recipients
+ro-134,unspecified Google in-kind recipients
+ro-135,unspecified Google.org cash recipients
+ro-142,unspecified Microsoft NGO cash recipients
+ro-143,unspecified Microsoft NGO in-kind tech recipients
+ro-144,unspecified Microsoft UN cash recipients
+ro-145,unspecified Microsoft UN in-kind support recipients
+ro-146,unspecified Microsoft UN in-kind tech recipients
+ro-136,unspecified Microsoft commercial in-kind support recipients
+ro-137,unspecified Microsoft commercial in-kind tech recipients
+ro-138,unspecified Microsoft government in-kind support recipients
+ro-139,unspecified Microsoft government in-kind tech recipients
+ro-140,unspecified Microsoft individual in-kind recipients
+ro-141,unspecified Microsoft international org in-kind tech recipients
+ro-147,unspecified Microsoft unspecified in-kind credit recipients
+ro-148,unspecified Microsoft unspecified in-kind tech recipients
+ro-149,unspecified or multiple recipients
