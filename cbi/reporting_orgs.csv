@@ -84,6 +84,7 @@ cd-79,Canada Goose
 cd-80,Canadian Imperial Bank of Commerce
 cd-81,Canadian Pacific Railway
 cd-82,Canva
+cd-420,"Cargill, Inc."
 cd-83,Cargolux
 cd-84,Carlsberg A/S
 cd-86,Chapman and Cutler LLP
@@ -115,6 +116,7 @@ cd-113,"Daiichi Sankyo Company, Limited"
 cd-114,Daily Mail and General Trust
 cd-115,Danone S.A.
 cd-117,Decathlon
+cd-421,Delivery Hero
 cd-118,Delta Air Lines
 cd-119,Dentsu Inc.
 cd-120,Derald H. Ruttenberg Foundation
@@ -138,6 +140,7 @@ cd-138,Epic Games
 cd-140,"Esmark, Inc."
 cd-141,Eurofins Scientific Foundation
 cd-142,Eurol Foundation
+cd-422,"ExlService Holdings, Inc."
 cd-143,Exor NV
 cd-144,ExxonMobil
 cd-162,FOX Corporation
@@ -171,6 +174,7 @@ cd-170,Ganni
 cd-173,General Motors
 cd-174,Gilead Foundation
 cd-175,GlaxoSmithKline plc
+cd-423,GoFundMe.org
 cd-177,Google
 cd-179,Grammarly Inc.
 cd-180,Group 1001 Resources
@@ -182,6 +186,7 @@ cd-185,Gucci
 cd-186,H&M Hennes & Mauritz AB
 cd-187,H. Lundbeck A/S
 cd-190,HELP Logistics
+cd-424,Happybean Foundation
 cd-188,Heartland
 cd-189,Helly Hansen
 cd-191,Hendrick Automotive
@@ -196,12 +201,14 @@ cd-199,"Humble Bundle, Inc."
 cd-200,Hyundai Motor Company
 cd-201,IBM
 cd-203,ICR Touch
+cd-426,IMC International Metalworking Companies B.V.
 cd-205,INFICON Holding AG
 cd-202,Iceland Foods Charitable Foundation
 cd-204,Ikea Foundation
 cd-206,Inflexion Foundation
 cd-207,Ingersoll Rand Inc.
 cd-208,Intel Foundation
+cd-425,Internet Corporation for Assigned Names and Numbers (ICANN)
 cd-209,Interogo Holding AG
 cd-210,Intuit Inc.
 cd-211,Ipsen
@@ -361,6 +368,7 @@ cd-365,The Nippon Foundation
 cd-366,The Pfizer Foundation
 cd-367,TikTok Inc.
 cd-369,Tom Ford SA
+cd-417,TotalEnergies SE
 cd-370,Toyota Motor Corporation
 cd-371,Tripadvisor Foundation
 cd-372,Twitter
@@ -370,6 +378,7 @@ cd-375,Ukrainian Credit Union 
 cd-376,Unilever
 cd-377,Union Pacific Railroad
 cd-378,United Health Foundation
+cd-418,"United Parcel Service, Inc."
 cd-383,VF Foundation
 cd-379,Valentino
 cd-380,Vanguard
@@ -406,5 +415,6 @@ cd-412,Zegna N.V.
 cd-413,"Zentiva Group, a.s."
 cd-414,Zound Industries
 cd-43,aviado GmbH
-#N/A,redacted * Donor A
+cd-307,redacted Donor A
+cd-419,redacted Donor B
 cd-336,Škoda Auto a.s.
