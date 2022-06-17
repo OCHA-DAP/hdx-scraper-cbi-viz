@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2022-06-17T08:39:07.424388","#meta+reporting_orgs+num":418},"data":[
+{"metadata":{"#date+run":"2022-06-17T16:42:58.753285","#meta+reporting_orgs+num":419},"data":[
 {"#org+id+reporting":"cd-1","#org+name+reporting":"3M"},
 {"#org+id+reporting":"cd-2","#org+name+reporting":"8x8 Inc."},
 {"#org+id+reporting":"cd-5","#org+name+reporting":"ABP Food Group Ltd."},
@@ -272,6 +272,7 @@
 {"#org+id+reporting":"cd-268","#org+name+reporting":"Morrison Supermarkets"},
 {"#org+id+reporting":"cd-272","#org+name+reporting":"NCR Foundation"},
 {"#org+id+reporting":"cd-271","#org+name+reporting":"NanoTemper Technologies"},
+{"#org+id+reporting":"cd-427","#org+name+reporting":"Nationale Postcode Loterij"},
 {"#org+id+reporting":"cd-273","#org+name+reporting":"Neptune Energy"},
 {"#org+id+reporting":"cd-274","#org+name+reporting":"Nestl\u00e9 Nespresso S.A."},
 {"#org+id+reporting":"cd-275","#org+name+reporting":"Nestl\u00e9 S.A."},
