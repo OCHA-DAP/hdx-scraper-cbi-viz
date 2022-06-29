@@ -1,4 +1,6 @@
 ﻿Transaction ID,Private sector donor,Business sector,Donor country of registration,Recipient,Donation type,Donation status,Est USD value,Notes,Source,Donor ID,Recipient ID
+710,3i Group plc,Financials,United Kingdom,United Nations Children's Fund (UNICEF),cash,paid,658762,Cash donation to UNICEF National Committee United Kingdom,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-445,XM-DAC-41122
 1,3M,Consumer discretionary,United States of America,GlobalGiving [NGO],cash,pledged,752000,"Donation of $376,000 from 3M staff plus dollar-for-dollar match from the 3M Foundation.","Public reporting
 [https://news.3m.com/3Mers-step-up-to-help-in-Ukraine]",cd-1,US-EIN-300108263
 2,3M,Consumer discretionary,United States of America,unspecified or multiple recipients,cash,pledged,2000000,Commitment of at least $2 million to directly support relief efforts.,"Public reporting
@@ -15,10 +17,14 @@
 [https://newsroom.accenture.com/news/accenture-to-discontinue-business-in-russia.htm]",cd-7,ro-149
 8,Acronis International GmbH,Information technology,Singapore,unspecified or multiple recipients,cash,pledged,500000,"The Acronis Cyber Foundation has released $500,000 in humanitarian assistance to those in need.","Public reporting
 [https://www.acronis.com/en-gb/blog/posts/acronis-suspends-all-operations-in-russia/]",cd-8,ro-149
+711,Action,Consumer staples,Netherlands,United Nations Children's Fund (UNICEF),cash,paid,1086957,Cash donation to UNICEF National Committee Netherlands,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-446,XM-DAC-41122
 9,Adobe Inc.,Information technology,United States of America,unspecified or multiple recipients,cash,pledged,2500000,"Series of grants totaling over $2.5 million USD to organizations such as International Rescue Committee, Reporters Without Borders, Save the Children and the Committee to Protect Journalists.","Public reporting
 [https://blog.adobe.com/en/publish/2022/04/08/adobes-continuing-efforts-to-support-ukraine]",cd-9,ro-149
 10,"ADP, Inc.",Information Technology,United States of America,unspecified or multiple recipients,cash,pledged,1500000,"More than $1,500,000 through donations from the ADP Foundation and ADP employees to UNICEF USA, International Rescue Committee, International Medical Corps and U.S. Association for UNHCR (United Nations Refugee Agency).","Public reporting
 [https://www.adp.com/about-adp/statement-on-ukraine.aspx]",cd-10,ro-149
+712,"AEON Co., Ltd.",Consumer staples,Japan,United Nations Children's Fund (UNICEF),cash,paid,855505,Cash donation to UNICEF National Committee Japan from AEON 1% Club Foundation.,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-447,XM-DAC-41122
 11,AGCO Agriculture Foundation,Industrials,United States of America,World Food Programme (WFP),cash,paid,100000,Donation from company-linked foundation to support emergency relief efforts to provide food assistance for families affected by the conflict inside Ukraine and neighboring countries. ,"Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-11,XM-DAC-41140
 12,Akelius Foundation,Real estate,Sweden,United Nations High Commissioner for Refugees (UNHCR),cash,paid,52000000,"Donation from foundation that owns thousands of rental properties across Europe, made in partnership with a matching grant from Sweden for UNHCR. ","Public reporting
@@ -28,6 +34,8 @@
 14,Aldi Nord,Consumer staples,Germany,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,126443,"CHF 121,843 donated via Charities Aid Foundation","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 25-May-22]",cd-14,XM-DAC-21018
+713,Aldi Nord,Consumer staples,Germany,United Nations Children's Fund (UNICEF),cash,paid,961798,Cash donation to UNICEF National Committee Germany,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-14,XM-DAC-41122
 15,ALDI SOUTH Group,Consumer staples,Germany,Austrian Red Cross,cash,paid,526487,"Part of €5 million commitment. €500,000 cash donation.","Bilateral - donor report
 [Confirmed email 5-May-22]
 
@@ -84,7 +92,7 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 32,American Express Company,Financials,United States of America,International Rescue Committee (IRC) [NGO],cash,pledged,250000,"Donation to provide necessary resources where they are needed most in Ukraine, including for those who have fled their homes. ","Public reporting
 [https://about.americanexpress.com/all-news/news-details/2022/American-Express-Response-to-the-Ukraine-Crisis]",cd-21,US-EIN-13-5660870
 33,American Express Company,Financials,United States of America,United Nations Children's Fund (UNICEF),cash,pledged,250000,"Donation to support children and families as the Ukraine crisis escalates, with life-saving programs, safe water, emergency health, hygiene, and education aid and other immediate help for those in need of support. ","Public reporting
-[https://about.americanexpress.com/all-news/news-details/2022/American-Express-Response-to-the-Ukraine-Crisis]",cd-21,XM-DAC-41122
+[https://about.americanexpress.com/newsroom/press-releases/news-details/2022/American-Express-Response-to-the-Ukraine-Crisis/default.aspx]",cd-21,XM-DAC-41122
 34,AmerisourceBergen Foundation,Health care,United States of America,unspecified or multiple recipients,cash,pledged,500000,Commitment to support organizations in Ukraine including Direct Relief. ,"Public reporting
 [https://www.amerisourcebergen.com/newsroom/media-statements/media-statement-on-current-operations-in-eastern-europe]",cd-22,ro-149
 35,"Amgen Foundation, Inc.",Health care,United States of America,International Medical Corps (IMC) [NGO],cash,pledged,250000,Donation from foundation associated with Amgen biopharmaceutical company. ,"Public reporting
@@ -137,6 +145,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://corporate.asda.com/newsroom/2022/03/04/asda-and-the-asda-foundation-to-provide-1m-support-package-for-ukrainian-families-and-remove-russian-products-from-sale]",cd-35,ro-149
 58,ASIS International,Industrials,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,10000,Donation from organization representing security professionals.,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-36,ro-113
+691,Astarta Holding,Consumer staples,Ukraine,unspecified or multiple recipients,in-kind,pledged,1015995,"UAH 30 million of assistance including 500 tons of food products, temporary shelters, and other assistance from Astarta-Kyiv, a Ukrainian agriculture and industrial company.","Public reporting
+[https://astartaholding.com/news/176]",cd-428,ro-149
 59,Astellas Pharma Inc.,Health care,Japan,United Nations Children's Fund (UNICEF),cash,pledged,78308,10 million yen donation to support humanitarian relief.,"Public reporting
 [https://www.astellas.com/en/news/25326]",cd-37,XM-DAC-41122
 60,AstraZeneca,Health care,United Kingdom,Direct Relief [NGO],in-kind,pledged,3000000,"Twenty-four pallets of medicines, worth $3 million, to our humanitarian relief partner Direct Relief, which is working directly with the Ukrainian Ministry of Health. Part of a $7 million commitment. ","Public reporting
@@ -146,6 +156,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [Confirmed web 20-Apr-22]",cd-38,XM-DAC-21018
 62,AstraZeneca,Health care,United Kingdom,unspecified or multiple recipients,cash,pledged,2000000,$2 million to Project HOPE and IMC. ,"Public reporting
 [https://www.astrazeneca.com/media-centre/statements/2022/our-response-to-the-russia-ukraine-war.html]",cd-38,ro-149
+692,ATB Corporation,Consumer staples,Ukraine,unspecified or multiple recipients,cash,pledged,6778638,"UAH 200 million dedicated to the implementation of humanitarian projects by the largest retailer, taxpayer, and one of the largest employers in Ukraine.","Public reporting 
+[https://delo.ua/uk/business/peremoznii-raund-renking-kompanii-yaki-investuyut-v-oboronu-ukrayini-396347/]",cd-429,ro-149
 63,Atlas Copco Group,Industrials,Sweden,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,105807,Donation of 1m SEK. ,"Public reporting
 [https://www.facebook.com/atlascopco/photos/a.10150146064285703/10158399472190703/]",cd-39,XM-DAC-41121
 64,ATN Corp.,Consumer discretionary,United States of America,The Gorta Group [NGO],cash,pledged,300000,Donation from manufacturer of night vision and thermal vision products. ,"Public reporting
@@ -158,6 +170,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.linkedin.com/posts/aurora-world-inc%2E_standwithukraine-toyfoundation-toyindustry-activity-6909243598135836672-4WNU]",cd-42,ro-109
 68,aviado GmbH,Industrials,Germany,Ukraine Humanitarian Fund (UHF),cash,paid,16667,Donation from specialist aviation and rail consultancy. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-43,ro-113
+714,Axa,Financials,France,United Nations Children's Fund (UNICEF),cash,paid,1630435,Cash donation to UNICEF National Committee France,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-44,XM-DAC-41122
 69,AXA,Financials,France,unspecified or multiple recipients,cash,pledged,6405720,€6 million for NGOs working in Ukraine and neighboring countries.,"Public reporting
 [https://www.axa.com/en/magazine/Ukraine-update-on-our-actions]",cd-44,ro-149
 70,Backcountry,Consumer discretionary,United States of America,CARE International [NGO],cash,pledged,10000,To help with refugee assistance.,"Public reporting
@@ -183,6 +197,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [Confirmed web 20-Apr-22]",cd-55,XM-DAC-21018
 80,BASF,Industrials,Germany,German Red Cross,cash,pledged,1101820,Donation from German chemicals conglomerate. €1 million.,"Public reporting
 [https://www.basf.com/global/en/media/news-releases/2022/03/p-22-161.html]",cd-56,ro-40
+749,Baupost Group,Financials,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,10200,Cash donation to UHF,"Bilateral - recipient report
+[Confirmed email 29-June-22]",cd-474,ro-113
 81,Bayer AG,Health care,Germany,German Red Cross,cash,paid,210938,"€200,000 cash donation to benefit several Red Cross national societies; part of Bayer Disaster Relief Preparedness Fund. ","Bilateral - donor report
 [Confirmed phone 5-May-22, email 6-May-22]
 
@@ -233,18 +249,22 @@ See also public reporting
 
 See also public reporting
 [https://www.bayer.com/en/ukraine]",cd-57,ro-149
+695,Bayerische Motoren Werke AG (BMW),Industrials,Germany,Alliance4Ukraine [NGO],cash,pledged,315765,"€300,000 to address conflicts and advance peace in both short-term and long-term coordinated action contributed to a new coordinating body started by BMW and other foundations, companies, and NGOs.","Public reporting
+[https://storage.googleapis.com/bmw-foundation/1/2022/03/responsibleleadership-bmwfoundation-statementmarch4-2022-2.pdf]",cd-431,ro-160
+694,Bayerische Motoren Werke AG (BMW),Industrials,Germany,United Nations Children's Fund (UNICEF),cash,paid,1011236,Donations to UNICEF National Committee Germany.,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-431,XM-DAC-41122
 91,BBVA,Financials,Spain,United Kingdom for UNHCR,cash,pledged,545000,"€1,586,364 reserved for food security and support of children; recipients to be selected.","Public reporting
 [https://www.bbva.com/en/sustainability/bbvas-donation-drive-in-spain-in-aid-of-ukraine-tops-two-million-euros]",cd-58,ro-120
 92,BBVA,Financials,Spain,United Nations Children's Fund (UNICEF),cash,pledged,545000,"€1,060,000 proceeds from employee donation campaign to benefit multiple Red Cross national societies (via German Red Cross) with match by Bayer AG.","Public reporting
 [https://www.bbva.com/en/sustainability/bbvas-donation-drive-in-spain-in-aid-of-ukraine-tops-two-million-euros]",cd-58,XM-DAC-41122
 93,BentallGreenOak,Real estate,Canada,United Nations Children's Fund (UNICEF),cash,pledged,39500,"CAD 50,000 donation.","Public reporting
 [https://www.sunlife.com/en/newsroom/news-releases/announcement/sun-life-donates-200000-to-the-red-cross-to-support-humanitarian-relief-efforts-in-ukraine/123634/]",cd-59,XM-DAC-41122
-94,BHP Foundation,Materials,Australia,Ukraine Humanitarian Fund (UHF),cash,pledged,2000000,"Pipeline donation from private foundation affiliated with BHP (formerly BHP Billiton), a multinational mining, metals, and petroleum company.","Bilateral - recipient report
-[Confirmed email 31-May-22]",cd-60,ro-113
 95,BHP Foundation,Materials,Australia,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,2000000,"Donation from the private foundation affiliated with BHP (formerly known as BHP Billiton), an Australian multinational mining, metals and petroleum company.","Public reporting
 [https://www.bhp.com/news/articles/2022/03/bhp-foundation-ukraine-donation]",cd-60,XM-DAC-41121
 96,BioNTech SE,Health care,Germany,UNO-Flüchtlingshilfe (Germany for UNHCR),cash,pledged,1099600,Humanitarian aid for the people of Ukraine with a donation of one million Euro.,"Public reporting
 [https://investors.biontech.de/news-releases/news-release-details/statement-humanitarian-aid-ukraine]",cd-61,ro-132
+693,Biosphere Corporation,Consumer staples,Ukraine,unspecified or multiple recipients,in-kind,pledged,67733,"Donated almost 46,000 units of various products worth more than UAH 2 million, including 3000 packages of Bambik diapers, 17,000 packages of wet wipes, 8,000 rolls of garbage bags, toilet paper, kitchen supplies, and more.","Public reporting 
+[https://delo.ua/uk/business/peremoznii-raund-renking-kompanii-yaki-investuyut-v-oboronu-ukrayini-396347/] ",cd-430,ro-149
 97,Blockchain Charity Foundation USA,Financials,Cayman Islands,International Strategic Action Network for Security [NGO],cash,pledged,500000,"Donation of $500,000 equivalent cryptocurrency from charitable foundation associated with Binance cryptocurrency exchange platform towards providing temporary housing and resettlement assistance to Ukrainian refugees entering Poland.","Public reporting
 [https://www.binance.charity/posts/Humanity_First_Update_on_Ukraine_Efforts]",cd-62,ro-57
 98,Blockchain Charity Foundation USA,Financials,Cayman Islands,People in Need [NGO],cash,pledged,1000000,Donation of $1 million equivalent cryptocurrency from charitable foundation associated with Binance cryptocurrency exchange platform towards direct assistance to refugees in Slovakia and those displaced in Ukraine.,"Public reporting
@@ -266,8 +286,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [Confirmed email 30-Mar-22]",cd-65,XM-DAC-41121
 106,"Blue Bottle Coffee, Inc.",Consumer discretionary,United States of America,unspecified or multiple recipients,cash,pledged,50000,"Donation to IRC and the GlobalGiving Ukraine Crisis Relief Fund, part of Global Citizen Stand Up for Ukraine campaign.","Public reporting
 [https://www.globalcitizen.org/en/content/stand-up-for-ukraine-impact-report]",cd-66,ro-149
-107,BNY Mellon,Financials,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,250000,Cash donation from multinational bank.,"Bilateral - recipient report
-[Confirmed email 31-May-22]",cd-67,ro-113
+107,BNY Mellon,Financials,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,271797,Cash donation from multinational bank.,"Bilateral - recipient report
+[Confirmed email 29-Jun-22]",cd-67,ro-113
 108,Boehringer Ingelheim International GmbH,Health care,Germany,Aktion Deutschland Hilft [NGO],cash,pledged,526473,"€500,000 cash donation from German pharmaceutical company.","Public reporting
 [https://www.boehringer-ingelheim.com/solidarity-ukraine]",cd-68,ro-3
 109,Boehringer Ingelheim International GmbH,Health care,Germany,Aktionsbündnis Katastrophenhilfe [NGO],cash,pledged,789708,"€750,000 cash donation from German pharmaceutical company.","Public reporting
@@ -387,7 +407,10 @@ See also public reporting
 [Confirmed email 14-June-22]",cd-73,XM-DAC-41140
 138,BP plc,Energy,United Kingdom,International Committee of the Red Cross (ICRC),cash,pledged,5000000,Part of a $20 million package of assistance. ,"Public reporting
 [https://www.bp.com/en/global/corporate/news-and-insights/reimagining-energy/bp-pledges-donations-in-aid-of-ukraine.html]",cd-74,XM-DAC-21016
-139,BP plc,Energy,United Kingdom,United Nations Children's Fund (UNICEF),cash,pledged,5000000,Part of a $20 million package of assistance. ,"Public reporting
+139,BP plc,Energy,United Kingdom,United Nations Children's Fund (UNICEF),cash,paid,4900000,Part of a $20 million package of assistance. Donation to UNICEF National Committee UK.,"Bilateral - recipient report
+[Confirmed email 28-Jun-22]
+
+See also public reporting
 [https://www.bp.com/en/global/corporate/news-and-insights/reimagining-energy/bp-pledges-donations-in-aid-of-ukraine.html]",cd-74,XM-DAC-41122
 140,BP plc,Energy,United Kingdom,unspecified or multiple recipients,in-kind,pledged,5000000,Food and fuel cards to be distributed at the Polish border. ,"Public reporting
 [https://www.bp.com/en/global/corporate/news-and-insights/reimagining-energy/bp-pledges-donations-in-aid-of-ukraine.html]",cd-74,ro-149
@@ -424,6 +447,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.prnewswire.com/news-releases/cp-donates-500-000-to-red-cross-in-support-of-ukrainian-refugees-and-invites-companies-across-canada-and-the-us-to-join-in-supporting-humanitarian-relief-efforts-301498626.html]",cd-81,ro-17
 156,Canva,Information technology,Australia,unspecified or multiple recipients,cash,pledged,1000000,"Donation through the Canva Foundation to Ukrainian contributors and a number of nonprofits including UNHCR, Save The Children Ukraine, Tabletochki, UNICEF, and World Vision to support those impacted and displaced by the war.","Public reporting 
 [https://www.canva.com/newsroom/news/supporting-ukraine/]",cd-82,ro-149
+715,Capgemini SE,Information technology,France,United Nations Children's Fund (UNICEF),cash,paid,2247191,Cash donation to UNICEF National Committee France,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-448,XM-DAC-41122
 663,"Cargill, Inc.",Consumer staples,United States of America,World Food Programme (WFP),cash,paid,194000,"Donation from one of the largest privately-held companies in America, a food services and agriculture firm.","Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-420,XM-DAC-41140
 157,Cargolux,Industrials,Luxembourg,Médecins Sans Frontières (MSF) [NGO],cash,pledged,545000,"€500,000 donation","Public reporting
@@ -488,7 +513,10 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 
 See also public reporting
 [https://www.conocophillips.com/news-media/story/conocophillips-contributes-to-humanitarian-efforts-in-ukraine]",cd-100,ro-5
-184,ConocoPhillips,Energy,United States of America,United Nations Children's Fund (UNICEF),cash,paid,1000000,Part of a $2m initial commitment to support Ukraine.,"Bilateral - donor report
+184,ConocoPhillips,Energy,United States of America,United Nations Children's Fund (UNICEF),cash,paid,950000,Part of a $2m initial commitment to support Ukraine. Donation to UNICEF National Committee USA.,"Bilateral - recipient report
+[Confirmed email 28-June-22]
+
+Bilateral - donor report
 [Confirmed email 17-May-22]
 
 See also public reporting
@@ -525,13 +553,20 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 198,Czapek & Cie SA,Consumer discretionary,Switzerland,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,21615,"CHF 20,000","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 20-Apr-22]",cd-112,XM-DAC-21018
-199,"Daiichi Sankyo Company, Limited",Health care,Japan,United Nations Children's Fund (UNICEF),cash,pledged,1000000,¥115 million yen,"Public reporting
+199,"Daiichi Sankyo Company, Limited",Health care,Japan,United Nations Children's Fund (UNICEF),cash,paid,1160931,¥115 million yen donation to UNICEF National Committee Japan.,"Bilateral - recipient report
+[Confirmed email 28-June-22]
+
+See also public reporting
 [https://www.daiichisankyo.com/sustainability/performance-reports/news/detail/index_4231.html]",cd-113,XM-DAC-41122
 200,Daily Mail and General Trust,Communications services,United Kingdom,British Red Cross Society ,cash,pledged,660000,"Corporate giving program. DGMT donation for Red Cross aid during humanitarian crisis in Ukraine. GBP £500,000.","Public reporting
 [https://www.dailymail.co.uk/news/article-10580683/Heres-help-Donate-Mail-Force-Ukraine-Appeal.html]",cd-114,GB-CHC-220949
+716,Daimler Truck AG,Industrials,Germany,United Nations Children's Fund (UNICEF),cash,paid,1011236,Cash donation to UNICEF National Committee Germany,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-449,XM-DAC-41122
 201,Danone S.A.,Consumer staples,France,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,557334,"CHF 515,686","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 20-Apr-22]",cd-115,XM-DAC-21018
+698,Darnista,Health care,Ukraine,Ministry of Health of Ukraine [government],in-kind,paid,2336789,Darnytsia transferred 5.25 million doses of medicine worth UAH 69 million to the Public Health Center of the Ministry of Health of Ukraine.,"Public reporting
+[https://www.darnitsa.ua/press-center/novini-kompan/darnitsya-bezkoshtovno-peredala-moz-525-mln-doz-kaliy-yodid-125-darnitsya]",cd-433,ro-70
 202,Decathlon,Consumer Discretionary,France,unspecified or multiple recipients,cash,pledged,2778102,Equipment and products worth more than €2.6 million donated to local NGOs to support Ukrainians.,"Public reporting
 [https://www.decathlon-united.media/update0322]",cd-117,ro-149
 203,Decathlon,Consumer Discretionary,France,unspecified or multiple recipients,cash,pledged,1068501,Solidarity fund of €1 million to support affected people.,"Public reporting
@@ -548,6 +583,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.group.dentsu.com/en/news/release/000677.html]",cd-119,ro-149
 208,Derald H. Ruttenberg Foundation,Industrials,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,61289,Donation from the family foundation established by the founder of Tinicum. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-120,ro-113
+699,Deutsche Bank,Financials,Germany,unspecified or multiple recipients,cash,pledged,1579290," €1 million from the company and €500,000 from its employees to support relief efforts in Ukraine.","Public reporting
+[https://www.db.com/news/detail/20220407-our-support-for-ukraine?language_id=1]",cd-434,ro-149
 209,Devon Energy,Energy,United States of America,unspecified or multiple recipients,cash,pledged,20000000,Pledge of up to $20 million to support humanitarian efforts in Ukraine and neighboring countries supporting Ukrainian refugees. ,"Public reporting
 [https://www.devonenergy.com/news/2022/Devon-Energy-Pledges-Up-to-20-Million-to-Aid-Humanitarian-Efforts-in-Ukraine]",cd-121,ro-149
 210,Diageo,Consumer discretionary,United Kingdom,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,1055887,"CHF 1,016,170 from multinational beverage alcohol company.","Bilateral - recipient report
@@ -558,6 +595,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 212,DiaSorin,Health care,Italy,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,12202,"CHF 11,743 from multinational biotechnology company.","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 25-May-22]",cd-124,XM-DAC-21018
+717,DNB,Financials,Norway,United Nations Children's Fund (UNICEF),cash,paid,559284,Cash donation to UNICEF National Committee Norway,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-450,XM-DAC-41122
 213,"DocuSign, Inc.",Information technology,United States of America,unspecified or multiple recipients,cash,pledged,40000,Donation made as part of the Global Citizen Stand Up for Ukraine campaign.,"Public reporting
 [https://www.globalcitizen.org/en/content/stand-up-for-ukraine-impact-report]",cd-125,ro-149
 214,Don't Nod Entertainment SA,Consumer discretionary,France,Ukrainian Red Cross Society,cash,pledged,32700,"€30,000 donation announced on Twitter.","Public reporting
@@ -573,12 +612,16 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.drax.com/press_release/drax-donates-280000-to-support-humanitarian-effort-in-ukraine/]",cd-129,GB-CHC-1062638
 219,DST Global,Financials,United States of America,GoFundMe.org Stand With Ukraine Fund,cash,paid,3500000,Donation from one of the largest venture capital firms in the world to GoFundMe campaign started by Mila Kunis and Ashton Kutcher. ,"Public reporting
 [https://www.gofundme.com/f/stand-with-ukraine/topdonations]",cd-130,ro-43
+700,DTEK Group,Utilities,Ukraine,unspecified or multiple recipients,in-kind,paid,336638,"At least UAH 10 million of free electricity provided to Dnipropetrovsk and Donetsk region critical infrastructure facilities, among many other cash and in-kind donations.","Public reporting 
+[https://dtek.com/media-center/news/operativne-zvedennya-po-diyalnosti-grupi-dte/]",cd-435,ro-149
 220,Dunamu Inc.,Financials,Republic of Korea,World Food Programme (WFP),cash,paid,811833,KRW 1 billion donation from block chain and fintech company.,"Bilateral - recipient report
 [Confirmed email 14-June-22]
 
 See also https://www.wfp.org/news/dunamu-contributes-us-823000-wfps-emergency-aid-ukraine",cd-131,XM-DAC-41140
 221,Dupont,Materials,United States of America,International Committee of the Red Cross (ICRC),cash,pledged,200000,"Donation to support the humanitarian crisis in Ukraine, announced via Twitter.","Public reporting
 [https://twitter.com/DuPont_News/status/1501247471208513541]",cd-132,XM-DAC-21016
+701,Edeka Group (EDEKA),Consumer staples,Germany,unspecified or multiple recipients,cash,pledged,2104810,"€2 million donation from the EDEKA Foundation to the German Red Cross, German Children’s Fund, Deutscher and many other NGOs.","Public reporting
+[https://stiftung.edeka/edeka-stiftung.html]",cd-436,ro-149
 222,"Eisai Co., Ltd.",Health care,Japan,unspecified or multiple recipients,cash,pledged,122902,"16 million yen to the Japanese Red Cross Society, the Association for Aid and Relief (AAR Japan and other organizations.","Public reporting
 [https://www.efpia.eu/news-events/the-efpia-view/efpia-news/pharmaceutical-industry-response-to-the-war-in-ukraine/]",cd-133,ro-149
 223,Eli Lilly and Company,Health care,United States of America,Direct Relief [NGO],in-kind,pledged,1800000,"$1.8 million supply of baricitinib, used to treat complications of COVID-19. ","Public reporting
@@ -591,10 +634,18 @@ See also https://www.wfp.org/news/dunamu-contributes-us-823000-wfps-emergency-ai
 [https://www.lilly.com/news/stories/ukraine-support]",cd-135,ro-29
 227,Embracer Group,Consumer discretionary,Sweden,unspecified or multiple recipients,cash,pledged,5000000,Pledged donation from video game studio. ,"Public reporting
 [https://embracer.com/release/update-on-the-situation-due-to-the-war-in-ukraine/]",cd-136,ro-149
+718,"Endeavor Group Holdings, Inc",Consumer discretionary,United States of America,United Nations Children's Fund (UNICEF),cash,paid,570000,Cash donation to UNICEF National Committee United States,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-451,XM-DAC-41122
 228,Epic Games,Consumer discretionary,United States of America,unspecified or multiple recipients,cash,paid,117125856,"Together with the Fortnite community and Xbox, over $144 million raised for Direct Relief, UNICEF, WFP, UNHCR, and World Central Kitchen to support humanitarian relief efforts for people affected by the war in Ukraine. ","Public reporting
 [https://www.epicgames.com/fortnite/en-US/news/support-humanitarian-relief-for-ukraine]",cd-138,ro-149
 229,Epic Games,Consumer discretionary,United States of America,World Food Programme (WFP),cash,paid,26874144,"Together with the Fortnite community and Xbox, over $144 million raised for Direct Relief, UNICEF, WFP, UNHCR, and World Central Kitchen to support humanitarian relief efforts for people affected by the war in Ukraine. ","Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-138,XM-DAC-41140
+719,Equinor,Energy,Norway,United Nations Children's Fund (UNICEF),cash,paid,563825,Cash donation to UNICEF National Committee Norway,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-452,XM-DAC-41122
+720,Ericsson,Communications services,Sweden,United Nations Children's Fund (UNICEF),cash,paid,1025143,Cash donation to UNICEF National Committee Sweden,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-453,XM-DAC-41122
+721,Ernst & Young Global Limited,Financials,United Kingdom,United Nations Children's Fund (UNICEF),cash,paid,523561,Cash donation to UNICEF National Committee United Kingdom,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-454,XM-DAC-41122
 230,ERSTE Foundation,Financials,Austria,unspecified or multiple recipients,cash,pledged,1085800,Donation from foundation linked to Erste Group bank will provide a special budget of one million euros for acute and medium-term aid to address the effects of the war on the people of Ukraine. ,"Public reporting
 [https://www.erstestiftung.org/en/press/erste-foundation-1-million-euro-special-budget-to-help-the-people-of-ukraine/]",cd-139,ro-149
 231,"Esmark, Inc.",Industrials,United States of America,City of Košice,cash,paid,50000,Donation to the city of Košice in Slovakia to benefit Ukrainian refugees from steel company with local operations.,"Public reporting
@@ -655,6 +706,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [Confirmed email 31-May-22]",cd-159,ro-113
 256,Ford Motor Company Fund,Consumer discretionary,United States of America,GlobalGiving [NGO],cash,pledged,100000,Donation from the Ford Fund to the Global Giving Ukraine Relief Fund for humanitarian aid to assist Ukrainian citizens and families who have been displaced.,"Public reporting
 [https://media.ford.com/content/fordmedia/fna/us/en/news/2022/03/01/ford-russia-ukraine-statement.html]",cd-160,US-EIN-300108263
+722,Formula One World Championship Limited,Consumer discretionary,United Kingdom,United Nations Children's Fund (UNICEF),cash,paid,1308901,Cash donation to UNICEF National Committee United Kingdom,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-455,XM-DAC-41122
 257,Fortum Oyj,Utilities,Finland,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,223091,"CHF 206,421","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 20-Apr-22]",cd-161,XM-DAC-21018
@@ -701,12 +754,16 @@ see also public reporting
 [https://twitter.com/GSK/status/1498765191898701826]",cd-175,XM-DAC-21016
 274,GlaxoSmithKline plc,Consumer staples,United Kingdom,Save the Children [NGO],cash,pledged,325654,"GSK donated £3.25million to the Red Cross and Save the Children who are providing food, water, first aid, medicines, warm clothes and shelter for people in Ukraine and refugees at the border. ","Public reporting
 [https://www.gsk.com/en-gb/media/resource-centre/our-response-to-the-situation-in-ukraine/]",cd-175,GB-COH-213890
+723,GN Store Nord A/S,Health care,Denmark,United Nations Children's Fund (UNICEF),cash,paid,960889,Cash donation to UNICEF National Committee Denmark,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-456,XM-DAC-41122
 666,GoFundMe.org,Information technology,United States of America,World Food Programme (WFP),cash,paid,97000,Donation of proceeds from GoFundMe online public fundraising campaign (not a direct donation from the company itself).,"Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-423,XM-DAC-41140
 275,Google,Information technology,United States of America,Polish Center for International Aid Foundation [NGO],cash,pledged,2600000,PLN 10 million donation announced on official Google Blog Polska.,"Public reporting
 [https://polska.googleblog.com/2022/03/pomoc-dla-polskich-organizacji.html]",cd-177,ro-82
 276,Google,Information technology,United States of America,The Association for Legal Intervention [NGO],cash,pledged,1000000,PLN 4 million donation announced on official Google Blog Polska.,"Public reporting
 [https://polska.googleblog.com/2022/03/pomoc-dla-polskich-organizacji.html]",cd-177,ro-106
+724,Google,Information technology,United States of America,United Nations Children's Fund (UNICEF),cash,paid,1631061,Cash donation to UNICEF National Committee United States,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-177,XM-DAC-41122
 277,Google,Information technology,United States of America,unspecified Google cash recipients,cash,pledged,13200000,Employee fundraising campaign proceeds (inclusive of company matching funds).,"Bilateral – donor report
 [Confirmed email 29-Apr-22]
 
@@ -714,7 +771,7 @@ Public reporting
 [https://blog.google/inside-google/company-announcements/warsaw-announcing-more-support-ukraine]",cd-177,ro-133
 278,Google,Information technology,United States of America,unspecified Google in-kind recipients,in-kind,pledged,5000000,In-kind Google Ads grants committed to humanitarian organizations in support of the Ukraine humanitarian response from Google.org.,"Bilateral - donor report
 [Confirmed email 29-Apr-22]",cd-177,ro-134
-279,Google,Information technology,United States of America,unspecified Google.org cash recipients,cash,pledged,14522233,Cash grants to support humanitarian aid efforts in Ukraine from Google.org. Reported by Google as $19m and manually reduced for identified grant recipients.,"Bilateral – donor report
+279,Google,Information technology,United States of America,unspecified Google.org cash recipients,cash,pledged,12891172,Cash grants to support humanitarian aid efforts in Ukraine from Google.org. Reported by Google as $19m and manually reduced for identified grant recipients.,"Bilateral – donor report
 [Confirmed email 29-Apr-22]
 
 Public reporting
@@ -725,6 +782,8 @@ Public reporting
 [https://twitter.com/Grammarly/status/1498535692996988932]",cd-179,ro-149
 282,Group 1001 Resources,Financials,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,20000,Donation from a leading life insurance holding company in the United States. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-180,ro-113
+702,Group DF,Industrials,Ukraine,National Bank of Ukraine [government],cash,pledged,3386651,UAH 100 million transferred to the Ukrainian central bank for humanitarian relief.,"Public reporting 
+[https://delo.ua/uk/business/peremoznii-raund-renking-kompanii-yaki-investuyut-v-oboronu-ukrayini-396347/] ",cd-437,ro-173
 283,Groupe BPCE,Financials,France,French Red Cross,cash,pledged,5429000,"Groupe BPCE’s companies the Banques Populaires, Caisses d'Epargne, Natixis CIB, Natixis IM, Banque Palatine, and all the subsidiaries of Groupe BPCE and the Natixis foundation will be donating almost €5 million to the French Red Cross. ","Public reporting
 [https://groupebpce.com/en/all-the-latest-news/news/2022/groupe-bpce-s-companies-mobilize-their-efforts-to-bring-aid-to-ukraine]",cd-181,ro-36
 284,Groupe Caisse d'épargne,Financials,France,French Red Cross,cash,pledged,1631224,"€1,000,000 to support the affected populations by the crisis.","Public reporting
@@ -735,6 +794,8 @@ Public reporting
 [https://www.grunenthal.com/en/press-room/stories/gruenenthal-supports-humanitarian-relief-efforts-in-ukraine]",cd-184,ro-149
 287,Gucci,Consumer discretionary,Italy,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,500000,"$500,000 in response to the crisis in Ukraine.","Public reporting
 [https://www.uschamberfoundation.org/aid-event/humanitarian-crisis-ukraine/gucci-humanitarian-crisis-ukraine]",cd-185,XM-DAC-41121
+725,H&M Hennes & Mauritz AB,Consumer discretionary,Sweden,United Nations Children's Fund (UNICEF),cash,paid,820817,Cash donation to UNICEF National Committee Sweden,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-186,XM-DAC-41122
 288,H&M Hennes & Mauritz AB,Consumer discretionary,Sweden,United Nations High Commissioner for Refugees (UNHCR),cash,paid,930684,"€760,000 + SEK 956,000. ","Bilateral - recipient report
 [Confirmed email 30-Mar-22]",cd-186,XM-DAC-41121
 289,H. Lundbeck A/S,Health care,Denmark,Danish Red Cross,cash,pledged,1500000,DKK 10 million cash donation to support emergency relief efforts.,"Public reporting
@@ -743,7 +804,10 @@ Public reporting
 [Confirmed email 14-June-22]",cd-424,XM-DAC-41140
 290,Heartland,Consumer discretionary,Denmark,Danish Red Cross,cash,pledged,1465524,"BESTSELLER's parent company HEARTLAND has donated DKK 100 million to humanitarian efforts and other initiatives that will make a difference for Ukraine and the Ukrainian people. Initially, HEARTLAND has donated DKK 10 million to the Red Cross, UNICEF and the UN Refugee Agency (UNHCR), all of which work to help Ukraine. Later, donations to a number of other aid programmes will follow. ","Public reporting
 [https://about.bestseller.com/news/bestseller-supports-ukraine]",cd-188,DK-CVR-20700211
-291,Heartland,Consumer discretionary,Denmark,United Nations Children's Fund (UNICEF),cash,pledged,1465524,"BESTSELLER's parent company HEARTLAND has donated DKK 100 million to humanitarian efforts and other initiatives that will make a difference for Ukraine and the Ukrainian people. Initially, HEARTLAND has donated DKK 10 million to the Red Cross, UNICEF and the UN Refugee Agency (UNHCR), all of which work to help Ukraine. Later, donations to a number of other aid programmes will follow. ","Public reporting
+291,Heartland,Consumer discretionary,Denmark,United Nations Children's Fund (UNICEF),cash,paid,1434612,BESTSELLER's parent company HEARTLAND has donated DKK 100 million to humanitarian efforts and other initiatives that will make a difference for Ukraine and the Ukrainian people. Donation made to UNICEF National Committee Denmark.,"Bilateral - recipient report
+[Confirmed email 28-June-22]
+
+See also public reporting
 [https://about.bestseller.com/news/bestseller-supports-ukraine]",cd-188,XM-DAC-41122
 292,Heartland,Consumer discretionary,Denmark,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,1465524,"BESTSELLER's parent company HEARTLAND has donated DKK 100 million to humanitarian efforts and other initiatives that will make a difference for Ukraine and the Ukrainian people. Initially, HEARTLAND has donated DKK 10 million to the Red Cross, UNICEF and the UN Refugee Agency (UNHCR), all of which work to help Ukraine. Later, donations to a number of other aid programmes will follow. ","Public reporting
 [https://about.bestseller.com/news/bestseller-supports-ukraine]",cd-188,XM-DAC-41121
@@ -773,10 +837,8 @@ Public reporting
 [Confirmed email 30-May-22]",cd-196,ro-61
 305,"Hitachi, Ltd.",Consumer discretionary,Japan,Singapore Red Cross Society,cash,paid,35438,4.5 million Japanese yen. Part of 63 million Japanese yen donated through company match program. Employees contributed 40m JPY and the company matched 23m JPY as of 26 May.,"Bilateral - donor report
 [Confirmed email 30-May-22]",cd-196,ro-98
-306,"Hitachi, Ltd.",Consumer discretionary,Japan,United Nations Children's Fund (UNICEF) Japan Committee,cash,paid,1340807,175 million Japanese yen paid in March,"Bilateral - donor report
-[Confirmed email 30-May-22]",cd-196,ro-125
-307,"Hitachi, Ltd.",Consumer discretionary,Japan,United Nations Children's Fund (UNICEF) USA,cash,paid,66939,8.5 million Japanese yen. Part of 63 million Japanese yen donated through company match program. Employees contributed 40m JPY and the company matched 23m JPY as of 26 May.,"Bilateral - donor report
-[Confirmed email 30-May-22]",cd-196,ro-127
+306,"Hitachi, Ltd.",Consumer discretionary,Japan,United Nations Children's Fund (UNICEF),cash,paid,1497134,"175 million Japanese yen paid in March, plus millions more contributed by employees. Donation to UNICEF National Committee Japan.","Bilateral - donor report
+[Confirmed email 30-May-22]",cd-196,XM-DAC-41122
 308,"Hitachi, Ltd.",Consumer discretionary,Japan,World Central Kitchen [NGO],cash,paid,15750,2 million Japanese yen. Part of 63 million Japanese yen donated through company match program. Employees contributed 40m JPY and the company matched 23m JPY as of 26 May.,"Bilateral - donor report
 [Confirmed email 30-May-22]",cd-196,ro-154
 309,Home Capital Group,Financials,Canada,Canadian Red Cross Society,cash,pledged,39500,"Donation of $50,000 CAD to the Canadian Red Cross Ukraine Humanitarian Crisis Appeal in support of humanitarian relief efforts in Ukraine.","Public reporting
@@ -809,6 +871,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [Confirmed web 20-Apr-22]",cd-205,XM-DAC-21018
 320,Inflexion Foundation,Financials,United Kingdom,British Red Cross Society ,cash,pledged,654000,"£500,000 to the Disasters Emergency Committee (DEC) Ukraine Appeal, through the British Red Cross. ","Public reporting
 [https://www.inflexion.com/news-insights-events/press-releases/2022/inflexion-announces-500-000-donation-to-dec-ukraine-appeal/]",cd-206,GB-CHC-220949
+727,ING Group,Financials,Netherlands,United Nations Children's Fund (UNICEF),cash,paid,3260870,Cash donation to UNICEF National Committee Netherlands,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-457,XM-DAC-41122
 321,Ingersoll Rand Inc.,Industrials,United States of America,World Food Programme (WFP),cash,paid,242500,Donation from US industrial tool company.,"Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-207,XM-DAC-41140
 322,Intel Foundation,Industrials,United States of America,American Red Cross,cash,paid,350000,Part of a $2 million commitment from the Intel Foundation.,"Bilateral - donor report
@@ -841,12 +905,17 @@ See also public reporting
 327,Interogo Holding AG,Real estate,Switzerland,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,5396868,"CHF 5,120,830 from foundation-owned investment group spun off from Ikea.","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 20-Apr-22]",cd-209,XM-DAC-21018
+703,Interpipe Group,Industrials,Ukraine,Revival of the Region [NGO],cash,pledged,73387,"UAH 180,000 for humanitarian relief plus UAH 2 million for medical support; part of an overall UAH 10.2 million of support to the Ukrainian military.",Public reporting [https://interpipe.biz/media/newsone/499/1],cd-438,ro-174
 328,Intuit Inc.,Information technology,United States of America,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,1000000,Money to help support the people of Ukraine. The company is  also offering a 2:1 match to double employee donations supporting relief efforts.,"Public reporting
 [https://www.intuit.com/blog/social-responsibility/intuit-supports-the-people-of-ukraine/]",cd-210,XM-DAC-41121
 329,Ipsen,Health care,France,French Red Cross,cash,pledged,791059,"Donation of €1.5 million, split between two humanitarian organizations.","Public reporting
 [https://www.ipsen.com/ukraine-situation-what-ipsen-is-doing/]",cd-211,ro-36
 330,Ipsen,Health care,France,Tulipe [NGO],cash,pledged,791059,"Donation of €1.5 million, split between two humanitarian organizations.","Public reporting
 [https://www.ipsen.com/ukraine-situation-what-ipsen-is-doing/]",cd-211,ro-110
+697,Iwan Budnikowsky GmbH & Co. KG (Budni),Health care,Germany,Hanseatic Help e.V. [NGO],in-kind,paid,147345,"€140,000 worth of hygiene products distributed through Hanseatic Help to families in need in the war zone.","Public reporting
+[https://www.budni.de/presse/spendensumme-fuer-die-ukraine?]",cd-432,ro-172
+696,Iwan Budnikowsky GmbH & Co. KG (Budni),Health care,Germany,United Nations Children's Fund (UNICEF),cash,pledged,336838,"€320,000 to UNICEF to support children and families in the war zone in Ukraine","Public reporting
+[https://www.budni.de/presse/spendensumme-fuer-die-ukraine?]",cd-432,XM-DAC-41122
 331,Jaguar Land Rover,Industrials,United Kingdom,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,178930,"CHF 172,200 from British automobile manufacturer (now owned by Tata Motors).","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 25-May-22]",cd-212,XM-DAC-21018
@@ -854,6 +923,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.uschamberfoundation.org/aid-event/humanitarian-crisis-ukraine/cox-enterprises-humanitarian-crisis-ukraine]",cd-213,ro-5
 333,Japan Sporting Goods Industries Association,Consumer discretionary,Japan,Ukraine Humanitarian Fund (UHF),cash,paid,10000,Donation from the nonprofit association representing Japanese sporting goods companies. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-214,ro-113
+728,Jefferies Group LLC ,Financials,Italy,United Nations Children's Fund (UNICEF),cash,paid,950000,Cash donation to UNICEF National Committee Italy,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-458,XM-DAC-41122
 334,John Legere Family Foundation,Communications services,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,25000,Donation from the private foundation of the former CEO of T-Mobile USA. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-215,ro-113
 335,John Lewis Partnership,Consumer discretionary,United Kingdom,British Red Cross Society ,cash,pledged,132000,"£100,000 in support of the Ukraine Crisis Appeal.","Public reporting
@@ -869,6 +940,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.jnj.com/johnson-johnson-statement-on-war-in-ukraine]",cd-217,ro-149
 340,Jonathan Molot and Hattie Ruttenberg Foundation,Financials,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,43249,Donation from private foundation associated with the founder of Burford Capital. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-218,ro-113
+729,JPMorgan Chase & Co.,Financials,United States of America,United Nations Children's Fund (UNICEF),cash,paid,950000,Cash donation to UNICEF National Committee United States,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-219,XM-DAC-41122
 341,JPMorgan Chase & Co.,Financials,United States of America,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,1000000,"Commitment of up to $5 million to IMC, IRC, Polska Akcja Humanitarna, US Fund for UNICEF, UNHCR, and World Central Kitchen.","Public reporting
 [https://www.jpmorgan.com/news/an-update-on-our-response-to-the-humanitarian-crisis-in-ukraine]",cd-219,XM-DAC-41121
 342,JPMorgan Chase & Co.,Financials,United States of America,unspecified or multiple recipients,cash,pledged,4000000,"Commitment of up to $5 million to IMC, IRC, Polska Akcja Humanitarna, US Fund for UNICEF, UNHCR, and World Central Kitchen.","Public reporting
@@ -877,6 +950,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [x]",cd-220,XM-DAC-41121
 344,Kansas City Southern Charitable Fund,Industrials,United States of America,American Red Cross,cash,pledged,500000,"To support the global Red Cross network response to the Ukraine humanitarian crisis, and will also match employees’ contributions to the American Red Cross for this effort. ","Public reporting
 [https://www.businesswire.com/news/home/20220311005389/en/Kansas-City-Southern-Announces-500000-Pledge-and-Employee-Gift-Match-to-American-Red-Cross-to-Support-the-Global-Red-Cross-Network-Response-to-the-Ukraine-Humanitarian-Crisis]",cd-221,ro-5
+730,KDDI Corporation,Communications services,Japan,United Nations Children's Fund (UNICEF),cash,paid,879894,Cash donation to UNICEF National Committee Japan,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-459,XM-DAC-41122
 345,Keen,Consumer discretionary,United States of America,unspecified or multiple recipients,cash,pledged,165000,"150,000 euros in cash and products to support Ukrainian refugees arriving in Poland, Slovakia and Hungary.","Public reporting
 [https://www.adventure-journal.com/2022/03/drop-waterfalls-not-bombs-outdoor-companies-rally-to-ukraine-relief/]",cd-222,ro-149
 346,Kerry Group plc,Consumer staples,Ireland,World Food Programme (WFP),cash,paid,273823,Donation from Irish food company. ,"Bilateral - recipient report
@@ -927,7 +1002,12 @@ https://newsroom.kuehne-nagel.com/kuehnenagel-provides-quick-aid-to-ukraine/
 [Confirmed phone 8-Apr-22]",cd-233,XM-DAC-928
 365,Kurt Geiger,Consumer discretionary,United Kingdom,British Red Cross Society ,cash,pledged,66000,"£50,000 to provide food, water, first aid, medicine, warm clothes and shelter to those affected by the crisis in Ukraine.","Public reporting
 [https://www.uschamberfoundation.org/aid-event/humanitarian-crisis-ukraine/kurt-geiger-humanitarian-crisis-ukraine]",cd-234,GB-CHC-220949
-366,LEGO Foundation,Consumer discretionary,Denmark,United Nations Children's Fund (UNICEF),cash,pledged,3700000,Part of a DKK 110 million (USD $16.5 million) pledge announced by the LEGO Foundation to support people affected by the conflict in Ukraine.,"Public reporting
+704,Kyivstar,Communication services,Ukraine,Caritas Ukraine [NGO],cash,pledged,169332,"UAH 5 million for humanitarian needs of forcibly displaced Ukrainians, part of an overall UAH 30 million of support to the military, hospitals, the elderly, and victims of war.","Public reporting 
+[https://kyivstar.ua/uk/mm/news-and-promotions/kyyivstar-pererahuvav-5-milyoniv-gryven-na-gumanitarnu-dopomogu-postrazhdalym]",cd-439,ro-175
+366,LEGO Foundation,Consumer discretionary,Denmark,United Nations Children's Fund (UNICEF),cash,paid,3563391,Part of a DKK 110 million (USD $16.5 million) pledge announced by the LEGO Foundation to support people affected by the conflict in Ukraine. Donation made to UNICEF National Committee Denmark.,"Bilateral - recipient report
+[Confirmed email 28-June-22]
+
+Public reporting
 [https://www.unicef.org/partnerships/lego-foundation-donates-37-million-unicef-lifesaving-work-children-ukraine]",cd-235,XM-DAC-41122
 367,LEO Pharma A/S,Health care,Denmark,Danish Red Cross,cash,pledged,141758,DKK 1 million cash donation.,"Public reporting
 [https://www.efpia.eu/news-events/the-efpia-view/efpia-news/pharmaceutical-industry-response-to-the-war-in-ukraine/]",cd-236,DK-CVR-20700211
@@ -1017,6 +1097,8 @@ See also public reporting
 [https://www.mccain.com/information-centre/news/announcement/]",cd-251,ro-17
 396,Mercedes-Benz,Consumer discretionary,Germany,German Red Cross,cash,pledged,1090000,"Corporate giving program. Mercedes-Benz has announced that it will donate €1 million ($1,108,400) to the German Red Cross in support of those affected by the crisis in Ukraine. EUR 1000000.","Public reporting
 [x]",cd-252,ro-40
+731,Mercedes-Benz Grand Prix Ltd,Industrials,United Kingdom,United Nations Children's Fund (UNICEF),cash,paid,1006588,Cash donation to UNICEF National Committee United Kingdom,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-460,XM-DAC-41122
 397,Merck KGaA,Health care,Germany,German Red Cross,cash,pledged,2180000,"Corporate giving program. To support humanitarian aid in Ukraine, Merck will donate two million euros to the German Red Cross. One million euros of this amount will be contributed by the Merck Family. EUR 2000000.","Public reporting
 [x]",cd-253,ro-40
 398,"Meta Platforms, Inc.",Information technology,United States of America,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,146704,"CHF 139,200 donated via Charities Aid Foundation","Bilateral - recipient report
@@ -1132,6 +1214,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [x]",cd-269,ro-33
 433,MSD,Health care,United States of America,unspecified or multiple recipients,cash,pledged,65000000,"Cash and product donations including delivery of molnupiravir, proventil, tienam IV/primaxin, keytruda to the Government of Ukraine and Direct Relief plus cash donations to the American Red Cross, Direct Relief, IMC, Project HOPE, and others.","Public reporting
 [https://www.msd.com/news/update-on-our-support-for-ukraine/]",cd-270,ro-149
+705,Myronivsky Hliboproduct (MHP),Consumer staples,Ukraine,unspecified or multiple recipients,in-kind,paid,21073520,"Donation from Ukraine's largest agricultural produce company of 11,635 tons of food products worth UAH 626 million.","Public reporting
+[https://mhp.com.ua/en/glorytoUkraine]",cd-440,ro-149
 434,NanoTemper Technologies,Information technology,Germany,Ukraine Humanitarian Fund (UHF),cash,paid,13508,"Donation of  €12,500 from German technology company. ","Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-271,ro-113
 676,Nationale Postcode Loterij,Consumer discretionary,Netherlands,Amnesty International [NGO],cash,pledged,3788834,"€3,600,000 donation from the largest charity lottery in the Netherlands, founded by the marketing agency Novamedia.","Public reporting
@@ -1175,6 +1259,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 440,Nestlé S.A.,Consumer staples,Switzerland,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,654754,"CHF 630,126 from multinational food giant.","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 25-May-22]",cd-275,XM-DAC-21018
+706,Netto Marken-Discount,Consumer staples,Germany,Stiftung RTL - Wir helfen Kindern e.V. [NGO],cash,paid,526290,"€500,000 cash collected from  customers through a rounding-up fundraising campaign.","Public reporting
+[https://www.netto-online.de/unternehmen/Ukraine-Spendenaktion-2022.chtm]",cd-441,ro-176
 441,New York Life,Financials,United States of America,Save the Children [NGO],cash,pledged,150000,"To provide children and their families in Ukraine with immediate on-the-ground aid, including food, water, hygiene kits, psychosocial support, and cash assistance.","Public reporting
 [https://www.uschamberfoundation.org/aid-event/humanitarian-crisis-ukraine/new-york-life-humanitarian-crisis-ukraine]",cd-276,GB-COH-213890
 442,New York Life,Financials,United States of America,United Nations Children's Fund (UNICEF) USA,cash,pledged,150000,"To support child and family protection support hubs located at key migration routes, providing safe water, nutrition, healthcare and education to those affected by the conflict in Ukraine.","Public reporting
@@ -1191,6 +1277,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [Confirmed email 5-May-22]",cd-277,ro-149
 448,Nike Foundation,Consumer discretionary,United States of America,unspecified or multiple recipients,cash,pledged,1000000,1 million dollars to UNICEF and International Rescue Committee. Also working with Good360 on the distribution of product donations to those affected. ,"Public reporting
 [https://www.business-humanrights.org/en/latest-news/nike-statement/]",cd-278,ro-149
+733,Nippon Telegraph and Telephone Corporation (NTT),Communications services,Japan,United Nations Children's Fund (UNICEF),cash,paid,996276,Cash donation to UNICEF National Committee Japan,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-462,XM-DAC-41122
 449,"Nissan Motor Co., Ltd.",Industrials,Japan,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,538795,"CHF 511,237 from Nissan Europe","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 20-Apr-22]",cd-279,XM-DAC-21018
@@ -1214,19 +1302,28 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-grants-dkk-50-million-to-strengthen-emergency-relief-efforts-in-response-to-the-conflict-in-ukraine/]",cd-283,DK-CVR-20699310
 459,Novo Nordisk Foundation,Energy,Denmark,Human Rights Watch [NGO],cash,pledged,147804,"DKK 50 million donation from pharmaceutical-company linked foundation distributed as follows: Danish Red Cross DKK 25 million, UNHCR DKK 10 million, Danish Refugee Council DKK 10 million, UNICEF Denmark DKK 4 million and Human Rights Watch DKK 1 million.","Public reporting
 [https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-grants-dkk-50-million-to-strengthen-emergency-relief-efforts-in-response-to-the-conflict-in-ukraine/]",cd-283,ro-46
-460,Novo Nordisk Foundation,Energy,Denmark,United Nations Children's Fund (UNICEF) Denmark,cash,pledged,591218,"DKK 50 million donation from pharmaceutical-company linked foundation distributed as follows: Danish Red Cross DKK 25 million, UNHCR DKK 10 million, Danish Refugee Council DKK 10 million, UNICEF Denmark DKK 4 million and Human Rights Watch DKK 1 million.","Public reporting
-[https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-grants-dkk-50-million-to-strengthen-emergency-relief-efforts-in-response-to-the-conflict-in-ukraine/]",cd-283,ro-124
+460,Novo Nordisk Foundation,Energy,Denmark,United Nations Children's Fund (UNICEF),cash,paid,555556,"DKK 50 million donation from pharmaceutical-company linked foundation distributed as follows: Danish Red Cross DKK 25 million, UNHCR DKK 10 million, Danish Refugee Council DKK 10 million, UNICEF Denmark DKK 4 million and Human Rights Watch DKK 1 million. Paid to UNICEF National Committee Denmark.","Bilateral - recipient report
+[Confirmed email 28-June-22]
+
+See also public reporting
+[https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-grants-dkk-50-million-to-strengthen-emergency-relief-efforts-in-response-to-the-conflict-in-ukraine/]",cd-283,XM-DAC-41122
 461,Novo Nordisk Foundation,Energy,Denmark,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,1478047,"DKK 50 million donation from pharmaceutical-company linked foundation distributed as follows: Danish Red Cross DKK 25 million, UNHCR DKK 10 million, Danish Refugee Council DKK 10 million, UNICEF Denmark DKK 4 million and Human Rights Watch DKK 1 million.","Public reporting
 [https://novonordiskfonden.dk/en/news/novo-nordisk-foundation-grants-dkk-50-million-to-strengthen-emergency-relief-efforts-in-response-to-the-conflict-in-ukraine/]",cd-283,XM-DAC-41121
 462,Novo Nordisk Foundation,Energy,Denmark,World Health Organization (WHO),cash,paid,3656088,€3.4 million / DKK 25 million to support emergency response in Ukraine and countries hosting Ukrainian refugees.,"Public reporting
 [https://www.euro.who.int/en/media-centre/sections/press-releases/2022/novo-nordisk-foundation-supports-who-emergency-response-in-ukraine-and-neighbouring-countries-with-25m-dkk3.4m-eur]",cd-283,XM-DAC-928
+732,N-Rep A/S,Real estate,Denmark,United Nations Children's Fund (UNICEF),cash,paid,519261,Cash donation to UNICEF National Committee Denmark,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-461,XM-DAC-41122
 463,Nuix,Information technology,Australia,Ukraine Humanitarian Fund (UHF),cash,paid,10600,Donation from Australian IT firm.,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-284,ro-113
 464,Oak Foundation,Consumer discretionary,Switzerland,unspecified or multiple recipients,cash,pledged,10750000,Donation from foundation started with contribution from the Duty Free Shoppers business in 1983. ,"Public reporting
 [https://oakfnd.org/emergency-grant-making-for-ukraine-oak-foundation-has-approved-usd-10-75-million/]",cd-285,ro-149
+736,Oersted Salg & Service A/S,Energy,Denmark,United Nations Children's Fund (UNICEF),cash,paid,559729,Cash donation to UNICEF National Committee Denmark,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-464,XM-DAC-41122
 465,Offshore Technology Conference Inc.,Energy,United States of America,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,25666,"CHF 24,701 from US-based conference company associated with the offshore/energy industry.","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 25-May-22]",cd-286,XM-DAC-21018
+734,Olam International,Consumer staples,Singapore,United Nations Children's Fund (UNICEF),cash,paid,1000000,Cash donation to UNICEF National Committee Thailand,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-287,XM-DAC-41122
 466,Olam International,Consumer staples,Singapore,World Food Programme (WFP),cash,paid,1000000,Donation from multinational food and agribusiness group. ,"Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-287,XM-DAC-41140
 467,Old Navy,Consumer discretionary,United States of America,USA for UNHCR,in-kind,pledged,1000000,Donation of over $1 million worth of women's and children's clothes.,"Public reporting
@@ -1234,6 +1331,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 468,Olympus Corporation,Consumer discretionary,Japan,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,497147,"CHF 471,719","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 20-Apr-22]",cd-289,XM-DAC-21018
+735,OMV Petrom S.A.,Energy,Romania,United Nations Children's Fund (UNICEF),cash,paid,797788,Cash donation to UNICEF National Committee Romania,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-463,XM-DAC-41122
 469,OpenText,Information technology,Canada,United Nations High Commissioner for Refugees (UNHCR),cash,paid,100000,Donation from Canadian software company. ,"Bilateral - recipient report
 [Confirmed email 30-Mar-22]",cd-290,XM-DAC-41121
 470,"Orrick, Herrington & Sutcliffe",Financials,United States of America,International Rescue Committee (IRC) [NGO],cash,pledged,12500,"International law firm making a $25,000 donation split between the International Rescue Committee and United Help Ukraine.  ","Public reporting
@@ -1246,6 +1345,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [x]",cd-293,XM-DAC-41122
 474,Pandora,Consumer discretionary,Denmark,United Nations Children's Fund (UNICEF),cash,pledged,1000000,Donation from the world's largest jewellery brand.,"Public reporting
 [x]",cd-294,XM-DAC-41122
+737,Pandora,Consumer discretionary,Denmark,United Nations Children's Fund (UNICEF),cash,paid,970000,Cash donation to UNICEF National Committee Denmark,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-294,XM-DAC-41122
 475,"Pepsico Foundation, Inc.",Consumer staples,United States of America,Caritas [NGO],cash,pledged,1671684,"$4 million to five organizations operating in and around Ukraine plus $500,000 of employee contributions, and another $1 million of double matching to benefit several organizations. ","Public reporting
 [https://www.pepsico.com/news/story/pepsico-supports-ukrainian-associates-and-communities]
 Bilateral - donor report
@@ -1343,10 +1444,24 @@ Bilateral - donor report
 [Confirmed email 14-June-22]",cd-307,XM-DAC-41140
 658,redacted Donor B,Energy,United States of America,World Food Programme (WFP),cash,paid,30000000,Donation from large energy company that does not wish to be identified.,"Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-419,XM-DAC-41140
+738,redacted Donor C,0,United States of America,United Nations Children's Fund (UNICEF),cash,paid,2850000,Cash donation to UNICEF National Committee United States,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-465,XM-DAC-41122
+739,redacted Donor D,0,Luxembourg,United Nations Children's Fund (UNICEF),cash,paid,2500000,Cash donation to UNICEF National Committee Luxembourg,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-466,XM-DAC-41122
+740,redacted Donor E,0,United Kingdom,United Nations Children's Fund (UNICEF),cash,paid,2500000,Cash donation to UNICEF National Committee United Kingdom,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-467,XM-DAC-41122
+741,redacted Donor F,0,Spain,United Nations Children's Fund (UNICEF),cash,paid,561798,Cash donation to UNICEF National Committee Spain,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-468,XM-DAC-41122
+742,redacted Donor G,0,Spain,United Nations Children's Fund (UNICEF),cash,paid,561798,Cash donation to UNICEF National Committee Spain,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-469,XM-DAC-41122
+743,redacted Donor H,0,Canada,United Nations Children's Fund (UNICEF),cash,paid,526217,Cash donation to UNICEF National Committee Canada,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-470,XM-DAC-41122
 505,Renesas Electronics Corporation,Industrials,Japan,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,1074595,"€1,000,000 donation from Japanese semiconducted giant.","Public reporting
 [https://www.businesswire.com/news/home/20220414005345/en/Renesas-Donates-%E2%82%AC1-Million-to-Support-Humanitarian-Aid-for-Ukraine]",cd-308,XM-DAC-41121
 506,Revolut,Financials,United Kingdom,Ukrainian Red Cross Society,cash,pledged,1500000,Corporate giving program. for the Red Cross to assist with those affected by the war in Ukraine. USD 1500000.,"Public reporting
 [x]",cd-309,ro-116
+707,REWE Group,Consumer discretionary,Germany,unspecified or multiple recipients,cash,pledged,1052250,€1 million  donated to the Austrian and German Red Cross.,"Public reporting
+[https://mediacenter.rewe.de/themen/ukraine-hilfe] ",cd-442,ro-149
 507,"Riot Games, Inc.",Consumer discretionary,United States of America,International Committee of the Red Cross (ICRC),cash,pledged,1800000,Donation of proceeds from one week of sales in video game platform. ,"Public reporting
 [https://twitter.com/riotgames/status/1509200557621325839]",cd-310,XM-DAC-21016
 508,"Riot Games, Inc.",Consumer discretionary,United States of America,International Medical Corps (IMC) [NGO],cash,pledged,1800000,Donation of proceeds from one week of sales in video game platform. ,"Public reporting
@@ -1412,7 +1527,7 @@ See also public reporting
 See also public reporting
 [https://news.sap.com/2022/03/sap-continues-to-stand-in-solidarity-with-ukraine/]",cd-323,ro-161
 529,SAP SE,Information technology,Germany,United Nations Children's Fund (UNICEF) USA,cash,paid,419406,"€400,000 donation","Bilateral - donor report
-[Phone call 15-June-22]
+[Phone call 28-June-22]
 
 See also public reporting
 [https://news.sap.com/2022/03/sap-continues-to-stand-in-solidarity-with-ukraine/]",cd-323,ro-127
@@ -1427,20 +1542,26 @@ See also public reporting
 [https://www.schorlingab.se/news/the-schorling-foundation-donates-sek-100-million-in-humanitarian-aid-to-ukraine]",cd-325,ro-103
 532,Schörling Family Foundation,Industrials,Sweden,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,5282620,"Donation from family foundation associated with Swedish billionaire Melker Schörling, who holds interests in Securitas AB, Assa Abloy, Hexagon AB, Loomis and more. Schörling Family Foundation supports the work of the Red Cross and the UN refugee agency UNHCR to help people in need, because of the armed conflict in Ukraine. The organizations will receive SEK 50 million each. ","Public reporting
 [https://www.schorlingab.se/news/the-schorling-foundation-donates-sek-100-million-in-humanitarian-aid-to-ukraine]",cd-325,XM-DAC-41121
+708,Schwarz Group,Consumer staples,Germany,unspecified or multiple recipients,in-kind,pledged,10527300,"€10 million worth of non-perishable foods, home textiles, hygiene products, and other urgently needed products to help supply provisions to the refugees in the border regions of Ukraine.","Public reporting
+[https://gruppe.schwarz/en/press/2022/emergency-aid-for-the-people-of-ukraine]",cd-443,ro-149
 533,SeaDream Family Foundation,Consumer discretionary,Norway,unspecified or multiple recipients,cash,pledged,1500000,"Donation made as part of the Global Citizen Stand Up for Ukraine campaign to UNHCR, IRC, and GlobalGiving.","Public reporting
 [https://www.globalcitizen.org/en/content/stand-up-for-ukraine-impact-report]",cd-326,ro-149
 534,Sentara Healthcare,Health care,United States of America,unspecified or multiple recipients,in-kind,pledged,3500000,"More than 100 pallets of medical supplies over the past two weeks to charities addressing war and natural disasters in Ukraine, Poland, Haiti and the Philippines. Agencies receiving supplies from Sentara include Operation Blessing, Christian Relief, Feed My Sheep, The Tidewater Ukrainian School, Christians United for Haiti and Somebody Cares America. The value of the supplies distributed is approximately $3.5M. ","Public reporting
 [https://www.sentara.com/aboutus/news/news-articles/sentara-donates-nearly-$3.5-million-in-medical-supplies-to-charities-addressing-war-and-natural-disasters-in-ukraine-poland-hait.aspx]",cd-327,ro-149
-535,SentinelOne,Information technology,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,80458,Donation from California-based software company specializing in security. ,"Bilateral - recipient report
-[Confirmed email 31-May-22]",cd-328,ro-113
+535,SentinelOne,Information technology,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,605972,Donation from California-based software company specializing in security. ,"Bilateral - recipient report
+[Confirmed email 29-Jun-22]",cd-328,ro-113
 536,Share Our Strength,Consumer staples,United States of America,World Food Programme (WFP),cash,paid,9700,"Donation from 'No Child Hungry' company based in Washington, DC.","Bilateral - recipient report
 [Confirmed email 14-Jun-22]",cd-329,XM-DAC-41140
 537,Shiseido Group,Consumer discretionary,Japan,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,1101820,€1 million from luxury beauty brand. ,"Public reporting
 [https://www.thecut.com/2022/03/how-fashion-and-beauty-brands-are-responding-to-invasion-of-ukriane.html]",cd-330,XM-DAC-41121
 538,Sidney E. Frank Foundation,Consumer discretionary,United States of America,Ukraine Humanitarian Fund (UHF),cash,paid,20000,Donation from the family foundation established by the US importer of Grey Goose vokda. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-331,ro-113
-539,Siemens Caring Hands,Industrials,Germany,German Red Cross,cash,pledged,1112483,Initial emergency donation of €1 million; additional €8 million has been raised. Charitable foundation associated with Siemens AG. ,"Public reporting
+539,Siemens,Industrials,Germany,German Red Cross,cash,pledged,2106482,"Through the charitable Siemens Caring Hands organization, the company and Siemens employees each donated an initial emergency €1 million to the German Red Cross. ","Public reporting
 [https://press.siemens.com/global/en/pressrelease/siemens-provides-humanitarian-aid-employees-and-refugees-ukraine]",cd-332,ro-40
+689,Siemens,Industrials,Germany,unspecified or multiple recipients,cash,pledged,7350490,More than €9 million in immediate humanitarian aid pledged. Note: amount reduced by €2 million donation to German Red Cross.,"Public reporting
+[https://press.siemens.com/global/en/pressrelease/siemens-provides-humanitarian-aid-employees-and-refugees-ukraine]",cd-332,ro-149
+690,Siemens,Industrials,Germany,unspecified or multiple recipients,in-kind,pledged,3150210,€3 million of in-kind technical grants to support humanitarian assistance in Ukraine.,"Public reporting
+[https://press.siemens.com/global/en/pressrelease/siemens-provides-humanitarian-aid-employees-and-refugees-ukraine]",cd-332,ro-149
 540,Siemens Gamesa Renewable Energy,Energy,Spain,International Federation of Red Cross and Red Crescent Societies (IFRC),cash,paid,136092,"CHF 130,973 from renewable energy company.","Bilateral - recipient report
 http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf 
 [Confirmed web 25-May-22]",cd-333,XM-DAC-21018
@@ -1516,6 +1637,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [x]",cd-355,ro-17
 575,Tesco PLC,Consumer staples,United Kingdom,British Red Cross Society ,cash,pledged,1320000,"Corporate giving program. Tesco is donating £1m to the British Red Cross for relief efforts in Ukraine and working with them to find ways for customers and colleagues to help financially donate too.  GBP £1,000,000.","Public reporting
 [x]",cd-356,GB-CHC-220949
+744,Tetra Laval,Industrials,Sweden,United Nations Children's Fund (UNICEF),cash,paid,816659,Cash donation to UNICEF National Committee Sweden,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-471,XM-DAC-41122
 576,Teva Pharmaceutical Industries Ltd.,Health care,Israel,Direct Relief [NGO],in-kind,pledged,10800000,Donation of 27 million doses of medicines in over 1.3 million packs valued at $10.8 million (wholesale acquisition cost) for acute therapies in humanitarian support of Ukrainian refugees.,"Public reporting
 [x]",cd-357,ro-29
 577,Teva Pharmaceutical Industries Ltd.,Health care,Israel,People in Need [NGO],in-kind,pledged,180000,"82,000 packs of medicine for Ukrainian infants and children.","Public reporting
@@ -1551,8 +1674,12 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.pfizer.com/about/responsibility/global-impact/response-to-ukraine]",cd-366,ro-149
 592,TikTok Inc.,Information technology,United States of America,United Nations Central Emergency Response Fund (CERF),cash,paid,1000000,"Donation ""to support work around humanitarian crises"". Not necessarily limited to use in/on Ukraine crisis.","Bilateral - recipient report
 [Confirmed email 12-Apr-22]",cd-367,ro-121
+745,TikTok Inc.,Information technology,United States of America,United Nations Children's Fund (UNICEF),cash,paid,950000,Cash donation to UNICEF National Committee United States,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-367,XM-DAC-41122
 593,TJ Morris Ltd,Consumer discretionary,United Kingdom,Disasters Emergency Committee (DEC) [NGO],cash,pledged,132000,"Corporate giving program. Home Bargains has donated £100,000 to the Disasters Emergency Committee Ukrainian Humanitarian Appeal. GBP £100,000.","Public reporting
 [x]",cd-368,GB-CHC-1062638
+709,TOLK,Utilities,Ukraine,Future for Children [NGO],cash,pledged,33866,"UAH 1 million transferred to the Future for Children Charitable Foundation to provide accommodation and food for children, internally displaced persons, to organize the delivery of medicines, basic necessities and more.","Public reporting
+[https://tolk.ua/ua/stabilnist-yakist-nadiynist-golovni-perevagi-grupi-tolk/]",cd-444,ro-177
 594,Tom Ford SA,Consumer discretionary,United States of America,Ukraine Humanitarian Fund (UHF),cash,pledged,100000,Pipeline donation. ,"Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-369,ro-113
 660,TotalEnergies SE,Energy,France,World Food Programme (WFP),cash,paid,5434783,"Donation from Total Foundation, the private foundation associated with the French energy supermajor.","Bilateral - recipient report
@@ -1561,6 +1688,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://global.toyota/en/newsroom/corporate/36995461.html]",cd-370,XM-DAC-41121
 596,Tripadvisor Foundation,Consumer discretionary,United States of America,World Central Kitchen [NGO],cash,pledged,250000,"Company-sponsored foundation. The Tripadvisor Foundation is supporting World Central Kitchen in its Ukraine relief efforts and has matched the initial $250,000 in donations. USD 250000.","Public reporting
 [x]",cd-371,ro-154
+750,TWI Ltd,Industrials,United Kingdom,Ukraine Humanitarian Fund (UHF),cash,paid,10410,Cash donation to UHF,"Bilateral - recipient report
+[Confirmed email 29-June-22]",cd-475,ro-113
 597,Twitter,Information technology,United States of America,GlobalGiving [NGO],cash,pledged,267000,"Donation to the GlobalGiving Ukraine Crisis Relief Fund, made as part of the Global Citizen Stand Up for Ukraine campaign.","Public reporting
 [https://www.globalcitizen.org/en/content/stand-up-for-ukraine-impact-report]",cd-372,US-EIN-300108263
 598,U.S. Travel Association,Consumer discretionary,United States of America,World Food Programme (WFP),cash,paid,24250,Donation from association linked to the travel industry.,"Bilateral - recipient report
@@ -1599,6 +1728,8 @@ See also public reporting
 [https://www.unitedhealthgroup.com/newsroom/2022/2022-3-4-uhf-support-ukraine.html]",cd-378,ro-29
 609,United Health Foundation,Health care,United States of America,Save the Children [NGO],cash,pledged,500000,"Company-sponsored foundation. The United Health Foundation, the philanthropic foundation of UnitedHealth Group (NYSE: UNH), announced a $500,000 donation to Save the Children, the U.S. affiliate of Save the Children International, to support its Ukraine Crisis Relief Fund to provide children and families with immediate aid such as food, water, hygiene kits and psychosocial support. USD 500000.","Public reporting
 [https://www.unitedhealthgroup.com/newsroom/2022/2022-3-4-uhf-support-ukraine.html]",cd-378,GB-COH-213890
+746,United Internet AG,Communications services,Germany,United Nations Children's Fund (UNICEF),cash,paid,1123596,Cash donation to UNICEF National Committee Germany,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-472,XM-DAC-41122
 661,"United Parcel Service, Inc.",Industrials,United States of America,World Food Programme (WFP),cash,paid,50000,Donation from the UPS Foundation.,"Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-418,XM-DAC-41140
 610,Valentino,Consumer discretionary,Italy,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,557975,"€500,000 donation from Italian luxury group. ","Public reporting
@@ -1620,8 +1751,11 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.verizon.com/about/news/verizon-expands-humanitarian-crisis-relief]",cd-382,ro-150
 618,VF Foundation,Consumer discretionary,United States of America,United Nations High Commissioner for Refugees (UNHCR),cash,pledged,250000,Donation from the parent company of The North Face and other brands.,"Public reporting
 [https://www.thenorthface.co.uk/about-us/explore-fund.html]",cd-383,XM-DAC-41121
-619,Visa Foundation,Financials,United States of America,United Nations Children's Fund (UNICEF) USA,cash,pledged,2000000,Visa Foundation will provide a $2 million grant to the US Fund for UNICEF to support humanitarian aid to the people of Ukraine. ,"Public reporting
-[https://www.visasoutheasteurope.com/about-visa/newsroom/press-releases/prl-01032022.html.]",cd-384,ro-127
+619,Visa Foundation,Financials,United States of America,United Nations Children's Fund (UNICEF),cash,paid,1900000,Grant of $2 million grant to the US Fund for UNICEF to support humanitarian aid to the people of Ukraine. ,"Bilateral - recipient report
+[Confirmed email 28-June-22]
+
+See also public reporting
+[https://www.visasoutheasteurope.com/about-visa/newsroom/press-releases/prl-01032022.html]",cd-384,XM-DAC-41122
 620,Vodafone,Communications services,United Kingdom,United Nations High Commissioner for Refugees (UNHCR),cash,paid,112360,"GBP 100,000. ","Bilateral - recipient report
 [Confirmed email 30-Mar-22]",cd-385,XM-DAC-41121
 621,Vodafone Czech Republic a.s.,Communications services,Czechia,People in Need [NGO],cash,pledged,85780,"Donations from Vodafone-linked companies and employees, €78,000 to support the NGO People in Need","Public reporting
@@ -1654,6 +1788,8 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.vodafone.com/news/inclusion/vodafone-refugee-response-ukraine-crisis]",cd-394,GB-CHC-220949
 635,Volkswagen AG,Consumer discretionary,Germany,UNO-Flüchtlingshilfe (Germany for UNHCR),cash,pledged,1108400,Part of a commitment of at least €5.5 million donated by the Volkswagen group of companies.,"Public reporting
 [https://www.volkswagenag.com/en/group/faqs-ukraine.html]",cd-395,ro-132
+747,Volvo,Consumer discretionary,Sweden,United Nations Children's Fund (UNICEF),cash,paid,512571,Cash donation to UNICEF National Committee Sweden,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-396,XM-DAC-41122
 636,Volvo,Consumer discretionary,Sweden,United Nations High Commissioner for Refugees (UNHCR),cash,paid,205570,"SEK 2,000,000. ","Bilateral - recipient report
 [Confirmed email 30-Mar-22]",cd-396,XM-DAC-41121
 637,Wabtec Foundation,Industrials,United States of America,International Rescue Committee (IRC) [NGO],cash,pledged,50000,Donation from company-linked foundation. ,"Public reporting
@@ -1670,12 +1806,17 @@ http://www.ifrc.org/docs/appeals/Active/MGR65002.pdf
 [https://www.westernunion.com/blog/en/supporting-ukraine-humanitarian-relief-efforts/]",cd-400,ro-63
 643,White & Case,Financials,United States of America,Ukrainian Red Cross Society,cash,pledged,1000000,Donation from US law firm. ,"Public reporting
 [https://www.whitecase.com/news/press-release/statement-white-case-close-moscow-office.]",cd-401,ro-116
-644,William Demant Foundation,Health care,Denmark,United Nations Children's Fund (UNICEF),cash,pledged,1050000,DKK 7 million ($1 million USD) from company-sponsored foundation to the United Nations Children’s Fund (UNICEF) which is scaling up emergency response across Ukraine and the wider region. ,"Public reporting
+644,William Demant Foundation,Health care,Denmark,United Nations Children's Fund (UNICEF),cash,paid,997749,DKK 7 million ($1 million USD) from company-sponsored foundation to the United Nations Children’s Fund (UNICEF) which is scaling up emergency response across Ukraine and the wider region. Paid to UNICEF National Committee Denmark.,"Bilateral - recipient report
+[Confirmed email 28-June-22]
+
+See also public reporting
 [https://hearingreview.com/inside-hearing/events/william-demant-foundation-donates-1-2-mill-ukraine-crisis]",cd-402,XM-DAC-41122
 645,Wings for Things Foundation Inc.,0,United States of America,World Food Programme (WFP),cash,paid,242500,Donation from private foundation.,"Bilateral - recipient report
 [Confirmed email 14-June-22]",cd-403,XM-DAC-41140
 646,World Federation of the Sporting Goods Industry,Consumer discretionary,Switzerland,Ukraine Humanitarian Fund (UHF),cash,paid,53294,"50,000 CHF donation from the non-profit organization representing the sporting goods industry. ","Bilateral - recipient report
 [Confirmed email 31-May-22]",cd-404,ro-113
+748,Würth GmbH ,Industrials,Germany,United Nations Children's Fund (UNICEF),cash,paid,533708,Cash donation to UNICEF National Committee Germany,"Bilateral - recipient report
+[Confirmed email 28-June-22]",cd-473,XM-DAC-41122
 647,"Wyndham Hotels & Resorts, Inc.",Consumer discretionary,United States of America,Save the Children [NGO],cash,pledged,100000,Donation from American hotel and resort chain.,"Public reporting
 [https://corporate.wyndhamhotels.com/news-releases/wyndham-hotels-resorts-statement-on-ukraine/]",cd-406,GB-COH-213890
 648,XTX Markets,Financials,United Kingdom,United Kingdom for UNHCR,cash,paid,13187200,"Donation from algorthmic trading company pf £10mn to support the UN Refugee Agency, via the UK for UNHCR Ukraine Emergency appeal. ","Public reporting
