@@ -31,7 +31,7 @@ cd-18,Alnylam Pharmaceuticals Inc.,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),
 cd-19,Amadeus IT Group,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,1501,"CHF 1,445 from Spanish IT provider for the travel and tourism industry."
 cd-20,"Amazon.com, Inc.",70,,,,XM-DAC-47066,International Organization for Migration (IOM),,1,1,outgoing,50000,Donations of selected items from IOM needs assessment.
 cd-20,"Amazon.com, Inc.",70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,5000000,"Donation to organizations that are providing critical support on the ground, including UNICEF, UNHCR, World Food Program, Red Cross, Polska Akcja Humanitarna, and Save the Children. "
-cd-20,"Amazon.com, Inc.",70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,135509,Donation from US-based e-commerce retailer.
+cd-20,"Amazon.com, Inc.",70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,315509,Donation from US-based e-commerce retailer.
 cd-21,American Express Company,70,,,,ro-5,American Red Cross,,1,1,outgoing,250000,Donation to support IFRC and other Red Cross partners who are responding to urgent needs and providing technical assistance on the ground in Ukraine. 
 cd-21,American Express Company,70,,,,ro-54,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000,Donation to support mobile medical teams in Ukraine to provide essential emergency and primary health services; mental health and psychosocial support services; and COVID-19 awareness and prevention services to help keep affected populations safe from the pandemic. 
 cd-21,American Express Company,70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000,"Donation to provide necessary resources where they are needed most in Ukraine, including for those who have fled their homes. "
@@ -40,6 +40,10 @@ cd-22,AmerisourceBergen Foundation,70,,,,ro-149,unspecified or multiple recipien
 cd-23,"Amgen Foundation, Inc.",70,,,,ro-54,International Medical Corps (IMC) [NGO],,1,1,outgoing,250000,Donation from foundation associated with Amgen biopharmaceutical company. 
 cd-23,"Amgen Foundation, Inc.",70,,,,ro-87,Project Hope [NGO],,1,1,outgoing,250000,Donation from foundation associated with Amgen biopharmaceutical company. 
 cd-24,Analog Devices Incorporated,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,101320,"CHF 97,509 from American semiconductor company."
+cd-484,Andreas Stihl AG & Co KG,70,,,,ro-179,Diakonie Katastrophenhilfe [NGO],,1,1,outgoing,130087,"€125,000 cash donation"
+cd-484,Andreas Stihl AG & Co KG,70,,,,ro-66,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,130087,"€125,000 cash donation to Ärzte ohne Grenzen e.V. (German office of Doctors Without Borders)."
+cd-484,Andreas Stihl AG & Co KG,70,,,,ro-99,SOS Children's Villages [NGO],,1,1,outgoing,130087,"€125,000 cash donation"
+cd-484,Andreas Stihl AG & Co KG,70,,,,ro-132,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,130087,"€125,000 cash donation"
 cd-25,AngloAmerican Foundation,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,5000000,Donation from foundation associated with British multinational mining group. 
 cd-26,Ann and Gordon Getty Foundation,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,42000,Cash donation from descendants of the founder of the Standard Oil Company.
 cd-27,Arcadia Fund,70,,,,GB-CHC-220949,British Red Cross Society ,,1,1,outgoing,6517325,£5 million donation from family foundation associated with the founder of Tetra Pak (multinational food and packaging company). 
@@ -72,6 +76,7 @@ cd-40,ATN Corp.,70,,,,ro-108,The Gorta Group [NGO],,1,1,outgoing,300000,Donation
 cd-41,Audi AG,70,,,,ro-132,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,1074365,€750k to UNO-Flüchtlingshilfe plus €250k for regional projects at the Audi site in Hungary.
 cd-42,"Aurora World, Inc.",70,,,,ro-109,The Toy Foundation [NGO],,1,1,outgoing,250000,"Donation from manufacturer of plush toys of $250,000 worth of toys for children affected by the Ukraine crisis. "
 cd-43,aviado GmbH,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,16667,Donation from specialist aviation and rail consultancy. 
+cd-480,AVIV Group GmbH,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,36527,"€35,0000 donation to Ein Herz für Kinder [NGO] and I Loge You [NGO]."
 cd-44,Axa,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,1630435,Cash donation to UNICEF National Committee France
 cd-44,AXA,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,6405720,€6 million for NGOs working in Ukraine and neighboring countries.
 cd-45,Backcountry,70,,,,GB-CHC-292506,CARE International [NGO],,1,1,outgoing,10000,To help with refugee assistance.
@@ -98,7 +103,9 @@ cd-431,Bayerische Motoren Werke AG (BMW),70,,,,XM-DAC-41122,United Nations Child
 cd-58,BBVA,70,,,,ro-120,United Kingdom for UNHCR,,1,1,outgoing,545000,"€1,586,364 reserved for food security and support of children; recipients to be selected."
 cd-58,BBVA,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,545000,"€1,060,000 proceeds from employee donation campaign to benefit multiple Red Cross national societies (via German Red Cross) with match by Bayer AG."
 cd-59,BentallGreenOak,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,39500,"CAD 50,000 donation."
+cd-60,BHP Foundation,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,2000000,"Pipeline donation from private foundation affiliated with BHP (formerly BHP Billiton), a multinational mining, metals, and petroleum company."
 cd-60,BHP Foundation,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,2000000,"Donation from the private foundation affiliated with BHP (formerly known as BHP Billiton), an Australian multinational mining, metals and petroleum company."
+cd-489,Biogen Inc.,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,1500000,"Commitment of $1.5 million including Biogen in-kind contributions of essential supplies, employee relief bonuses and volunteering, distributed through the International Medical Corps, Polish Humanitarian Action, the Swiss Red Cross, UNICEF, and UNHCR."
 cd-61,BioNTech SE,70,,,,ro-132,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,1099600,Humanitarian aid for the people of Ukraine with a donation of one million Euro.
 cd-430,Biosphere Corporation,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,67733,"Donated almost 46,000 units of various products worth more than UAH 2 million, including 3000 packages of Bambik diapers, 17,000 packages of wet wipes, 8,000 rolls of garbage bags, toilet paper, kitchen supplies, and more."
 cd-62,Blockchain Charity Foundation USA,70,,,,ro-57,International Strategic Action Network for Security [NGO],,1,1,outgoing,500000,"Donation of $500,000 equivalent cryptocurrency from charitable foundation associated with Binance cryptocurrency exchange platform towards providing temporary housing and resettlement assistance to Ukrainian refugees entering Poland."
@@ -140,6 +147,7 @@ cd-70,Bolt Technology OÜ,70,,,,ro-126,United Nations Children's Fund (UNICEF) P
 cd-70,Bolt Technology OÜ,70,,,,ro-129,United Nations High Commissioner for Refugees (UNHCR) Nigeria,,1,1,outgoing,1050000,"€1,000,000 cash donation, part of a €5 million commitment to support the people of Ukraine."
 cd-70,Bolt Technology OÜ,70,,,,ro-153,War Child [NGO],,1,1,outgoing,105000,"€100,000 cash donation, part of a €5 million commitment to support the people of Ukraine."
 cd-71,Bombardier Inc.,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,150000,Donation from Bombardier and the J. Armand Bombardier Foundation.
+cd-490,Booking Holdings Inc.,70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,1000000,Cash donation to assist with aid efforts from Booking.com.
 cd-72,Booz-Allen & Hamilton,70,,,,GB-CHC-292506,CARE International [NGO],,1,1,outgoing,100000,Matching up to $100k in employee donations for CARE's Ukraine Crisis Fund.
 cd-73,Boston Consulting Group,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,205473,Donation from major American consulting firm. 
 cd-74,BP plc,70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,5000000,Part of a $20 million package of assistance. 
@@ -210,7 +218,7 @@ cd-449,Daimler Truck AG,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICE
 cd-115,Danone S.A.,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,557334,"CHF 515,686"
 cd-433,Darnista,70,,,,ro-70,Ministry of Health of Ukraine [government],,1,1,outgoing,2336789,Darnytsia transferred 5.25 million doses of medicine worth UAH 69 million to the Public Health Center of the Ministry of Health of Ukraine.
 cd-117,Decathlon,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,3846603,Equipment and products worth more than €2.6 million donated to local NGOs to support Ukrainians.
-cd-421,Delivery Hero,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,69387,Donation from Geman online food delivery platform.
+cd-421,Delivery Hero,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,139043,Donation from Geman online food delivery platform.
 cd-118,Delta Air Lines,70,,,,ro-5,American Red Cross,,1,1,outgoing,1000000,For the American Red Cross and Global Red Cross Movement in support of humanitarian relief efforts in Ukraine.
 cd-118,Delta Air Lines,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000,To assist in providing humanitarian aid to people affected by the crisis in Ukraine.
 cd-119,Dentsu Inc.,70,,,,ro-116,Ukrainian Red Cross Society,,1,1,outgoing,275000,Donation to support urgent aid requirements.
@@ -277,6 +285,7 @@ cd-455,Formula One World Championship Limited,70,,,,XM-DAC-41122,United Nations 
 cd-161,Fortum Oyj,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,223091,"CHF 206,421"
 cd-162,FOX Corporation,70,,,,ro-116,Ukrainian Red Cross Society,,1,1,outgoing,13533377,"FOX Corporation donated $1 million to the American Red Cross to support their mission to provide aid and resources including water, medical supplies, housing support and more to the most vulnerable — both within Ukraine and for those who have been forced to leave their homes. FOX employees have together raised more than $13 million. "
 cd-163,FreeWill Co.,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10800,Donation from US-based estate planning public benefit company.
+cd-476,Fuel Relief Fund,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,7000,Donations from non-profit linked to energy industry. Ongoing and valuation will be updated.
 cd-164,Fujitsu Group,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000,Donation to provide urgently needed humanitarian support for the many people displaced by the ongoing crisis in Ukraine and countries in the surrounding region.
 cd-165,Fuller Landau LLP,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,7980,"CAD 10,000 donation from company-sponsored Fuller Giving Foundation."
 cd-166,"Fundación ""la Caixa""",70,,,,ro-163,Spanish Committee for UNHCR,,1,1,outgoing,1041950,€1 million to UNHCR Spanish Committee.
@@ -312,7 +321,7 @@ cd-185,Gucci,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (U
 cd-186,H&M Hennes & Mauritz AB,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,820817,Cash donation to UNICEF National Committee Sweden
 cd-186,H&M Hennes & Mauritz AB,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,930684,"€760,000 + SEK 956,000. "
 cd-187,H. Lundbeck A/S,70,,,,DK-CVR-20700211,Danish Red Cross,,1,1,outgoing,1500000,DKK 10 million cash donation to support emergency relief efforts.
-cd-424,Happybean Foundation,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,63845,"Non-profit linked to Naver, a South Korean online platform and search engine."
+cd-424,Happybean Foundation,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,74867,"Non-profit linked to Naver, a South Korean online platform and search engine."
 cd-188,Heartland,70,,,,DK-CVR-20700211,Danish Red Cross,,1,1,outgoing,1465524,"BESTSELLER's parent company HEARTLAND has donated DKK 100 million to humanitarian efforts and other initiatives that will make a difference for Ukraine and the Ukrainian people. Initially, HEARTLAND has donated DKK 10 million to the Red Cross, UNICEF and the UN Refugee Agency (UNHCR), all of which work to help Ukraine. Later, donations to a number of other aid programmes will follow. "
 cd-188,Heartland,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,1434612,BESTSELLER's parent company HEARTLAND has donated DKK 100 million to humanitarian efforts and other initiatives that will make a difference for Ukraine and the Ukrainian people. Donation made to UNICEF National Committee Denmark.
 cd-188,Heartland,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1465524,"BESTSELLER's parent company HEARTLAND has donated DKK 100 million to humanitarian efforts and other initiatives that will make a difference for Ukraine and the Ukrainian people. Initially, HEARTLAND has donated DKK 10 million to the Red Cross, UNICEF and the UN Refugee Agency (UNHCR), all of which work to help Ukraine. Later, donations to a number of other aid programmes will follow. "
@@ -320,6 +329,7 @@ cd-188,Heartland,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,1
 cd-189,Helly Hansen,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,158000,"CAD 200,000 in response to the crisis in Ukraine. "
 cd-190,HELP Logistics,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,500000,"In-kind donation of office supplies, ground logistics, air and road passenger transport. Foundation associated with German shipping/logistics company. "
 cd-191,Hendrick Automotive,70,,,,GB-CHC-1001349,Samaritan’s Purse [NGO],,1,1,outgoing,200000,"$200,000 to Samaritan’s Purse for disaster assistance in Ukraine."
+cd-486,Henkel AG & Co. KGaA,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,5132600,"More than €5,000,000 cash and in-kind donation to partners including the Red Cross, Aktion Deutschland Hilft eV, Habitat for Humanity and others. "
 cd-192,Hermès International S.A.,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10000,Donation from French luxury house.
 cd-193,Hilco Global,70,,,,ro-102,Sunflower of Peace [NGO],,1,1,outgoing,37500,"Hilco Global, through its Hilco Helps initiative, is donating $75,000 split equally between Sunflower of Peace and United Help Ukraine."
 cd-193,Hilco Global,70,,,,ro-119,United Help Ukraine [NGO],,1,1,outgoing,37500,"Hilco Global, through its Hilco Helps initiative, is donating $75,000 split equally between Sunflower of Peace and United Help Ukraine."
@@ -385,6 +395,7 @@ cd-227,Kinross Gold Corporation,70,,,,ro-17,Canadian Red Cross Society,,1,1,outg
 cd-228,Knockward Ltd,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,10849,"CHF 10,038"
 cd-229,KOEI TECMO,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000,Donation from Japanese video game and anime company. 
 cd-230,Koninklijke DSM N.V.,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,125071,Donation from Dutch health company.
+cd-477,Koninklijke Philips N.V.,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,348632,"More than €335,000 donated by Philips employees and distributed through the Philips Foundation."
 cd-231,KPMG LLP,70,,,,US-EIN-300108263,GlobalGiving [NGO],,1,1,outgoing,250000,"US CEO of KPMG Paul Knopp announced on Twitter an initial donation of US$250,000 to GlobalGiving’s Ukraine Crisis Relief Fund."
 cd-232,Kroger Co. Zero Hunger Zero Waste Foundation,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,242500,Donation from foundation associated with American supermarket chain.
 cd-233,Kuehne + Nagel International AG,70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,641124,"CHF 600,000. Part of commitment of at least CHF 10 million of in-kind support."
@@ -426,9 +437,10 @@ cd-248,Mastercard,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,37
 cd-249,"Mattel, Inc.",70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,1000000,Mattel will contribute $1m in toys and cash to support organizations on the front lines aiding refugee children and families from Ukraine. These include Save the Children and Polish local charities SOS Children's Villages and Caritas Polska.
 cd-250,Mazda Motor Corporation,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1056055,To support the activities which provide humanitarian aid to the affected populations in Ukraine and countries in the region.
 cd-251,McCain Foods Limited,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,200000,For the Red Cross Ukraine Humanitarian Crisis Appeal.
-cd-252,Mercedes-Benz,70,,,,ro-40,German Red Cross,,1,1,outgoing,1090000,"Corporate giving program. Mercedes-Benz has announced that it will donate €1 million ($1,108,400) to the German Red Cross in support of those affected by the crisis in Ukraine. EUR 1000000."
+cd-482,Mennekes Elektrotechnik GmbH & Co. KG,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,104362,"€100,000 donation for Aktion Deutschland Hilft and Bündnis Entwicklung Hilft."
+cd-252,Mercedes-Benz,70,,,,ro-40,German Red Cross,,1,1,outgoing,1090000,€1 million in support of those affected by the crisis in Ukraine.
 cd-460,Mercedes-Benz Grand Prix Ltd,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,1006588,Cash donation to UNICEF National Committee United Kingdom
-cd-253,Merck KGaA,70,,,,ro-40,German Red Cross,,1,1,outgoing,2180000,"Corporate giving program. To support humanitarian aid in Ukraine, Merck will donate two million euros to the German Red Cross. One million euros of this amount will be contributed by the Merck Family. EUR 2000000."
+cd-253,Merck KGaA,70,,,,ro-40,German Red Cross,,1,1,outgoing,2603805,"€2,000,000 donated, including €1,000,000 from the Merck family. Employees have also donated €550,000 as of 30 March."
 cd-254,"Meta Platforms, Inc.",70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,146704,"CHF 139,200 donated via Charities Aid Foundation"
 cd-254,"Meta Platforms, Inc.",70,,,,XM-DAC-47066,International Organization for Migration (IOM),,1,1,outgoing,150000,"USD 150,000 in-kind advertising credits "
 cd-254,"Meta Platforms, Inc.",70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,15000000,"$15 million to support humanitarian efforts in Ukraine and neighboring countries. $10 million will be provided as ad credits, helping nonprofit organizations raise the funds they need. "
@@ -454,7 +466,7 @@ cd-259,Microsoft Corporation,70,,,,ro-148,unspecified Microsoft unspecified in-k
 cd-260,Micys Company S.p.A.,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,11236,Donation from Italian cosmetics company. 
 cd-261,Mitsubishi Electric,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1099600,€1 million donation to UNHCR and launched an employee gift matching program through its US and Japanese philanthropic arms.
 cd-262,Mondelez International,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,63384,"CHF 61,000 from multinational snack food and beverage company."
-cd-263,Mondi plc,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,1095290,Donation from multinational paper and packaging group. 
+cd-263,Mondi plc,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,2139132,Donation from multinational paper and packaging group. 
 cd-264,Mondou,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,79000,"Corporate giving program. Showing its solidarity with the people affected by the conflict in Ukraine, Mondou announced it will be donating $100,000 to the Canadian Red Cross’s Relief Fund: Humanitarian Crisis in Ukraine. CAD 100000."
 cd-265,Moody's Foundation,70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000,"Company-sponsored foundation. Moody's Foundation donated $250,000 to the International Rescue Committee (IRC) to support humanitarian relief efforts in the Ukraine. Moody’s donation will help provide food, medical care and emergency supplies to refugee families. Moody's Foundation is double matching all employee gifts supporting Ukraine relief efforts to approved nonprofits. USD 250000."
 cd-266,Moose Toys,70,,,,GB-COH-213890,Save the Children [NGO],,1,1,outgoing,100000,Donation to Save the Children's Ukraine Relief Fund.
@@ -497,6 +509,7 @@ cd-278,Nike Foundation,70,,,,ro-149,unspecified or multiple recipients,,1,1,outg
 cd-462,Nippon Telegraph and Telephone Corporation (NTT),70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,996276,Cash donation to UNICEF National Committee Japan
 cd-279,"Nissan Motor Co., Ltd.",70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,538795,"CHF 511,237 from Nissan Europe"
 cd-279,"Nissan Motor Co., Ltd.",70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,1088220,1 million Euros to the Red Cross and other non-profit organizations to support ongoing emergency activities. 
+cd-479,Nordzucker AG,70,,,,ro-178,Verein - Freie Ukraine Braunschweig e.V. [NGO],,1,1,outgoing,10436,"€10,000 for purchase of medicine and refugee assistance."
 cd-280,Norton Rose Fulbright,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,100000,Donation from international law firm headquartered in London.
 cd-280,Norton Rose Fulbright,70,,,,GB-COH-213890,Save the Children [NGO],,1,1,outgoing,200000,Donation from international law firm headquartered in London.
 cd-281,Novartis AG,70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,1000000,Novartis is committed to helping the humanitarian effort in Ukraine and will make an initial donation of USD 3 million to be shared between three humanitarian organizations. 
@@ -517,6 +530,7 @@ cd-286,Offshore Technology Conference Inc.,70,,,,XM-DAC-21018,International Fede
 cd-287,Olam International,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,1000000,Cash donation to UNICEF National Committee Thailand
 cd-287,Olam International,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,1000000,Donation from multinational food and agribusiness group. 
 cd-288,Old Navy,70,,,,ro-150,USA for UNHCR,,1,1,outgoing,1000000,Donation of over $1 million worth of women's and children's clothes.
+cd-481,OLYMP Bezner KG,70,,,,ro-99,SOS Children's Villages [NGO],,1,1,outgoing,20872,"€20,000 donation through the company-linked foundation, Olymp Bezner Stiftung."
 cd-289,Olympus Corporation,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,497147,"CHF 471,719"
 cd-463,OMV Petrom S.A.,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,797788,Cash donation to UNICEF National Committee Romania
 cd-290,OpenText,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000,Donation from Canadian software company. 
@@ -543,8 +557,8 @@ cd-298,Pioneer Natural Resources,70,,,,ro-149,unspecified or multiple recipients
 cd-299,Plarium,70,,,,ro-116,Ukrainian Red Cross Society,,1,1,outgoing,500000,"Donation from Israeli mobile, social and web-based game developer and publisher."
 cd-300,Pokémon Company,70,,,,US-EIN-300108263,GlobalGiving [NGO],,1,1,outgoing,200000,"Corporate giving program. Amid the Russian invasion of Ukraine, The Pokémon Company has donated $200,000 to GlobalGiving, which will assist in providing humanitarian relief to the families affected by the conflict. USD 200000."
 cd-301,"Popular, Inc.",70,,,,ro-6,American Red Cross in Puerto Rico,,1,1,outgoing,50000,"Through the Red Cross of Puerto Rico, Banco Popular has donated $50,000 to support the people of Ukraine. "
-cd-302,Porsche AG,70,,,,ro-32,Ferry Porsche Foundation [NGO],,1,1,outgoing,272500,"Corporate giving program. Porsche donated 250,000 euros to the Ferry Porsche Foundation, focusing on children and young adults, for Ukrainian relief efforts. EUR 250000."
-cd-302,Porsche AG,70,,,,ro-132,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,817500,"Corporate giving program. Porsche donated 750,000 euros to the UN Refugee Aid, a German association partnered with the UN Refugee Agency, for Ukrainian relief efforts. This is the same group for which Porsche's parent company Volkswagen Group also donated one million euros. EUR 750000."
+cd-302,Porsche AG,70,,,,ro-32,Ferry Porsche Foundation [NGO],,1,1,outgoing,272500,"250,000 euros to the Ferry Porsche Foundation, focusing on children and young adults, for Ukrainian relief efforts."
+cd-302,Porsche AG,70,,,,ro-132,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,817500,"750,000 euros for Ukrainian relief efforts. "
 cd-303,PricewaterhouseCoopers,70,,,,GB-CHC-292506,CARE International [NGO],,1,1,outgoing,125000,"$125,000 donation to the Ukraine Crisis Fund through CARE to provide frontline humanitarian aid and support. "
 cd-304,Procter & Gamble,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,755436,"CHF 698,985"
 cd-305,"Punto Fa, S.L.",70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,111595,"€100,000 donation from the Spanish clothing design company trading as Mango. "
@@ -596,7 +610,7 @@ cd-325,Schörling Family Foundation,70,,,,XM-DAC-41121,United Nations High Commi
 cd-443,Schwarz Group,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,10527300,"€10 million worth of non-perishable foods, home textiles, hygiene products, and other urgently needed products to help supply provisions to the refugees in the border regions of Ukraine."
 cd-326,SeaDream Family Foundation,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,1500000,"Donation made as part of the Global Citizen Stand Up for Ukraine campaign to UNHCR, IRC, and GlobalGiving."
 cd-327,Sentara Healthcare,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,3500000,"More than 100 pallets of medical supplies over the past two weeks to charities addressing war and natural disasters in Ukraine, Poland, Haiti and the Philippines. Agencies receiving supplies from Sentara include Operation Blessing, Christian Relief, Feed My Sheep, The Tidewater Ukrainian School, Christians United for Haiti and Somebody Cares America. The value of the supplies distributed is approximately $3.5M. "
-cd-328,SentinelOne,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,605972,Donation from California-based software company specializing in security. 
+cd-328,SentinelOne,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,80458,Donation from California-based software company specializing in security. 
 cd-329,Share Our Strength,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,9700,"Donation from 'No Child Hungry' company based in Washington, DC."
 cd-330,Shiseido Group,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1101820,€1 million from luxury beauty brand. 
 cd-331,Sidney E. Frank Foundation,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000,Donation from the family foundation established by the US importer of Grey Goose vokda. 
@@ -619,28 +633,32 @@ cd-339,Societe Generale Group,70,,,,ro-149,unspecified or multiple recipients,,1
 cd-340,Sologenic Development Foundation,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,10000,"Company-sponsored foundation. On behalf of the SOLO and CORE community, Sologenic contributed $10,000 USD to the UNHCR fund to provide aid and vital assistance for the displaced civilians of Ukraine. USD 10000."
 cd-341,Sonoco Products Company,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,50594,"CHF 46,813"
 cd-342,Sony Group,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,5000000,"$2 million to UNHCR and Save the Children, plus employee donations and company matching totaling $5m. "
-cd-343,"Southeastern Grocers, Inc.",70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,250000,"Corporate giving program. Southeastern Grocers Inc. (SEG), parent company and home of Fresco y Más, Harveys Supermarket and Winn-Dixie grocery stores, together with the SEG Gives Foundation, announced a donation of $250,000 to the International Committee of the Red Cross to support Ukraine and its citizens as they fight to defend their country. SEG will also donate 100% of the proceeds from its private label Ukrainian vodka to the cause for the next 31 days as a nod to Ukraine’s official declaration of independence nearly 31 years ago."
-cd-343,"Southeastern Grocers, Inc.",70,,,,ro-72,Mission 823 [NGO],,1,1,outgoing,1100000,"Donation of $1.1m worht of cleaning and sanitation supplies, personal protective equipment, and nonperishable food items."
+cd-343,"Southeastern Grocers, Inc.",70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,250000,"Parent company of Fresco y Más, Harveys Supermarket and Winn-Dixie grocery stores, together with the SEG Gives Foundation, announced a donation to support Ukraine and its citizens as they fight to defend their country. SEG will also donate 100% of the proceeds from its private label Ukrainian vodka to the cause for the next 31 days as a nod to Ukraine’s official declaration of independence nearly 31 years ago."
+cd-343,"Southeastern Grocers, Inc.",70,,,,ro-72,Mission 823 [NGO],,1,1,outgoing,1100000,"Donation of cleaning and sanitation supplies, personal protective equipment, and nonperishable food items."
 cd-344,Spiegel Family Fund,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000,Donation from the family foundation establised by the CEO of Snap Inc. Verified (OCHA DRS).
-cd-345,Square Enix,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000,"Corporate giving program. Square Enix donated US$500,000 to United Nations High Commissioner for Refugees (UNHCR) to support Ukrainian humanitarian relief efforts. USD 500000."
+cd-345,Square Enix,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,500000,Cash donation to support those affected by the Ukraine emergency.
 cd-346,Stallergenes AG,70,,,,ro-36,French Red Cross,,1,1,outgoing,158165,"€150,000 cash donation."
+cd-487,Stellantis N.V.,70,,,,ro-179,Diakonie Katastrophenhilfe [NGO],,1,1,outgoing,1040438,€1 million cash donation.
 cd-347,Sun Life Financial Inc.,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,158000,"$200,000 CAD cash donation."
 cd-347,Sun Life Financial Inc.,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,80000,Donation made as part of the Global Citizen Stand Up for Ukraine campaign.
-cd-348,Supercell Oy,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1000000,Finnish mobile game developer providing immediate 1m Euro donation to UNHCR + match program for additional donations.
+cd-348,Supercell Oy,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1018450,Finnish mobile game developer providing immediate 1m Euro donation to UNHCR + match program for additional donations.
 cd-349,Sylvamo,70,,,,XM-DAC-21016,International Committee of the Red Cross (ICRC),,1,1,outgoing,250000,Donation to the International Committee of the Red Cross to assist the people of Ukraine.
 cd-350,T. Rowe Price Foundation,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,500000,Donation from foundation associated with US financial services firm. 
 cd-351,Taiwan Sporting Goods Manufacturers Association,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,20000,Donation from nonprofit association representing Taiwanese sporting goods companies. 
 cd-352,Takeda Pharmaceutical Company Ltd,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,23985235,"CHF 2,278,441 / 300 million Japanese yen"
 cd-352,Takeda Pharmaceutical Company Ltd,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,65510,Cash donation from Japanese pharmaceutical company.
+cd-491,TD Bank Group,70,,,,ro-16,Canada-Ukraine Foundation [NGO],,1,1,outgoing,76909,"CAD 100,000 donation. Part of a CAD 1,000,000 total commitment of support to aid humanitarian relief in Ukraine and globally."
+cd-491,TD Bank Group,70,,,,ro-129,United Nations High Commissioner for Refugees (UNHCR) Nigeria,,1,1,outgoing,76909,"CAD 100,000 donation. Part of a CAD 1,000,000 total commitment of support to aid humanitarian relief in Ukraine and globally."
+cd-491,TD Bank Group,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,615268,"CAD 800,000 unallocated commitment."
 cd-353,Techland S.A.,70,,,,ro-83,Polish Humanitarian Action [NGO],,1,1,outgoing,230890,Donation from Polish video game developer and publisher of PLN 1 million. 
-cd-354,Telus Corporation,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,79000,"Corporate giving program. Launching an employee donation matching program - to date, TELUS team members have donated $100,000 CAD to the Canadian Red Cross, matched by TELUS, for a total of $200,000. CAD 100000."
-cd-355,TELUS Friendly Future Foundation,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,118500,"Company-sponsored foundation. The TELUS Friendly Future Foundation made a $150,000 CAD donation to the Canadian Red Cross for Ukrainian relief. CAD 150000."
-cd-356,Tesco PLC,70,,,,GB-CHC-220949,British Red Cross Society ,,1,1,outgoing,1320000,"Corporate giving program. Tesco is donating £1m to the British Red Cross for relief efforts in Ukraine and working with them to find ways for customers and colleagues to help financially donate too.  GBP £1,000,000."
+cd-354,Telus Corporation,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,268972,"CAD 100,000 from Telus employees plus corporate match of CAD 100,000 and an additional CAD 150,000 donation for a total of CAD 350,000."
+cd-354,Telus Corporation,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,1537007,"Commitment of CAD 2,000,000 to support Canadian charities that are providing assistance to families and those displaced by the conflict in Ukraine, paid through the TELUS Friendly Future Foundation."
+cd-356,Tesco PLC,70,,,,GB-CHC-220949,British Red Cross Society ,,1,1,outgoing,1320000,"£5.2m to help the Red Cross get vital support to those affected by the crisis in Ukraine. In addition, donations of food, hygiene products, and clothing provided to a wide range of humanitarian organizations."
 cd-471,Tetra Laval,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,816659,Cash donation to UNICEF National Committee Sweden
 cd-357,Teva Pharmaceutical Industries Ltd.,70,,,,ro-29,Direct Relief [NGO],,1,1,outgoing,10800000,Donation of 27 million doses of medicines in over 1.3 million packs valued at $10.8 million (wholesale acquisition cost) for acute therapies in humanitarian support of Ukrainian refugees.
 cd-357,Teva Pharmaceutical Industries Ltd.,70,,,,CZ-ICO-25755277,People in Need [NGO],,1,1,outgoing,180000,"82,000 packs of medicine for Ukrainian infants and children."
 cd-357,Teva Pharmaceutical Industries Ltd.,70,,,,ro-118,United Hatzalah [NGO],,1,1,outgoing,180000,"25,000 packs of antibiotics valued at $180,000 to a leading Israeli non-profit emergency and relief organization as aid in refugee camps on the border of Ukraine."
-cd-358,Texas Instruments Foundation,70,,,,ro-5,American Red Cross,,1,1,outgoing,25000,"Has made a grant of $25,000 to American Red Cross for humanitarian relief in Ukraine and will double donations by U.S.-based TI employees through its matching gifts program. "
+cd-358,Texas Instruments Foundation,70,,,,ro-5,American Red Cross,,1,1,outgoing,25000,Grant for humanitarian relief in Ukraine. TI will also double donations by U.S.-based TI employees through its matching gifts program. 
 cd-359,The Body Shop International Limited,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,50000,Donation from The Body Shop North America. 
 cd-360,The Carlsberg Foundation and the Tuborg Foundation,70,,,,DK-CVR-20700211,Danish Red Cross,,1,1,outgoing,3655637,25 million DKK donation to local NGOs as part of 50 million DKK commitment. 
 cd-360,The Carlsberg Foundation and the Tuborg Foundation,70,,,,DK-CVR-20699310,Danish Refugee Council [NGO],,1,1,outgoing,1462255,10 million DKK donation to local NGOs as part of 50 million DKK commitment. 
@@ -653,6 +671,7 @@ cd-363,The Estée Lauder Companies Inc,70,,,,ro-149,unspecified or multiple reci
 cd-364,"The Interpublic Group of Companies, Inc.",70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,9700,Donation from global advertising giant.
 cd-365,The Nippon Foundation,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,40000000,"5 billion Japanese yen commitment over three years to help displaced Ukrainians in Japan. The Foundation will make individual grants to applicants; up to 300,000 yen for travel expenses, up to 1,000,000 yen per year x 3 years for living expenses, and up to 500,000 yen per unit as support for housing expenses. Donation is from a foundation associated with the Japanese motorboat racing industry; funds come from a percentage of bets placed. "
 cd-366,The Pfizer Foundation,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,2000000,"Cash donation to the American Red Cross, IMC, URC, and UNHCR. In addition, more than 700,000 doses of lifesaving antibiotics, antifibrinolytics, and oncology medicines have been donated."
+cd-478,Thomas Sabo GmbH & Co. KG,70,,,,ro-176,Stiftung RTL - Wir helfen Kindern e.V. [NGO],,1,1,outgoing,260905,"€250,000 donation to be distributed to partners such as SOS Children’s Villages, Caritas International, UNO Refugee Aid and Malteser Hilfsdienst."
 cd-367,TikTok Inc.,70,,,,ro-121,United Nations Central Emergency Response Fund (CERF),,1,1,outgoing,1000000,"Donation ""to support work around humanitarian crises"". Not necessarily limited to use in/on Ukraine crisis."
 cd-367,TikTok Inc.,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,950000,Cash donation to UNICEF National Committee United States
 cd-368,TJ Morris Ltd,70,,,,GB-CHC-1062638,Disasters Emergency Committee (DEC) [NGO],,1,1,outgoing,132000,"Corporate giving program. Home Bargains has donated £100,000 to the Disasters Emergency Committee Ukrainian Humanitarian Appeal. GBP £100,000."
@@ -660,14 +679,14 @@ cd-444,TOLK,70,,,,ro-177,Future for Children [NGO],,1,1,outgoing,33866,"UAH 1 mi
 cd-369,Tom Ford SA,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,100000,Pipeline donation. 
 cd-417,TotalEnergies SE,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,5434783,"Donation from Total Foundation, the private foundation associated with the French energy supermajor."
 cd-370,Toyota Motor Corporation,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,551120,"€500,000 donation. "
-cd-371,Tripadvisor Foundation,70,,,,ro-154,World Central Kitchen [NGO],,1,1,outgoing,250000,"Company-sponsored foundation. The Tripadvisor Foundation is supporting World Central Kitchen in its Ukraine relief efforts and has matched the initial $250,000 in donations. USD 250000."
+cd-371,Tripadvisor Foundation,70,,,,ro-154,World Central Kitchen [NGO],,1,1,outgoing,6400000,"$6.4 million raised as of March 2022, including $1 million from the Tripadvisor Foundation."
 cd-475,TWI Ltd,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,10410,Cash donation to UHF
 cd-372,Twitter,70,,,,US-EIN-300108263,GlobalGiving [NGO],,1,1,outgoing,267000,"Donation to the GlobalGiving Ukraine Crisis Relief Fund, made as part of the Global Citizen Stand Up for Ukraine campaign."
 cd-373,U.S. Travel Association,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,24250,Donation from association linked to the travel industry.
 cd-374,Uber Technologies Inc.,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,250000,"CHF 243,773. Part of $500,00 commitment to humanitarian efforts in Ukraine and neighboring countries. "
 cd-374,Uber Technologies Inc.,70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,1000000,In-app donation with 1:1 match up to $1 million.
-cd-374,Uber Technologies Inc.,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,32500,Donation from Uber Netherlands (Uber Portier B.V.)
-cd-374,Uber Technologies Inc.,70,,,,ro-156,World Food Programme (WFP) USA,,1,1,outgoing,250000,"Part of $500,000 commitment to support humanitarian efforts in Ukraine and neighboring countries. "
+cd-374,Uber Technologies Inc.,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,532500,Donation from Uber Netherlands (Uber Portier B.V.)
+cd-488,UCB,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,306156,"€300,000 cash donation to the German International Rescue Committee and the Belgian International Red Cross. In addition, UCB has donated millions of doses of medicine."
 cd-375,Ukrainian Credit Union ,70,,,,ro-107,The Canada-Ukraine Foundation [NGO],,1,1,outgoing,79000,"$100,000 CAD donation from Toronto-based bank."
 cd-376,Unilever,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,2001470,"€1.9 million of goods, primarily essential hygiene products such as soap, shampoo, dental care products and nappies."
 cd-376,Unilever,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,1474767,"€1.4 million of goods, primarily essential hygiene products such as soap, shampoo, dental care products and nappies."
@@ -708,6 +727,7 @@ cd-396,Volvo,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,out
 cd-396,Volvo,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,205570,"SEK 2,000,000. "
 cd-397,Wabtec Foundation,70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,50000,Donation from company-linked foundation. 
 cd-397,Wabtec Foundation,70,,,,ro-154,World Central Kitchen [NGO],,1,1,outgoing,50000,Donation from company-linked foundation. 
+cd-485,Weleda AG,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,104069,"€100,000 of cash and relief supplies donated to Caritas International and Doctors Without Borders"
 cd-398,WELL Health Technologies,70,,,,ro-123,United Nations Children's Fund (UNICEF) Canada,,1,1,outgoing,79000,"CAD 100,000 to support the 7.5 million Ukrainian children who have been harmed or may be in immediate danger."
 cd-399,Wells Fargo & Company,70,,,,ro-149,unspecified or multiple recipients,,1,1,outgoing,1000000,"To the American Red Cross, World Central Kitchen and the United Service Organizations."
 cd-400,Western Union Foundation,70,,,,ro-54,International Medical Corps (IMC) [NGO],,1,1,outgoing,100000,"Western Union, its employees, and the Western Union Foundation have pledged up to $500,000 USD in aid to the people of Ukraine. The Western Union Foundation announced its first donation of $100,000 to International Medical Corps, providing medical aid and supplies, mental health support and protection services to those who have fled to Poland, Moldova, and Romania. "
@@ -716,6 +736,7 @@ cd-401,White & Case,70,,,,ro-116,Ukrainian Red Cross Society,,1,1,outgoing,10000
 cd-402,William Demant Foundation,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,997749,DKK 7 million ($1 million USD) from company-sponsored foundation to the United Nations Children’s Fund (UNICEF) which is scaling up emergency response across Ukraine and the wider region. Paid to UNICEF National Committee Denmark.
 cd-403,Wings for Things Foundation Inc.,70,,,,XM-DAC-41140,World Food Programme (WFP),,1,1,outgoing,242500,Donation from private foundation.
 cd-404,World Federation of the Sporting Goods Industry,70,,,,ro-113,Ukraine Humanitarian Fund (UHF),,1,1,outgoing,53294,"50,000 CHF donation from the non-profit organization representing the sporting goods industry. "
+cd-473,Würth GmbH ,70,,,,ro-3,Aktion Deutschland Hilft [NGO],,1,1,outgoing,511715,"Cash donation of more than €500,000."
 cd-473,Würth GmbH ,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,533708,Cash donation to UNICEF National Committee Germany
 cd-406,"Wyndham Hotels & Resorts, Inc.",70,,,,GB-COH-213890,Save the Children [NGO],,1,1,outgoing,100000,Donation from American hotel and resort chain.
 cd-407,XTX Markets,70,,,,ro-120,United Kingdom for UNHCR,,1,1,outgoing,13187200,"Donation from algorthmic trading company pf £10mn to support the UN Refugee Agency, via the UK for UNHCR Ukraine Emergency appeal. "

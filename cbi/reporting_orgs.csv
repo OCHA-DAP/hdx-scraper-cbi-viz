@@ -11,6 +11,7 @@ cd-15,ALDI SOUTH Group
 cd-36,ASIS International
 cd-429,ATB Corporation
 cd-40,ATN Corp.
+cd-480,AVIV Group GmbH
 cd-44,AXA
 cd-4,AbbVie Inc.
 cd-3,Abbott Laboratories
@@ -30,6 +31,7 @@ cd-21,American Express Company
 cd-22,AmerisourceBergen Foundation
 cd-23,"Amgen Foundation, Inc."
 cd-24,Analog Devices Incorporated
+cd-484,Andreas Stihl AG & Co KG
 cd-25,AngloAmerican Foundation
 cd-26,Ann and Gordon Getty Foundation
 cd-30,Arc'teryx
@@ -68,6 +70,7 @@ cd-57,Bayer AG
 cd-431,Bayerische Motoren Werke AG (BMW)
 cd-59,BentallGreenOak
 cd-61,BioNTech SE
+cd-489,Biogen Inc.
 cd-430,Biosphere Corporation
 cd-62,Blockchain Charity Foundation USA
 cd-63,Bloomberg L.P.
@@ -78,6 +81,7 @@ cd-68,Boehringer Ingelheim International GmbH
 cd-69,Boeing Company Charitable Trust
 cd-70,Bolt Technology OÜ
 cd-71,Bombardier Inc.
+cd-490,Booking Holdings Inc.
 cd-72,Booz-Allen & Hamilton
 cd-73,Boston Consulting Group
 cd-75,Bridgestone Corporation
@@ -182,6 +186,7 @@ cd-160,Ford Motor Company Fund
 cd-455,Formula One World Championship Limited
 cd-161,Fortum Oyj
 cd-163,FreeWill Co.
+cd-476,Fuel Relief Fund
 cd-164,Fujitsu Group
 cd-165,Fuller Landau LLP
 cd-169,Fundacion MAPFRE
@@ -213,6 +218,7 @@ cd-424,Happybean Foundation
 cd-188,Heartland
 cd-189,Helly Hansen
 cd-191,Hendrick Automotive
+cd-486,Henkel AG & Co. KGaA
 cd-192,Hermès International S.A.
 cd-193,Hilco Global
 cd-194,"Hillenbrand, Inc."
@@ -260,6 +266,7 @@ cd-226,Kimberly-Clark
 cd-227,Kinross Gold Corporation
 cd-228,Knockward Ltd
 cd-230,Koninklijke DSM N.V.
+cd-477,Koninklijke Philips N.V.
 cd-232,Kroger Co. Zero Hunger Zero Waste Foundation
 cd-233,Kuehne + Nagel International AG
 cd-234,Kurt Geiger
@@ -283,6 +290,7 @@ cd-248,Mastercard
 cd-249,"Mattel, Inc."
 cd-250,Mazda Motor Corporation
 cd-251,McCain Foods Limited
+cd-482,Mennekes Elektrotechnik GmbH & Co. KG
 cd-252,Mercedes-Benz
 cd-460,Mercedes-Benz Grand Prix Ltd
 cd-253,Merck KGaA
@@ -315,11 +323,13 @@ cd-277,Newmont Corporation
 cd-278,Nike Foundation
 cd-462,Nippon Telegraph and Telephone Corporation (NTT)
 cd-279,"Nissan Motor Co., Ltd."
+cd-479,Nordzucker AG
 cd-280,Norton Rose Fulbright
 cd-281,Novartis AG
 cd-282,Novelis Corporation
 cd-283,Novo Nordisk Foundation
 cd-284,Nuix
+cd-481,OLYMP Bezner KG
 cd-463,OMV Petrom S.A.
 cd-285,Oak Foundation
 cd-464,Oersted Salg & Service A/S
@@ -384,11 +394,12 @@ cd-343,"Southeastern Grocers, Inc."
 cd-344,Spiegel Family Fund
 cd-345,Square Enix
 cd-346,Stallergenes AG
+cd-487,Stellantis N.V.
 cd-347,Sun Life Financial Inc.
 cd-348,Supercell Oy
 cd-349,Sylvamo
 cd-350,T. Rowe Price Foundation
-cd-355,TELUS Friendly Future Foundation
+cd-491,TD Bank Group
 cd-368,TJ Morris Ltd
 cd-444,TOLK
 cd-475,TWI Ltd
@@ -408,6 +419,7 @@ cd-363,The Estée Lauder Companies Inc
 cd-364,"The Interpublic Group of Companies, Inc."
 cd-365,The Nippon Foundation
 cd-366,The Pfizer Foundation
+cd-478,Thomas Sabo GmbH & Co. KG
 cd-367,TikTok Inc.
 cd-369,Tom Ford SA
 cd-417,TotalEnergies SE
@@ -415,6 +427,7 @@ cd-370,Toyota Motor Corporation
 cd-371,Tripadvisor Foundation
 cd-372,Twitter
 cd-373,U.S. Travel Association
+cd-488,UCB
 cd-374,Uber Technologies Inc.
 cd-375,Ukrainian Credit Union 
 cd-376,Unilever
@@ -442,6 +455,7 @@ cd-395,Volkswagen AG
 cd-396,Volvo
 cd-398,WELL Health Technologies
 cd-397,Wabtec Foundation
+cd-485,Weleda AG
 cd-399,Wells Fargo & Company
 cd-400,Western Union Foundation
 cd-401,White & Case
