@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2022-07-11T08:40:01.070891","#meta+receiver_orgs+num":176},"data":[
+{"metadata":{"#date+run":"2022-07-11T16:43:41.918938","#meta+receiver_orgs+num":177},"data":[
 {"#org+id+receiver":"ro-8","#org+name+receiver":"ASAP Rescue [NGO]"},
 {"#org+id+receiver":"ro-1","#org+name+receiver":"Agency for Technical Cooperation and Development (ACTED) [NGO]"},
 {"#org+id+receiver":"ro-2","#org+name+receiver":"Airlink, Inc. [NGO]"},
@@ -56,6 +56,7 @@
 {"#org+id+receiver":"ro-46","#org+name+receiver":"Human Rights Watch [NGO]"},
 {"#org+id+receiver":"ro-47","#org+name+receiver":"Humane Society International [NGO]"},
 {"#org+id+receiver":"ro-48","#org+name+receiver":"Hungarian Interchurch Aid [NGO]"},
+{"#org+id+receiver":"ro-181","#org+name+receiver":"Individual grantees (see notes)"},
 {"#org+id+receiver":"ro-49","#org+name+receiver":"Interchurched Aid [NGO]"},
 {"#org+id+receiver":"XM-DAC-21016","#org+name+receiver":"International Committee of the Red Cross (ICRC)"},
 {"#org+id+receiver":"XM-DAC-21018","#org+name+receiver":"International Federation of Red Cross and Red Crescent Societies (IFRC)"},
