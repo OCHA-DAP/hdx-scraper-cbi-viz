@@ -37,12 +37,14 @@ cd-26,Ann and Gordon Getty Foundation
 cd-30,Arc'teryx
 cd-27,Arcadia Fund
 cd-28,Arcadis NV
+cd-492,ArcelorMittal S.A.
 cd-29,Archer-Daniels-Midland Company
 cd-31,Ares Management Corporation
 cd-32,Argyle Systems Inc 
 cd-33,Arista
 cd-34,Armani Group 
 cd-35,Asda Stores Ltd
+cd-516,Assicurazioni Generali S.p.A.
 cd-428,Astarta Holding
 cd-37,Astellas Pharma Inc.
 cd-38,AstraZeneca
@@ -50,7 +52,8 @@ cd-39,Atlas Copco Group
 cd-41,Audi AG
 cd-42,"Aurora World, Inc."
 cd-44,Axa
-cd-56,BASF
+cd-506,B. Metzler seel. Sohn & Co. Aktiengesellschaft
+cd-56,BASF SE
 cd-58,BBVA
 cd-60,BHP Foundation
 cd-67,BNY Mellon
@@ -68,7 +71,9 @@ cd-55,Barry Callebaut AG
 cd-474,Baupost Group
 cd-57,Bayer AG
 cd-431,Bayerische Motoren Werke AG (BMW)
+cd-519,Beiersdorf AG
 cd-59,BentallGreenOak
+cd-511,Bertelsmann SE & Co. KGaA
 cd-61,BioNTech SE
 cd-489,Biogen Inc.
 cd-430,Biosphere Corporation
@@ -128,17 +133,20 @@ cd-112,Czapek & Cie SA
 cd-450,DNB
 cd-130,DST Global
 cd-435,DTEK Group
+cd-514,Dachser Group SE & Co. KG
 cd-113,"Daiichi Sankyo Company, Limited"
 cd-114,Daily Mail and General Trust
 cd-449,Daimler Truck AG
 cd-115,Danone S.A.
 cd-433,Darnista
 cd-117,Decathlon
+cd-508,Deichmann SE
 cd-421,Delivery Hero
 cd-118,Delta Air Lines
 cd-119,Dentsu Inc.
 cd-120,Derald H. Ruttenberg Foundation
 cd-434,Deutsche Bank
+cd-493,Deutsche Telekom AG
 cd-121,Devon Energy
 cd-124,DiaSorin
 cd-122,Diageo
@@ -173,6 +181,8 @@ cd-146,"Fast Retailing Co., Ltd."
 cd-147,Federation Internationale de l'Automobile
 cd-149,Federation of the European Sporting Goods Industry
 cd-150,Ferrari s.P.A.
+cd-512,Ferrero SpA
+cd-495,Ferrexpo plc
 cd-151,Fidelity Investments Inc.
 cd-152,Fondation CHANEL
 cd-153,Fondation Egis
@@ -254,6 +264,7 @@ cd-215,John Legere Family Foundation
 cd-216,John Lewis Partnership
 cd-217,Johnson & Johnson Foundation
 cd-218,Jonathan Molot and Hattie Ruttenberg Foundation
+cd-515,K+S Aktiengesellschaft
 cd-459,KDDI Corporation
 cd-229,KOEI TECMO
 cd-231,KPMG LLP
@@ -265,16 +276,20 @@ cd-225,Kikkoman
 cd-226,Kimberly-Clark
 cd-227,Kinross Gold Corporation
 cd-228,Knockward Ltd
+cd-509,Knorr-Bremse AG
 cd-230,Koninklijke DSM N.V.
 cd-477,Koninklijke Philips N.V.
 cd-232,Kroger Co. Zero Hunger Zero Waste Foundation
+cd-505,Krombacher Brauerei Bernhard Schadeberg GmbH & Co. KG
 cd-233,Kuehne + Nagel International AG
 cd-234,Kurt Geiger
 cd-439,Kyivstar
 cd-241,L'Oréal S.A.
 cd-235,LEGO Foundation
 cd-236,LEO Pharma A/S
+cd-497,LVM Versicherungsverein
 cd-243,LVMH Group
+cd-496,Laverana GmbH & Co. KG
 cd-237,Levi Strauss & Co.
 cd-238,Liebherr Foundation
 cd-239,"Lincoln Electric Holdings, Inc."
@@ -290,11 +305,13 @@ cd-248,Mastercard
 cd-249,"Mattel, Inc."
 cd-250,Mazda Motor Corporation
 cd-251,McCain Foods Limited
+cd-518,Medela AG
 cd-482,Mennekes Elektrotechnik GmbH & Co. KG
 cd-252,Mercedes-Benz
 cd-460,Mercedes-Benz Grand Prix Ltd
 cd-253,Merck KGaA
 cd-254,"Meta Platforms, Inc."
+cd-498,Metinvest Group
 cd-255,Metro AG
 cd-256,Metro Supply Chain
 cd-257,Michael & Susan Dell Foundation
@@ -310,6 +327,7 @@ cd-266,Moose Toys
 cd-267,Morrison & Foerster Foundation
 cd-268,Morrison Supermarkets
 cd-440,Myronivsky Hliboproduct (MHP)
+cd-499,Müller-BBM Holding AG
 cd-461,N-Rep A/S
 cd-272,NCR Foundation
 cd-271,NanoTemper Technologies
@@ -333,6 +351,7 @@ cd-481,OLYMP Bezner KG
 cd-463,OMV Petrom S.A.
 cd-285,Oak Foundation
 cd-464,Oersted Salg & Service A/S
+cd-500,Oetker-Gruppe
 cd-286,Offshore Technology Conference Inc.
 cd-287,Olam International
 cd-288,Old Navy
@@ -351,6 +370,7 @@ cd-301,"Popular, Inc."
 cd-302,Porsche AG
 cd-303,PricewaterhouseCoopers
 cd-304,Procter & Gamble
+cd-501,Provinzial Holding AG
 cd-305,"Punto Fa, S.L."
 cd-296,Pérez-Llorca
 cd-442,REWE Group
@@ -362,6 +382,7 @@ cd-310,"Riot Games, Inc."
 cd-311,Riverview Community Bank
 cd-312,Rockwell Automation
 cd-313,Royal Bank of Canada
+cd-502,Rudomain
 cd-315,Russel Metals Inc. 
 cd-316,S&P Global Foundation
 cd-323,SAP SE
@@ -378,6 +399,7 @@ cd-326,SeaDream Family Foundation
 cd-327,Sentara Healthcare
 cd-328,SentinelOne
 cd-329,Share Our Strength
+cd-503,Shell plc
 cd-330,Shiseido Group
 cd-331,Sidney E. Frank Foundation
 cd-332,Siemens
@@ -411,6 +433,7 @@ cd-356,Tesco PLC
 cd-471,Tetra Laval
 cd-357,Teva Pharmaceutical Industries Ltd.
 cd-358,Texas Instruments Foundation
+cd-510,Thalia Bücher GmbH
 cd-359,The Body Shop International Limited
 cd-360,The Carlsberg Foundation and the Tuborg Foundation
 cd-361,The Coca-Cola Company
@@ -451,10 +474,12 @@ cd-391,Vodafone Luxembourg Foundation
 cd-392,Vodafone Romania
 cd-393,Vodafone Spain Foundation
 cd-394,Vodafone UK
+cd-504,Volksbank eG Braunschweig Wolfsburg
 cd-395,Volkswagen AG
 cd-396,Volvo
 cd-398,WELL Health Technologies
 cd-397,Wabtec Foundation
+cd-507,Wacker Chemie AG
 cd-485,Weleda AG
 cd-399,Wells Fargo & Company
 cd-400,Western Union Foundation
@@ -473,6 +498,8 @@ cd-412,Zegna N.V.
 cd-413,"Zentiva Group, a.s."
 cd-414,Zound Industries
 cd-43,aviado GmbH
+cd-517,cosnova GmbH
+cd-494,dm-drogerie markt
 cd-307,redacted Donor A
 cd-419,redacted Donor B
 cd-465,redacted Donor C
