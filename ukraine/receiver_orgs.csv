@@ -1,10 +1,10 @@
 Receiver org id,Receiver org name
 #org+id+receiver,#org+name+receiver
 ro-8,ASAP Rescue [NGO]
-ro-1,Agency for Technical Cooperation and Development (ACTED) [NGO]
-ro-2,"Airlink, Inc. [NGO]"
-ro-3,Aktion Deutschland Hilft [NGO]
-ro-4,Aktionsbündnis Katastrophenhilfe [NGO]
+ro-23,Agency for Technical Cooperation and Development (ACTED) [NGO]
+ro-25,"Airlink, Inc. [NGO]"
+ro-13,Aktion Deutschland Hilft [NGO]
+ro-19,Aktionsbündnis Katastrophenhilfe [NGO]
 ro-160,Alliance4Ukraine [NGO]
 ro-5,American Red Cross
 ro-6,American Red Cross in Puerto Rico
@@ -90,6 +90,7 @@ ro-72,Mission 823 [NGO]
 ro-73,Mission of Mercy [NGO]
 ro-74,Moldovan Red Cross
 ro-75,Mondo MTÜ [NGO]
+ro-1,Multiple (see notes)
 ro-66,Médecins Sans Frontières (MSF) [NGO]
 ro-166,Médecins du Monde [NGO]
 ro-173,National Bank of Ukraine [government]
@@ -162,6 +163,8 @@ XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR)
 ro-129,United Nations High Commissioner for Refugees (UNHCR) Nigeria
 XM-DAC-41119,United Nations Population Fund (UNFPA)
 ro-131,United Way [NGO]
+ro-2,Unspecified (see notes)
+ro-3,Unspecified Red Cross / Red Crescent Society (see notes)
 ro-178,Verein - Freie Ukraine Braunschweig e.V. [NGO]
 ro-151,Veterinarians Without Borders [NGO]
 ro-152,Voices of Children Foundation [NGO]
@@ -189,4 +192,3 @@ ro-140,unspecified Microsoft individual in-kind recipients
 ro-141,unspecified Microsoft international org in-kind tech recipients
 ro-147,unspecified Microsoft unspecified in-kind credit recipients
 ro-148,unspecified Microsoft unspecified in-kind tech recipients
-ro-149,unspecified or multiple recipients

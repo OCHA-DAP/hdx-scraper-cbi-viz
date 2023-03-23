@@ -1,9 +1,9 @@
-{"metadata":{"#date+run":"2023-03-23T02:05:23.292078","#meta+receiver_orgs+num":190},"data":[
+{"metadata":{"#date+run":"2023-03-23T21:52:49.507442","#meta+receiver_orgs+num":192},"data":[
 {"#org+id+receiver":"ro-8","#org+name+receiver":"ASAP Rescue [NGO]"},
-{"#org+id+receiver":"ro-1","#org+name+receiver":"Agency for Technical Cooperation and Development (ACTED) [NGO]"},
-{"#org+id+receiver":"ro-2","#org+name+receiver":"Airlink, Inc. [NGO]"},
-{"#org+id+receiver":"ro-3","#org+name+receiver":"Aktion Deutschland Hilft [NGO]"},
-{"#org+id+receiver":"ro-4","#org+name+receiver":"Aktionsb\u00fcndnis Katastrophenhilfe [NGO]"},
+{"#org+id+receiver":"ro-23","#org+name+receiver":"Agency for Technical Cooperation and Development (ACTED) [NGO]"},
+{"#org+id+receiver":"ro-25","#org+name+receiver":"Airlink, Inc. [NGO]"},
+{"#org+id+receiver":"ro-13","#org+name+receiver":"Aktion Deutschland Hilft [NGO]"},
+{"#org+id+receiver":"ro-19","#org+name+receiver":"Aktionsb\u00fcndnis Katastrophenhilfe [NGO]"},
 {"#org+id+receiver":"ro-160","#org+name+receiver":"Alliance4Ukraine [NGO]"},
 {"#org+id+receiver":"ro-5","#org+name+receiver":"American Red Cross"},
 {"#org+id+receiver":"ro-6","#org+name+receiver":"American Red Cross in Puerto Rico"},
@@ -89,6 +89,7 @@
 {"#org+id+receiver":"ro-73","#org+name+receiver":"Mission of Mercy [NGO]"},
 {"#org+id+receiver":"ro-74","#org+name+receiver":"Moldovan Red Cross"},
 {"#org+id+receiver":"ro-75","#org+name+receiver":"Mondo MT\u00dc [NGO]"},
+{"#org+id+receiver":"ro-1","#org+name+receiver":"Multiple (see notes)"},
 {"#org+id+receiver":"ro-66","#org+name+receiver":"M\u00e9decins Sans Fronti\u00e8res (MSF) [NGO]"},
 {"#org+id+receiver":"ro-166","#org+name+receiver":"M\u00e9decins du Monde [NGO]"},
 {"#org+id+receiver":"ro-173","#org+name+receiver":"National Bank of Ukraine [government]"},
@@ -161,6 +162,8 @@
 {"#org+id+receiver":"ro-129","#org+name+receiver":"United Nations High Commissioner for Refugees (UNHCR) Nigeria"},
 {"#org+id+receiver":"XM-DAC-41119","#org+name+receiver":"United Nations Population Fund (UNFPA)"},
 {"#org+id+receiver":"ro-131","#org+name+receiver":"United Way [NGO]"},
+{"#org+id+receiver":"ro-2","#org+name+receiver":"Unspecified (see notes)"},
+{"#org+id+receiver":"ro-3","#org+name+receiver":"Unspecified Red Cross / Red Crescent Society (see notes)"},
 {"#org+id+receiver":"ro-178","#org+name+receiver":"Verein - Freie Ukraine Braunschweig e.V. [NGO]"},
 {"#org+id+receiver":"ro-151","#org+name+receiver":"Veterinarians Without Borders [NGO]"},
 {"#org+id+receiver":"ro-152","#org+name+receiver":"Voices of Children Foundation [NGO]"},
@@ -187,6 +190,5 @@
 {"#org+id+receiver":"ro-140","#org+name+receiver":"unspecified Microsoft individual in-kind recipients"},
 {"#org+id+receiver":"ro-141","#org+name+receiver":"unspecified Microsoft international org in-kind tech recipients"},
 {"#org+id+receiver":"ro-147","#org+name+receiver":"unspecified Microsoft unspecified in-kind credit recipients"},
-{"#org+id+receiver":"ro-148","#org+name+receiver":"unspecified Microsoft unspecified in-kind tech recipients"},
-{"#org+id+receiver":"ro-149","#org+name+receiver":"unspecified or multiple recipients"}
+{"#org+id+receiver":"ro-148","#org+name+receiver":"unspecified Microsoft unspecified in-kind tech recipients"}
 ]}
