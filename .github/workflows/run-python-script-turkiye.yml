@@ -1,6 +1,6 @@
 # This workflow will install Python dependencies and run the script
 
-name: Run Turkey
+name: Run Turkiye
 
 on:
   workflow_dispatch: # add run button in github
@@ -26,14 +26,14 @@ jobs:
         GSHEET_AUTH: ${{ secrets.GSHEET_AUTH }}
         UPDATESHEETS: ${{ secrets.UPDATESHEETS }}
       run: |
-        python run.py --what=turkey
+        python run.py --what=turkiye
         cp errors.log output
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
-        folder: output_turkey
-        target-folder: turkey
+        folder: output_turkiye
+        target-folder: turkiye
     - name: Send mail
       if: failure()
       uses: dawidd6/action-send-mail@v3

@@ -1,5 +1,5 @@
 dataset_ukraine: "ukraine-private-sector-donations-tracker"
-dataset_turkey: "turkiye-syria-earthquake-private-sector-donations-tracker"
+dataset_turkiye: "turkiye-syria-earthquake-private-sector-donations-tracker"
 fallback_dir: "fallback_data"
 
 outputs:
