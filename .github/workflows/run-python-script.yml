@@ -1,6 +1,6 @@
 # This workflow will install Python dependencies and run the script
 
-name: run
+name: Run Ukraine
 
 on:
   workflow_dispatch: # add run button in github
@@ -14,7 +14,7 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Set up Python 3.x
-      uses: actions/setup-python@v3
+      uses: actions/setup-python@v4
       with:
         python-version: 3.x
     - name: Install dependencies
@@ -36,7 +36,7 @@ jobs:
         target-folder: cbi
     - name: Send mail
       if: failure()
-      uses: dawidd6/action-send-mail@v2
+      uses: dawidd6/action-send-mail@v3
       with:
         server_address: ${{secrets.EMAIL_SERVER}}
         server_port: ${{secrets.EMAIL_PORT}}
