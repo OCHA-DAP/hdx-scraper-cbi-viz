@@ -1,0 +1,130 @@
+Reporting org id,Reporting org name,Reporting org type,Provider org id,Provider org name,Provider org type,Receiver org id,Receiver org name,Receiver org type,Humanitarian?,Strict?,Transaction direction,Total money,Notes
+#org+id+reporting,#org+name+reporting,#org+reporting+type,#org+id+provider,#org+name+provider,#org+type+provider,#org+id+receiver,#org+name+receiver,#org+type+receiver,#indicator+bool+humanitarian,#indicator+bool+strict,#x_transaction_direction,#value+total,#description
+do-645,Ziraat Bank,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,1060000000,20 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-7,Accenture,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,Grant commitment to humanitarian relief agencies. Does not include employee matching campaign currently underway.
+do-3,Abbott Laboratories,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,1500000,"Donation to CARE, Direct Relief, and International Medical Corps. We have reached out to ask for the breakdown by organization."
+do-638,Turkish Enterprise and Business Confederation (TÜRKONFED),70,,,,ro-1,Multiple (see notes),,1,1,outgoing,11277089,"TÜRKONFED represents over 60,000 small and medium enterprises in Türkiye. Their members have delivered in-kind donations, critical equipment, and logistical services worth over $11 million to affected areas as of 20 February 2023."
+do-641,VakıfBank,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,635000000,12 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-614,Halkbank,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,370000000,7 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-636,Turkcell İletişim Hizmetleri A.Ş.,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,185000000,3.5 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-635,Türk Telekom,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,106000000,2 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-605,Cengiz Holding A.S.,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,132000000,2.5 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-620,Kalyon Group,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,50260000,950 million Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-603,Borsa Istanbul,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,106000000,2 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-640,Türkiye Sigorta,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,106000000,2 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-602,Baykar Defense,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,106000000,2 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-637,Turkish Airlines,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,106000000,2 billion Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD.
+do-639,Turkish Football Federation,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government],,1,1,outgoing,2640000,"At least 50 million Turkish liras donated to the Turkiye One Heart / Türkiye Tek Yürek fundraising campaign organized by AFAD, not including ten trucks of in-kind supplies and additional donations from the leadership and players of the TFF."
+do-600,Aegon N.V.,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,107165,"€100,000 donation to support the relief efforts."
+do-15,ALDI SOUTH Group,70,,,,ro-3,Unspecified Red Cross / Red Crescent Society (see notes),,1,1,outgoing,533367,"€500,000 to assist with disaster relief efforts in Turkey and Syria."
+do-17,Allianz SE,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,6397109,Unallocated portion of a €6 million commitment for earthquake relief and recovery.
+do-20,"Amazon.com, Inc.",70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,500000,Initial commitment of cash donations to NGOs providing critical support in areas affected by the earthquake in Türkiye and Syria.
+do-22,AmerisourceBergen,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,350000,"$250,000 from the AmerisourceBergen Foundation plus $100,000 from AmerisourceBergen Alliance Healthcare distributed to strategic nonprofit partners including Direct Relief, UNICEF, and the Red Cross, among others. "
+do-23,Amgen Inc.,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,1000000,"Donations to Direct Relief, International Medical Corps, and Heart-to-Heart International. "
+do-601,Arvato,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,214330,"€200,000 to aid victims from Arvato Supply Chain Solutions."
+do-56,BASF SE,70,,,,ro-40,German Red Cross,,1,1,outgoing,537965,"€500,000 cash donation."
+do-57,Bayer AG,70,,,,ro-195,Anadolu Halk ve Barış Platformu (AHBAP) [NGO],,1,1,outgoing,533305,"€500,000 cash donation."
+do-57,Bayer AG,70,,,,ro-200,Turkish Red Crescent / Türk Kızılay,,1,1,outgoing,533305,"€500,000 cash donation."
+do-57,Bayer AG,70,,,,ro-40,German Red Cross,,1,1,outgoing,213322,"€200,000 cash donation intended to support disaster response in Syria."
+do-604,Caterpillar Inc.,70,,,,ro-3,Unspecified Red Cross / Red Crescent Society (see notes),,1,1,outgoing,400000,"$400,000 from the Caterpillar Foundation to support the needs of those impacted by the earthquake in Turkey and Syria."
+do-87,"Chegg, Inc.",70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,100000,Cash donation for early emergency support and essential health services.
+do-606,Chevron Corporation,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,"Initial minimum pledge for disaster relief, to be augmented by matching employee and retiree contributions.
+"
+do-607,Cigna,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,150000,"Donation from the Cigna Foundation to the International Rescue Committee, UNICEF, and IFRC supporting critical humanitarian efforts."
+do-608,"Citibank, N.A.",70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,250000,"To respond to the urgent needs of impacted communities.
+"
+do-609,Edgewell Personal Care,70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,25000,Cash donation.
+do-610,Edison International,70,,,,ro-5,American Red Cross,,1,1,outgoing,25000,Cash donation.
+do-144,ExxonMobil,70,,,,ro-54,International Medical Corps (IMC) [NGO],,1,1,outgoing,100000,Cash donation from the ExxonMobil Foundation.
+do-611,FedEx Corporation,70,,,,ro-200,Turkish Red Crescent / Türk Kızılay,,1,1,outgoing,100000,Donation to support recovery efforts in local communities.
+do-612,Flexport Inc.,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,250000,Initial commitment from the Flexport.org Fund to ship aid via nonprofit and humanitarian partners responding to the earthquakes.
+do-613,FUJIFILM Holdings Corporation,70,,,,ro-60,Japan Platform [NGO],,1,1,outgoing,74233,JPY 10 million donation.
+do-613,FUJIFILM Holdings Corporation,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,296934,"Donation of medical equipment worth JPY 40 million, including Fujifilm’s portable X-ray systems and ultrasound devices for medical care."
+do-172,GE HealthCare,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,"Donation of Vscan handheld ultrasounds and mobile X-ray systems. In addition, GE is donation food and essential items directly to areas of greatest need. "
+do-615,Hana Financial Group Inc.,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,300000,"Pledge of cash support to the Community Chest of Korea, International Rescue Committee, and other relief organizations to support humanitarian work in Turkey and Syria.
+"
+do-486,Henkel AG & Co. KGaA,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1067465,€1 million donated to internationally active aid organizations in support of earthquake response.
+do-196,"Hitachi, Ltd.",70,,,,ro-61,Japanese Red Cross Society,,1,1,outgoing,300000,"JPY 20 million to support relief efforts for people affected by the earthquake.
+"
+do-196,"Hitachi, Ltd.",70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,300000,"JPY 20 million to support relief efforts for people affected by the earthquake.
+"
+do-616,"Honda Motor Co., Ltd.",70,,,,ro-61,Japanese Red Cross Society,,1,1,outgoing,74568,JPY 10 million to support the humanitarian relief and recovery effort in the affected areas.
+do-618,"Hyundai Marine & Fire Insurance Co., Ltd.",70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,100000,"$100,000 donation for disaster relief aid to Turkey."
+do-200,Hyundai Motor Company,70,,,,ro-197,Korean Red Cross,,1,1,outgoing,2000000,"Cash donation for relief efforts in Türkiye and Syria.
+"
+do-617,Hyundai Assan Otomotiv Sanayi ve Ticaret A.Ş.,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,534085,"€500,000 of relief equipment, including cutters and grinders, plus daily necessities such as food, sanitary goods, and cold weather supplies."
+do-204,IKEA Foundation,70,,,,ro-66,Médecins Sans Frontières (MSF) [NGO],,1,1,outgoing,10652230,€10 million immediate cash donation.
+do-217,Johnson & Johnson,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,1000000,Cash donation to International Medical Corps (IMC) and International Rescue Committee (IRC) for immediate relief efforts.
+do-621,Kellogg Company,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,150000,Cash donation to Türkiye Eğitim Gönüllüleri Vakfı (TEGV) and UNHCR.
+do-248,Mastercard,70,,,,XM-DAC-41140,World Food Program (WFP),,1,1,outgoing,200000,Cash donation.
+do-248,Mastercard,70,,,,ro-199,Needs Map [NGO],,1,1,outgoing,350000,Cash donation.
+do-248,Mastercard,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,100000,"Donations from 1:1 employee giving campaign and that has so far raised more than $100,000 for Turkish Philanthropy, Mozaik Turkey, and Direct Relief."
+do-622,McDonald's Corporation,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,1000000,"Cash donation from McDonald’s Corporation and McDonald’s Turkey for relief efforts. including contributions to Save the Children, World Central Kitchen, and local nonprofits. "
+do-623,"MEBO International, Inc.",70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,200000,Commitment to work with Gulf Pharmaceutical Industries (JULPHAR) to provide needed assistance.
+do-252,Mercedes-Benz,70,,,,ro-40,German Red Cross,,1,1,outgoing,1066350,€1 million for people in Turkey and Syria affected by the severe earthquakes.
+do-255,Metro AG,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,50000,"Donation to support emergency relief, recovery efforts, and resilience building activities in the affected areas.
+"
+do-261,Mitsubishi Electric,70,,,,ro-196,Embassy of the Republic of Turkey in Japan [government],,1,1,outgoing,152672,JPY 20 million to aid victims of earthquakes that struck Southern Turkey.
+do-624,"Moderna, Inc.",70,,,,ro-54,International Medical Corps (IMC) [NGO],,1,1,outgoing,1000000,"Moderna Charitable Foundation commitment. The Foundation will also match eligible Moderna employee donations.
+"
+do-276,New York Life,70,,,,GB-COH-213890,Save the Children [NGO],,1,1,outgoing,100000,Immediate donation to Save the Children’s Emergency Fund.
+do-276,New York Life,70,,,,XM-DAC-41122,United Nations Children's Fund (UNICEF),,1,1,outgoing,100000,Cash donation paid through UNICEF USA.
+do-276,New York Life,70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,100000,"Commitment to match employee donations up to $100,000."
+do-281,Novartis AG,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,Commitment to helping the humanitarian effort.
+do-282,Novelis Corporation,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,26791,"Initial €25,000  contribution to help people in Turkey and Syria affected by the recent earthquake. Novelis will also match employee contributions.
+"
+do-283,Novo Nordisk A/S,70,,,,ro-200,Turkish Red Crescent / Türk Kızılay,,1,1,outgoing,1000000,Cash donation.
+do-283,Novo Nordisk A/S,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,700000,Cash donation to the Danish Red Cross and Danish Refugee Council for Syria relief.
+do-625,"Palo Alto Networks, Inc.",70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,100000,"Cash donation to several organizations on the ground. The company will also be matching any personal donations of their employees to these organizations.
+"
+do-626,Panasonic Holdings Corporation,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,260989,"JPY 35 million to the Japanese Red Cross Society, Peace Winds Japan, and other regional organization to be used for relief efforts for disaster victims and reconstruction of the affected areas."
+do-627,Pearson Education,70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,180000,"£150,000 to support immediate humanitarian relief efforts in Turkey and Syria.
+"
+do-295,"PepsiCo, Inc.",70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1200000,"PepsiCo and the PepsiCo Foundation donations, including employee donation matching, for humanitarian aid to Türkiye and Syria where the thousands impacted are facing sub-zero temperatures."
+do-302,Porsche AG,70,,,,ro-13,Aktion Deutschland Hilft [NGO],,1,1,outgoing,1068890,€1 million cash donation.
+do-628,POSCO,70,,,,ro-197,Korean Red Cross,,1,1,outgoing,1000000,Cash donation to support emergency relief efforts in Turkey.
+do-629,"Prudential Financial, Inc.",70,,,,US-EIN-13-5660870,International Rescue Committee (IRC) [NGO],,1,1,outgoing,150000,"Prudential Foundation donated an initial $150,000 to International Rescue Committee and will separately launch an employee matching gifts campaign up to $50,000.
+"
+do-303,PricewaterhouseCoopers,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,300000,PwC Charitable Foundation grants to CARE and Project HOPE to provide relief to communities impacted by earthquakes and aftershocks in the region. 
+do-630,Ripple Labs Inc.,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,250000,"Ripple will donate $250,000 in XRP tokens. The company will also match all crypto donations 2:1 up to $750,000 USD. Any unmet match amount will be donated.
+"
+do-312,Rockwell Automation,70,,,,ro-3,Unspecified Red Cross / Red Crescent Society (see notes),,1,1,outgoing,50000,Cash donation to the Red Cross to support relief efforts is Turkey and Syria.
+do-313,Royal Bank of Canada,70,,,,ro-17,Canadian Red Cross Society,,1,1,outgoing,150000,Cash donation for immediate and future humanitarian needs following the earthquake that hit the region.
+do-321,Samsung Electronics,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [government],,1,1,outgoing,1500000,Cash donation.
+do-321,Samsung Electronics,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1500000,"Donation of portable ultrasound diagnostic devices, home appliances for temporary lodgings for victims, digital educational tablets for children of affected families and home appliances repair service vehicles."
+do-443,Schwarz Group,70,,,,ro-40,German Red Cross,,1,1,outgoing,1075930,€1 million in emergency relief for the victims of the earthquake in the region.
+do-503,Shell plc,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1200000,"Vehicle and generator fuel donated to impacted areas. 
+"
+do-503,Shell plc,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [government],,1,1,outgoing,1650000,"TLY 30 million initial corporate donation to AFAD, as well as matching staff donations."
+do-332,Siemens,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,534265,"€500,000 to help victims of the earthquake in Türkiye and Syria. "
+do-631,Siemens Healthineers,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,534265,"€500,000 to help victims of the earthquake in Türkiye and Syria. "
+do-342,Sony Group,70,,,,GB-COH-213890,Save the Children [NGO],,1,1,outgoing,74224,"JPY 10 million from the ""Emergency Disaster and Recovery Fund for Children"" jointly operated by Sony and Save the Children Japan."
+do-342,Sony Group,70,,,,ro-1,Multiple (see notes),,1,1,outgoing,111336,"JPY 15 million cash donation to UNICEF, UNHCR, and Médecins Sans Frontières (MSF). "
+do-342,Sony Group,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,46354,Donation from Sony Music Group.
+do-632,Starbucks Corporation,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,"The Starbucks Foundation, Starbucks Corporation, and Alshaya Group have committed at least $1 million for nonprofits focused on providing immediate relief and aid."
+do-633,Sumitomo Corporation,70,,,,ro-196,Embassy of the Republic of Turkey in Japan [government],,1,1,outgoing,66748,9 million JPY cash donation.
+do-633,Sumitomo Corporation,70,,,,XM-DAC-41121,United Nations High Commissioner for Refugees (UNHCR),,1,1,outgoing,14827,2 million JPY cash donation.
+do-633,Sumitomo Corporation,70,,,,ro-198,Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [government],,1,1,outgoing,7413,1 million JPY cash donation.
+do-69,Boeing ,70,,,,ro-5,American Red Cross,,1,1,outgoing,500000,Cash donation for relief efforts in Turkiye.
+do-370,Toyota Motor Corporation,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1067425,"€1 million for immediate needs including food, water, clothing and shelter."
+do-634,Trane Technologies,70,,,,ro-195,Anadolu Halk ve Barış Platformu (AHBAP) [NGO],,1,1,outgoing,100000,Donation to support local NGO.
+do-374,"Uber Technologies, Inc.",70,,,,ro-195,Anadolu Halk ve Barış Platformu (AHBAP) [NGO],,1,1,outgoing,100000,Donation to support local NGO.
+do-418,"United Parcel Service, Inc.",70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,Commitment of at least $1 million in logistics support.
+do-395,Volkswagen AG,70,,,,ro-132,UNO-Flüchtlingshilfe (Germany for UNHCR),,1,1,outgoing,533327,"€500,000 donation to support regions affected by the earthquake in Turkiye and Syria."
+do-395,Volkswagen AG,70,,,,ro-40,German Red Cross,,1,1,outgoing,533327,"€500,000 donation to support regions affected by the earthquake in Turkiye and Syria."
+do-642,Warner Bros. Entertainment Inc.,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,Pledge to donate  to local and global charities to help aid in the humanitarian crisis.
+do-643,Xerox Holdings Corporation,70,,,,GB-COH-213890,Save the Children [NGO],,1,1,outgoing,25000,Cash donation to improve the lives of children and providing emergency aid.
+do-644,Yardi Systems,70,,,,ro-2,Unspecified (see notes),,1,1,outgoing,1000000,Cash donation to four (unspecified) NGOs working in Turkey and Syria to provide humanitarian relief.
+do-245,Marks & Spencer,70,,,,GB-CHC-220949,British Red Cross Society ,,1,1,outgoing,60612,"£50,000 cash donation."
+do-1,3M,70,,,,ro-201,AKUT Search and Rescue Association,,1,1,outgoing,60000,Donation of protective items.
+do-1,3M,70,,,,ro-202,Ministry of Health of the Republic of Türkiye [government],,1,1,outgoing,100000,Donation of a medical device.
+do-520,Coloplast A/S,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,71713,"CHF 33,000 for Syria response."
+do-521,Freshfields Service Company,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,3180,CHF 987 for Syria response.
+do-522,Heubach Colorants Germany GMBH,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,1309,"CHF 1,200 for Syria response."
+do-231,KPMG LLP,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,6546,"CHF 6,000 for Syria response."
+do-278,Nike Foundation,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,765362,"CHF 231,849 for Syria response."
+do-281,Novartis AG,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,545458,"CHF 250,000 for Syria response."
+do-7,Accenture,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,587530,"CHF 538,621 for Turkiye response."
+do-63,Bloomberg L.P.,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,85000,"CHF 77,924 for Turkiye response."
+do-115,Danone S.A.,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,541045,"CHF 496,006 for Turkiye response."
+do-304,Procter & Gamble,70,,,,XM-DAC-21018,International Federation of Red Cross and Red Crescent Societies (IFRC),,1,1,outgoing,229210,"CHF 210,130 for Turkiye response."
