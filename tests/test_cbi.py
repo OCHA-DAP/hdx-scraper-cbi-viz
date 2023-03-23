@@ -40,7 +40,7 @@ class TestCBI:
                     use_saved=True,
                 ) as retriever:
                     today = "2022-06-02"
-                    start(configuration, today, retriever, temp_folder)
+                    start(configuration, today, retriever, temp_folder, "ukraine")
                 for filename in (
                     "flows",
                     "transactions",

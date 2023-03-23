@@ -7,8 +7,8 @@ from hdx.utilities.text import get_numeric_if_possible
 logger = logging.getLogger(__name__)
 
 
-def start(configuration, today, retriever, output_dir):
-    dataset = Dataset.read_from_hdx(configuration["name"])
+def start(configuration, today, retriever, output_dir, whattorun):
+    dataset = Dataset.read_from_hdx(configuration[f"dataset_{whattorun}"])
     resource = dataset.get_resource()
     header, iterator = retriever.get_tabular_rows(resource["url"], dict_form=True)
     totals = {"overall": 0, "spending": 0, "commitments": 0}
