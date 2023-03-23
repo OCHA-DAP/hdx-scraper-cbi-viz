@@ -34,6 +34,9 @@ def parse_args():
     parser.add_argument(
         "-usv", "--use_saved", default=False, action="store_true", help="Use saved data"
     )
+    parser.add_argument(
+        "-wh", "--what", default="ukraine", help="What to run eg. ukraine, turkey"
+    )
     args = parser.parse_args()
     return args
 
@@ -43,17 +46,19 @@ def main(
     saved_dir,
     save,
     use_saved,
+    whattorun,
     **ignore,
 ):
     logger.info(f"##### hdx-scraper-cbi-viz version {VERSION:.1f} ####")
     configuration = Configuration.read()
+    output_dir = f"{output_dir}_{whattorun}"
     rmtree(output_dir, ignore_errors=True)
     mkdir(output_dir)
     with Download() as downloader:
         retriever = Retrieve(
             downloader,
             configuration["fallback_dir"],
-            saved_dir,
+            f"{saved_dir}_{whattorun}",
             output_dir,
             save,
             use_saved,
@@ -64,6 +69,7 @@ def main(
             today,
             retriever,
             output_dir,
+            whattorun,
         )
 
 
@@ -73,7 +79,7 @@ if __name__ == "__main__":
     if user_agent is None:
         user_agent = getenv("USER_AGENT")
         if user_agent is None:
-            user_agent = "hdx-scraper-iati-viz"
+            user_agent = "hdx-scraper-cbi-viz"
     preprefix = args.preprefix
     if preprefix is None:
         preprefix = getenv("PREPREFIX")
@@ -91,4 +97,5 @@ if __name__ == "__main__":
         saved_dir=args.saved_dir,
         save=args.save,
         use_saved=args.use_saved,
+        whattorun=args.what,
     )

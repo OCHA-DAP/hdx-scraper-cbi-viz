@@ -7,8 +7,8 @@ from hdx.utilities.text import get_numeric_if_possible
 logger = logging.getLogger(__name__)
 
 
-def start(configuration, today, retriever, output_dir):
-    dataset = Dataset.read_from_hdx(configuration["name"])
+def start(configuration, today, retriever, output_dir, whattorun):
+    dataset = Dataset.read_from_hdx(configuration[f"dataset_{whattorun}"])
     resource = dataset.get_resource()
     header, iterator = retriever.get_tabular_rows(resource["url"], dict_form=True)
     totals = {"overall": 0, "spending": 0, "commitments": 0}
@@ -20,7 +20,7 @@ def start(configuration, today, retriever, output_dir):
     flows = dict()
     transactions = list()
     for inrow in iterator:
-        activity_id = int(inrow["Transaction ID"])
+        activity_id = str(inrow["Transaction ID"])
         provider = inrow["Private sector donor"]
         provider_id = provider_name_to_id.get(provider)
         if not provider_id:

@@ -26,14 +26,14 @@ jobs:
         GSHEET_AUTH: ${{ secrets.GSHEET_AUTH }}
         UPDATESHEETS: ${{ secrets.UPDATESHEETS }}
       run: |
-        python run.py
+        python run.py --what=ukraine
         cp errors.log output
     - name: Deploy 🚀
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         branch: gh-pages
-        folder: output
-        target-folder: cbi
+        folder: output_ukraine
+        target-folder: ukraine
     - name: Send mail
       if: failure()
       uses: dawidd6/action-send-mail@v3
