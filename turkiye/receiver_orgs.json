@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2023-03-24T08:43:15.422038","#meta+receiver_orgs+num":28},"data":[
+{"metadata":{"#date+run":"2023-03-24T16:45:23.740946","#meta+receiver_orgs+num":27},"data":[
 {"#org+id+receiver":"ro-201","#org+name+receiver":"AKUT Search and Rescue Association"},
 {"#org+id+receiver":"ro-13","#org+name+receiver":"Aktion Deutschland Hilft [NGO]"},
 {"#org+id+receiver":"ro-5","#org+name+receiver":"American Red Cross"},
@@ -14,7 +14,6 @@
 {"#org+id+receiver":"ro-61","#org+name+receiver":"Japanese Red Cross Society"},
 {"#org+id+receiver":"ro-197","#org+name+receiver":"Korean Red Cross"},
 {"#org+id+receiver":"ro-202","#org+name+receiver":"Ministry of Health of the Republic of T\u00fcrkiye [government]"},
-{"#org+id+receiver":"ro-198","#org+name+receiver":"Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [Government]"},
 {"#org+id+receiver":"ro-198","#org+name+receiver":"Ministry of the Interior Disaster and Emergency Management Presidency (AFAD) [government]"},
 {"#org+id+receiver":"ro-1","#org+name+receiver":"Multiple (see notes)"},
 {"#org+id+receiver":"ro-66","#org+name+receiver":"M\u00e9decins Sans Fronti\u00e8res (MSF) [NGO]"},

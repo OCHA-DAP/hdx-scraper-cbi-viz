@@ -1,4 +1,4 @@
-{"metadata":{"#date+run":"2023-03-24T08:43:15.422038","#meta+reporting_orgs+num":95},"data":[
+{"metadata":{"#date+run":"2023-03-24T16:45:23.740946","#meta+reporting_orgs+num":96},"data":[
 {"#org+id+reporting":"do-1","#org+name+reporting":"3M"},
 {"#org+id+reporting":"do-15","#org+name+reporting":"ALDI SOUTH Group"},
 {"#org+id+reporting":"do-3","#org+name+reporting":"Abbott\u00a0Laboratories"},
@@ -78,6 +78,7 @@
 {"#org+id+reporting":"do-342","#org+name+reporting":"Sony Group"},
 {"#org+id+reporting":"do-632","#org+name+reporting":"Starbucks Corporation"},
 {"#org+id+reporting":"do-633","#org+name+reporting":"Sumitomo Corporation"},
+{"#org+id+reporting":"do-361","#org+name+reporting":"The Coca-Cola Company"},
 {"#org+id+reporting":"do-370","#org+name+reporting":"Toyota Motor Corporation"},
 {"#org+id+reporting":"do-634","#org+name+reporting":"Trane Technologies"},
 {"#org+id+reporting":"do-636","#org+name+reporting":"Turkcell \u0130leti\u015fim Hizmetleri A.\u015e."},
