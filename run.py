@@ -2,7 +2,7 @@ import argparse
 import logging
 from datetime import datetime
 from os import getenv, mkdir
-from os.path import join
+from os.path import join, expanduser
 from shutil import rmtree
 
 from cbi import start
@@ -14,6 +14,8 @@ from hdx.utilities.retriever import Retrieve
 
 setup_logging()
 logger = logging.getLogger()
+
+lookup = "hdx-scraper-cbi-viz"
 
 
 VERSION = 1.0
@@ -49,7 +51,7 @@ def main(
     whattorun,
     **ignore,
 ):
-    logger.info(f"##### hdx-scraper-cbi-viz version {VERSION:.1f} ####")
+    logger.info(f"##### {lookup} version {VERSION:.1f} ####")
     configuration = Configuration.read()
     output_dir = f"{output_dir}_{whattorun}"
     rmtree(output_dir, ignore_errors=True)
@@ -75,23 +77,11 @@ def main(
 
 if __name__ == "__main__":
     args = parse_args()
-    user_agent = args.user_agent
-    if user_agent is None:
-        user_agent = getenv("USER_AGENT")
-        if user_agent is None:
-            user_agent = "hdx-scraper-cbi-viz"
-    preprefix = args.preprefix
-    if preprefix is None:
-        preprefix = getenv("PREPREFIX")
-    hdx_site = args.hdx_site
-    if hdx_site is None:
-        hdx_site = getenv("HDX_SITE", "prod")
     facade(
         main,
         hdx_read_only=True,
-        user_agent=user_agent,
-        preprefix=preprefix,
-        hdx_site=hdx_site,
+        user_agent_config_yaml=join(expanduser("~"), ".useragents.yml"),
+        user_agent_lookup=lookup,
         project_config_yaml=join("config", "project_configuration.yml"),
         output_dir=args.output_dir,
         saved_dir=args.saved_dir,
