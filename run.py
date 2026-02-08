@@ -1,9 +1,10 @@
 import argparse
 import logging
-from datetime import datetime
-from os import getenv, mkdir
+from os import mkdir
 from os.path import join, expanduser
 from shutil import rmtree
+
+from hdx.utilities.dateparse import now_utc
 
 from cbi import start
 from hdx.api.configuration import Configuration
@@ -65,7 +66,7 @@ def main(
             save,
             use_saved,
         )
-        today = datetime.utcnow().isoformat()
+        today = now_utc().isoformat()
         start(
             configuration,
             today,
